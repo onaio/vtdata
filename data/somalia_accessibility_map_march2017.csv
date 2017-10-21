@@ -1,0 +1,75 @@
+district,district_id,accessibility,color,level
+Zeylac,R1720142,Accessible,green,1
+Lughaye,R1720122,Accessible,green,1
+Borama,R1720082,Accessible,green,1
+Baki,R1720075,Accessible,green,1
+Gebiley,R1720105,Accessible,green,1
+Hargeysa,R1720110,Accessible,green,1
+Berbera,R1720081,Accessible,green,1
+Sheikh,R1720134,Accessible,green,1
+Owdweyne,R1720126,Accessible,green,1
+Burco,R1720086,Accessible,green,1
+Ceel Afweyn,R1720095,Accessible,green,1
+Caynabo,R1720094,Accessible,green,1
+Ceerigaabo,R1720099,Accessible,green,1
+Xudun,R1720140,Accessible,green,1
+Laas Caanood,R1720120,Accessible,green,1
+Laasqoray,R1720121,Accessible,green,1
+Taleex,R1720135,Accessible,green,1
+Garoowe,R1720109,Accessible,green,1
+Bossaso,R1720083,Accessible,green,1
+Qardho,R1720129,Accessible,green,1
+Qandala,R1720127,Accessible,green,1
+Caluula,R1720093,Accessible,green,1
+Iskushuban,R1720112,Accessible,green,1
+Bandarbeyla,R1720077,Accessible,green,1
+Eyl,R1720104,Accessible,green,1
+Burtinle,R1720087,Accessible,green,1
+Jariiban,R1720115,Accessible,green,1
+Gaalkacyo,R1720107,Accessible,green,1
+Galdogob,R1720106,Accessible,green,1
+Hobyo,R1720111,Accessible,green,1
+Cadaado,R1720091,Accessible,green,1
+Xarardheere,R1720139,Accessible,green,1
+Dhuusamarreeb,R1720100,Accessible,green,1
+Cabudwaaq,R1720090,Accessible,green,1
+Buuhoodle,R1720088,Accessible,green,1
+Ceel Dheer,R1720098,Not Accessible,red,3
+Adan Yabaal,R1720069,Not Accessible,red,3
+Ceel Buur,R1720097,Partially Accessible,yellow,2
+Belet Weyne,R1720079,Partially Accessible,yellow,2
+Bulo Burto,R1720085,Partially Accessible,yellow,2
+Jalalaqsi,R1720113,Partially Accessible,yellow,2
+Cadale,R1720092,Partially Accessible,yellow,2
+Balcad,R1720076,Accessible,green,1
+Jowhar,R1720117,Accessible,green,1
+Wanla Weyn,R1720138,Accessible,green,1
+Banadir,R1720125,Accessible,green,1
+Afgooye,R1720070,Not Accessible,red,3
+Tayeeglow,R1720136,Not Accessible,red,3
+Ceel Barde,R1720096,Accessible,green,1
+Xudur,R1720141,Partially Accessible,yellow,2
+Waajid,R1720137,Partially Accessible,yellow,2
+Rab Dhuure,R1720131,Partially Accessible,yellow,2
+Baydhaba,R1720074,Partially Accessible,yellow,2
+Buur Hakaba,R1720089,Partially Accessible,yellow,2
+Qoryooley,R1720130,Partially Accessible,yellow,2
+Marka,R1720124,Partially Accessible,yellow,2
+Kurtunwaarey,R1720119,Partially Accessible,yellow,2
+Baraawe,R1720078,Partially Accessible,yellow,2
+Sablaale,R1720133,Not Accessible,red,3
+Diinsoor,R1720101,Partially Accessible,yellow,2
+Qansax Dheere,R1720128,Partially Accessible,yellow,2
+Garbahaarey,R1720108,Partially Accessible,yellow,2
+Luuq,R1720123,Accessible,green,1
+Doolow,R1720102,Accessible,green,1
+Belet Xaawo,R1720080,Accessible,green,1
+Ceel Waaq,R1720103,Accessible,green,1
+Baardheere,R1720072,Partially Accessible,yellow,2
+Saakow,R1720132,Not Accessible,red,3
+Buaale,R1720084,Not Accessible,red,3
+Jilib,R1720116,Not Accessible,red,3
+Jamaame,R1720114,Not Accessible,red,3
+Kismaayo,R1720118,Partially Accessible,yellow,2
+Badhaadhe,R1720073,Partially Accessible,yellow,2
+Afmadow,R1720071,Partially Accessible,yellow,2

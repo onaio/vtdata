@@ -1,0 +1,3205 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.357697,8.483298633 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"6/7/1948",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Dhakhtarka Wan",
+    "site_id":"tpm001",
+    "staffing_score":43,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.7565345,10.65359452 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Bossaso",
+    "type_of_site":"Fixed",
+    "visit_date":"5/7/2000",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Ufayn",
+    "site_id":"tpm002",
+    "staffing_score":56,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0771801,4.163398473 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Fixed",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":29,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.37410374,8.485762518 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"10/18/2004",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Golkhatumo",
+    "site_id":"tpm004",
+    "staffing_score":46,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87560661,3.930078775 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Fixed",
+    "visit_date":"10/12/1992",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Section 3 Belet Hawa",
+    "site_id":"tpm005",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.65423948,3.136988601 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"9/9/2005",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Mursal",
+    "site_id":"tpm006",
+    "staffing_score":28,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.35288186,8.467625117 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"6/4/2008",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Faraxaskule",
+    "site_id":"tpm007",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.29726156,4.02868221 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Fixed",
+    "visit_date":"2/1/2014",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Gedoweyne",
+    "site_id":"tpm008",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.23000389,10.28197207 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"3/10/1993",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Iskushuban",
+    "site_id":"tpm009",
+    "staffing_score":20,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.22923583,10.28160021 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"6/10/2010",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Iskushuban",
+    "site_id":"tpm009",
+    "staffing_score":43,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.35616647,8.481575285 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"2/14/2012",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Laas Caanood",
+    "site_id":"tpm010",
+    "staffing_score":13,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.09020721,4.160291597 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"1/24/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"CEDA",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":100,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.24957698,9.97793422 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"6/11/2011",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Iskushuban",
+    "site_id":"tpm009",
+    "staffing_score":50,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.24957698,9.97793422 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"6/11/2011",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Iskushuban",
+    "site_id":"tpm009",
+    "staffing_score":50,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.67608851,3.121839948 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"6/11/2015",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Towfiiq",
+    "site_id":"tpm011",
+    "staffing_score":29,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87622585,3.923691467 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Fixed",
+    "visit_date":"10/2/1992",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Section 4 Belet Hawa",
+    "site_id":"tpm012",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.35675093,8.479091464 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"8/12/1974",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Jaamalaye",
+    "site_id":"tpm013",
+    "staffing_score":52,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87908963,3.935091559 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Fixed",
+    "visit_date":"11/1/2016",
+    "dfid_partner":"UNICEF",
+    "ngo":"HIRDA",
+    "site_name":"Waberi",
+    "site_id":"tpm014",
+    "staffing_score":20,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.08318622,4.163353599 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Fixed",
+    "visit_date":"3/6/2013",
+    "dfid_partner":"UNICEF",
+    "ngo":"CEDA",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.64968614,3.116416324 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"6/12/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Horseed",
+    "site_id":"tpm015",
+    "staffing_score":3,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87564778,3.929975809 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"6/15/1993",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Section Five Belet Hawa",
+    "site_id":"tpm016",
+    "staffing_score":25,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.36076359,8.482417835 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"2/9/2010",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Laas Caanood",
+    "site_id":"tpm010",
+    "staffing_score":0,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.65348988,3.128909808 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"6/16/2016",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Berdale",
+    "site_id":"tpm017",
+    "staffing_score":3,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.88546067,3.931069445 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"6/16/2015",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Section Five Belet Hawa",
+    "site_id":"tpm016",
+    "staffing_score":67,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0768751,4.163074796 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"5/18/2014",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.08318622,4.163353599 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Fixed",
+    "visit_date":"3/6/2013",
+    "dfid_partner":"UNICEF",
+    "ngo":"CEDA",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.2729927,10.41814882 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"6/13/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Xaafuun",
+    "site_id":"tpm018",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.36668965,8.474026503 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"8/8/2005",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Sayid Maxamed",
+    "site_id":"tpm019",
+    "staffing_score":63,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.65739605,3.122472381 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"6/16/2016",
+    "dfid_partner":"UNICEF",
+    "ngo":"SOS CVI",
+    "site_name":"Berdale",
+    "site_id":"tpm017",
+    "staffing_score":1,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.35611744,8.481483033 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"8/24/2005",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Shacabka",
+    "site_id":"tpm020",
+    "staffing_score":0,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87422304,3.920317647 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Belet Xaawo",
+    "type_of_site":"Fixed",
+    "visit_date":"2/20/2006",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Section 4 Belet Hawa",
+    "site_id":"tpm012",
+    "staffing_score":72,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.66444251,3.126617532 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"4/15/2012",
+    "dfid_partner":"UNICEF",
+    "ngo":"GREDO",
+    "site_name":"Baidoa Town Horseed Village",
+    "site_id":"tpm021",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.07495259,11.28920948 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Iskushuban",
+    "type_of_site":"Fixed",
+    "visit_date":"1/7/2007",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Baargaal",
+    "site_id":"tpm022",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.08334728,4.16327159 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Doolow",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"1/3/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Doolow Town",
+    "site_id":"tpm003",
+    "staffing_score":20,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.65237338,3.108055117 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"6/17/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Isha",
+    "site_id":"tpm023",
+    "staffing_score":10,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.47831493,9.157713439 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Xudun",
+    "type_of_site":"Fixed",
+    "visit_date":"3/4/1992",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Xudun",
+    "site_id":"tpm024",
+    "staffing_score":70,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.63740159,3.102546048 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"4/5/2013",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Baidoa Town",
+    "site_id":"tpm025",
+    "staffing_score":30,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6670423,3.112606751 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"5/19/2015",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Darusalam",
+    "site_id":"tpm026",
+    "staffing_score":0,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.65787482,3.121217077 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"11/19/2016",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Baidoa Town",
+    "site_id":"tpm025",
+    "staffing_score":0,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.56071324,3.780029944 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"1/29/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"EDRO",
+    "site_name":"Luuq District",
+    "site_id":"tpm027",
+    "staffing_score":17,
+    "facility_score":2.33
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.22573675,8.24116243 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"8/5/1999",
+    "dfid_partner":"UNICEF",
+    "ngo":"WORLD CONCERN",
+    "site_name":"Kalabaydh",
+    "site_id":"tpm028",
+    "staffing_score":17,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.54442994,3.800314433 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Fixed",
+    "visit_date":"9/20/2011",
+    "dfid_partner":"UNICEF",
+    "ngo":"TROCAIRE",
+    "site_name":"Akara",
+    "site_id":"tpm029",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.64212004,3.128808739 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"8/10/2015",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Baidoa Town",
+    "site_id":"tpm025",
+    "staffing_score":19,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.66655232,3.126388482 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bay",
+    "district":"Baidoa",
+    "type_of_site":"Fixed",
+    "visit_date":"9/20/2011",
+    "dfid_partner":"UNICEF",
+    "ngo":"SOS CVI",
+    "site_name":"Berdale",
+    "site_id":"tpm017",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.96466179,8.752740767 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"10/3/2000",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Yagori",
+    "site_id":"tpm030",
+    "staffing_score":30,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.05698403,11.87046604 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Caluula",
+    "type_of_site":"Fixed",
+    "visit_date":"9/17/2013",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Bareeda",
+    "site_id":"tpm031",
+    "staffing_score":0,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.75338805,11.96315891 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Caluula",
+    "type_of_site":"Fixed",
+    "visit_date":"10/18/2015",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Caluula Town",
+    "site_id":"tpm032",
+    "staffing_score":50,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.52400476,11.79029945 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Bari",
+    "district":"Caluula",
+    "type_of_site":"Fixed",
+    "visit_date":"6/19/2002",
+    "dfid_partner":"UNICEF",
+    "ngo":"HADO",
+    "site_name":"Xaabo",
+    "site_id":"tpm033",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.62087944,8.938538417 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Sool",
+    "district":"Laas Caanood",
+    "type_of_site":"Fixed",
+    "visit_date":"5/5/2001",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Oog",
+    "site_id":"tpm034",
+    "staffing_score":23,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.54626865,3.798562721 ]
+    },
+    "properties": {
+    "period":"Phase 1",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Mobile Headquarters",
+    "visit_date":"4/23/2016",
+    "dfid_partner":"UNICEF",
+    "ngo":"USWRO",
+    "site_name":"Luuq Town",
+    "site_id":"tpm035",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0769776,4.1632149 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Dolow",
+    "type_of_site":"Fixed",
+    "visit_date":"2/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Dolow Rhc",
+    "site_id":"tpm036",
+    "staffing_score":23,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.44655537,6.744783287 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"2/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Calanley Bsfp Fdp",
+    "site_id":"tpm037",
+    "staffing_score":40,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87561204,3.930162009 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa",
+    "type_of_site":"Fixed",
+    "visit_date":"2/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Health Centre",
+    "site_id":"tpm038",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.2086912,4.7347171 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Hiraan",
+    "district":"Belet Weyne",
+    "type_of_site":"Fixed",
+    "visit_date":"2/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WARDI",
+    "site_name":"Howl Wadaag Mch",
+    "site_id":"tpm039",
+    "staffing_score":29,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0771714,4.1633401 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Dolow",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Stabilization Center",
+    "site_id":"tpm040",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.30106082,9.69415998 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Idhanka Mch",
+    "site_id":"tpm041",
+    "staffing_score":39,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.43233543,6.759027742 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Horseed Tsfp, Howl-Wadaag",
+    "site_id":"tpm042",
+    "staffing_score":64,
+    "facility_score":0
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.61837079,7.35413312 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Xarfo",
+    "site_id":"tpm043",
+    "staffing_score":29,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.87632397,3.923655739 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Fixed",
+    "visit_date":"4/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Khalil Hospital Sc",
+    "site_id":"tpm044",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.2076973,4.7431476 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Hiraan",
+    "district":"Belet Weyne",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Hoodley",
+    "site_id":"tpm045",
+    "staffing_score":14,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.87100079,9.484978642 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceel Afweyn",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HEAL ",
+    "site_name":"Gar Adag Mch",
+    "site_id":"tpm046",
+    "staffing_score":60,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.04428817,10.01062314 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Lasqoray",
+    "type_of_site":"Fixed",
+    "visit_date":"3/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Srcs Waciye",
+    "site_id":"tpm047",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.44337751,6.756131999 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Bulo Bisharo Bsfp, Howlwadaag, Galkayo",
+    "site_id":"tpm048",
+    "staffing_score":14,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.89405177,3.956328496 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Fixed",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Primary Healthy Unit",
+    "site_id":"tpm049",
+    "staffing_score":0,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.02683115,4.094517287 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Dolow",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Surgudud Phu",
+    "site_id":"tpm050",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.69859375,9.973754224 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceel Afweyn",
+    "type_of_site":"Fixed",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HEAL ",
+    "site_name":"Huluul",
+    "site_id":"tpm051",
+    "staffing_score":0,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.20699398,4.735189131 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Hiraan",
+    "district":"Belet Weyne",
+    "type_of_site":"Fixed",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WARDI",
+    "site_name":"Hospital",
+    "site_id":"tpm052",
+    "staffing_score":60,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.19485551,10.37320808 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Yufle Mch",
+    "site_id":"tpm053",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.26782319,4.111421658 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Dolow",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Sadhumay Phu",
+    "site_id":"tpm054",
+    "staffing_score":25,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.83816804,3.845256195 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Haroo",
+    "site_id":"tpm055",
+    "staffing_score":20,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.68346621,5.236419209 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Hiraan",
+    "district":"Belet Weyne",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Sci Office In Mataban",
+    "site_id":"tpm056",
+    "staffing_score":43,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.49030434,7.05741351 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH",
+    "site_name":"Cagaaran",
+    "site_id":"tpm057",
+    "staffing_score":14,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.01350915,10.43847508 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Berbera Stabilization Center",
+    "site_id":"tpm058",
+    "staffing_score":73,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.35056034,9.77687156 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Baki",
+    "type_of_site":"Fixed",
+    "visit_date":"5/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Dilla MCH",
+    "site_id":"tpm059",
+    "staffing_score":53,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.35070927,9.77703446 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Baki",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"6/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Dila Mhc Mobile Team",
+    "site_id":"tpm060",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.44286141,6.761330942 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Horumar Mch, Galkayo",
+    "site_id":"tpm061",
+    "staffing_score":44,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.29716966,4.028398111 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Gedweine Health Center",
+    "site_id":"tpm062",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.89452593,3.835923288 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Sharmadaq",
+    "site_id":"tpm063",
+    "staffing_score":0,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.52604034,5.199422421 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Hiraan",
+    "district":"Belet Weyne",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HIRDO",
+    "site_name":"Mataban Mch",
+    "site_id":"tpm064",
+    "staffing_score":43,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.36550806,10.62615665 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH SL",
+    "site_name":"Cerigabo Sc",
+    "site_id":"tpm065",
+    "staffing_score":60,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.52196685,7.19253327 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Ba'Aadweyn",
+    "site_id":"tpm066",
+    "staffing_score":77,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.45789695,11.69168024 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Allula",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Murcanyo Healthpost",
+    "site_id":"tpm067",
+    "staffing_score":67,
+    "facility_score":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.17061318,9.948346058 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Sheikh Osman Health Centar",
+    "site_id":"tpm068",
+    "staffing_score":14,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.18164862,9.935802182 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Borama Central Health Center",
+    "site_id":"tpm069",
+    "staffing_score":58,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.43340528,6.764461103 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Horumar Tsfp",
+    "site_id":"tpm070",
+    "staffing_score":64,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.42717081,6.760465077 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRO",
+    "site_name":"Bulo Kontrol Bsfp",
+    "site_id":"tpm071",
+    "staffing_score":67,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.35476959,4.071371038 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Dolow",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Koreey Phu",
+    "site_id":"tpm072",
+    "staffing_score":25,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.36771648,10.62262159 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Barwaaqo Mch",
+    "site_id":"tpm073",
+    "staffing_score":63,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.91382967,3.957212778 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Qurac Bilaash",
+    "site_id":"tpm074",
+    "staffing_score":20,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.02329723,10.44131373 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"8/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Jaamalaye Mch ",
+    "site_id":"tpm075",
+    "staffing_score":41,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.17926937,9.928779855 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"9/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Shed Dheer Hc",
+    "site_id":"tpm076",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.02855998,7.03719177 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"9/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Galdogob",
+    "site_id":"tpm077",
+    "staffing_score":36,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.54454192,3.800238348 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Fixed",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Luuq Stabilzation Center",
+    "site_id":"tpm078",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.30479309,10.80041307 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Maydh Mch",
+    "site_id":"tpm079",
+    "staffing_score":55,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.93394617,3.892273155 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Malmaley Primary Health Unit",
+    "site_id":"tpm080",
+    "staffing_score":0,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.54824068,3.786116014 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Fixed",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Akara Health Center",
+    "site_id":"tpm081",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.96368529,6.476172692 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"CESVI",
+    "site_name":"Bandiradley Mch",
+    "site_id":"tpm082",
+    "staffing_score":42,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.98370709,3.997023896 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Hudley",
+    "site_id":"tpm083",
+    "staffing_score":0,
+    "facility_score":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.1332523,10.5645952 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Hafun",
+    "type_of_site":"Fixed",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Hurdiyo Mch",
+    "site_id":"tpm084",
+    "staffing_score":67,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 51.27327684,10.41819602 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Hafun",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Xafuun Referral Hospital",
+    "site_id":"tpm085",
+    "staffing_score":53,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.01086896,10.4419377 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"7/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Berbera Central",
+    "site_id":"tpm086",
+    "staffing_score":17,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.37253126,10.61779715 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"14/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Kulmiye Mch Hq",
+    "site_id":"tpm087",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.37218913,10.61802974 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Kulmiye Mch",
+    "site_id":"tpm088",
+    "staffing_score":44,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.98711502,10.17558724 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"9/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Laas Iidle Hc",
+    "site_id":"tpm089",
+    "staffing_score":57,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.98209898,10.05226215 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Laso Dawaco Mch",
+    "site_id":"tpm090",
+    "staffing_score":9,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.24403819,7.17658597 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Galdogob",
+    "type_of_site":"Fixed",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH",
+    "site_name":"Bursalax Hc",
+    "site_id":"tpm091",
+    "staffing_score":58,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.17944386,9.936540475 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Sc Borama Hospital",
+    "site_id":"tpm092",
+    "staffing_score":46,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.40427115,10.38348227 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"10/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Bulahaar Health Centre",
+    "site_id":"tpm093",
+    "staffing_score":20,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.33166286,9.942455929 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Sheikh",
+    "type_of_site":"Fixed",
+    "visit_date":"15/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Suuqsade Mch",
+    "site_id":"tpm094",
+    "staffing_score":45,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6971623,9.95416311 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Berbera",
+    "type_of_site":"Fixed",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Abdaal Mch",
+    "site_id":"tpm095",
+    "staffing_score":55,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.18483935,9.931441415 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Shifo",
+    "site_id":"tpm096",
+    "staffing_score":26,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.31770314,6.95133977 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH",
+    "site_name":"Beyra Hc",
+    "site_id":"tpm097",
+    "staffing_score":29,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.41207132,6.77091481 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"14/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH",
+    "site_name":"Doonyaale Hc",
+    "site_id":"tpm098",
+    "staffing_score":63,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.8131045,9.4932283 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Banderbeyla",
+    "type_of_site":"Fixed",
+    "visit_date":"15/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Bandar Bayla Health Referral  Centre",
+    "site_id":"tpm099",
+    "staffing_score":57,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.19499113,9.933825824 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"12/8/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Qorgab Hc",
+    "site_id":"tpm100",
+    "staffing_score":54,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.36772317,10.01287768 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Baki",
+    "type_of_site":"Fixed",
+    "visit_date":"14/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Baki MCH",
+    "site_id":"tpm101",
+    "staffing_score":87,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.01098336,10.08951454 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"15/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Quljed Hc",
+    "site_id":"tpm102",
+    "staffing_score":31,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.51997397,3.796959138 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Luuq",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"16/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Dogob Village",
+    "site_id":"tpm103",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.42834559,6.77164385 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"15/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"MOH",
+    "site_name":"Galkacyo North Central Hc",
+    "site_id":"tpm104",
+    "staffing_score":27,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.41306319,6.85086636 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"16/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Halaboqad Hc",
+    "site_id":"tpm105",
+    "staffing_score":82,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.08788285,10.19465236 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"17/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Boon Hc",
+    "site_id":"tpm106",
+    "staffing_score":48,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.48843644,6.434551731 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"CESVI",
+    "site_name":"Docol Mch/Phc",
+    "site_id":"tpm107",
+    "staffing_score":13,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.52035264,6.265845421 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Galkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"14/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"CESVI",
+    "site_name":"Wargalo Mch/Phc",
+    "site_id":"tpm108",
+    "staffing_score":10,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.85131623,6.013735774 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"14/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Ceel Guula Mch/Phc",
+    "site_id":"tpm109",
+    "staffing_score":33,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.70563566,5.7898468 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"15/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Bajelo Mch/Phc",
+    "site_id":"tpm110",
+    "staffing_score":0,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.42330706,6.77257136 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"17/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SDRA",
+    "site_name":"Sdra Office In Galkacyo",
+    "site_id":"tpm111",
+    "staffing_score":91,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.90681976,9.787876019 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sahil",
+    "district":"Sheikh",
+    "type_of_site":"Fixed",
+    "visit_date":"17/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"HPA",
+    "site_name":"Go'Da Wayn Mch",
+    "site_id":"tpm112",
+    "staffing_score":57,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.95534508,10.58806315 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceerigaabo",
+    "type_of_site":"Fixed",
+    "visit_date":"16/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Gudmo Biyo Cas Mch",
+    "site_id":"tpm113",
+    "staffing_score":40,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.21729315,9.925118837 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Sanaag",
+    "district":"Ceel Afweyn",
+    "type_of_site":"Fixed",
+    "visit_date":"19/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Ceel Afweyn Mch",
+    "site_id":"tpm114",
+    "staffing_score":25,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 50.2082138,9.322087965 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Banderbeyla",
+    "type_of_site":"Fixed",
+    "visit_date":"17/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Dhuudo Health Center",
+    "site_id":"tpm115",
+    "staffing_score":36,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.12859535,5.425990735 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"16/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Wisil Phc",
+    "site_id":"tpm116",
+    "staffing_score":18,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 49.91877303,9.228565497 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Bari",
+    "district":"Banderbeyla",
+    "type_of_site":"Fixed",
+    "visit_date":"19/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"SCI",
+    "site_name":"Dhudhub Healthpost",
+    "site_id":"tpm117",
+    "staffing_score":33,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.90974193,5.324849265 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"17/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Bacaadweyne Phc",
+    "site_id":"tpm118",
+    "staffing_score":40,
+    "facility_score":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.15886194,7.09381544 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Jariiban",
+    "type_of_site":"Fixed",
+    "visit_date":"21/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Srcs Balibusle Hc",
+    "site_id":"tpm119",
+    "staffing_score":29,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.85254809,7.21386943 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Jariiban",
+    "type_of_site":"Fixed",
+    "visit_date":"22/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCRS",
+    "site_name":"Jariiban Hc",
+    "site_id":"tpm120",
+    "staffing_score":25,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.83816846,10.32634443 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Zeylac",
+    "type_of_site":"Fixed",
+    "visit_date":"19/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Xariirad Mch",
+    "site_id":"tpm121",
+    "staffing_score":42,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.83790595,10.32635485 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Zeylac",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"20/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Xariirad Mobile Team",
+    "site_id":"tpm122",
+    "staffing_score":100,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.89175692,10.50975161 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Zeylac",
+    "type_of_site":"Fixed",
+    "visit_date":"21/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Abdiqadir Mch",
+    "site_id":"tpm123",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.19143168,10.36933018 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Zeylac",
+    "type_of_site":"Fixed",
+    "visit_date":"22/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Fiqi Adan Mch",
+    "site_id":"tpm124",
+    "staffing_score":18,
+    "facility_score":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.07087351,10.62058985 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Zeylac",
+    "type_of_site":"Fixed",
+    "visit_date":"23/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Jidhi Mch",
+    "site_id":"tpm125",
+    "staffing_score":42,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.43447701,10.60699744 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Fixed",
+    "visit_date":"24/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Geerisa Mch",
+    "site_id":"tpm126",
+    "staffing_score":57,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.91310319,3.977354178 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Gedo",
+    "district":"Bulla Hawa ",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"13/08/2017",
+    "dfid_partner":"SNS+",
+    "ngo":"Trocaire",
+    "site_name":"Malkariyey",
+    "site_id":"tpm127",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.29817594,5.310633901 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"26/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Gawaan Mch/Phc",
+    "site_id":"tpm128",
+    "staffing_score":29,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.26315919,5.001297952 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Xarardheere",
+    "type_of_site":"Fixed",
+    "visit_date":"22/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"DEH",
+    "site_name":"Ceel Huur Mch/Phc",
+    "site_id":"tpm129",
+    "staffing_score":67,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.34973572,5.886964867 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"31/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Ceel Dibir Mch/Phc",
+    "site_id":"tpm130",
+    "staffing_score":57,
+    "facility_score":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.25187409,5.228203283 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"27/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Qararow Mch/Phc",
+    "site_id":"tpm131",
+    "staffing_score":33,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.23978699,5.576623353 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"28/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Hero Dhagahley Mch/Phc",
+    "site_id":"tpm132",
+    "staffing_score":43,
+    "facility_score":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.12871356,5.425922018 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"29/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Wisil Town Mch",
+    "site_id":"tpm133",
+    "staffing_score":40,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.43424727,10.60706003 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"24/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Geerisa Mobile Team",
+    "site_id":"tpm134",
+    "staffing_score":57,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.94122096,10.68264914 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Fixed",
+    "visit_date":"29/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Lughaya Mch",
+    "site_id":"tpm135",
+    "staffing_score":53,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.94129345,10.68257962 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"29/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Lughaya Mch",
+    "site_id":"tpm135",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.29464299,10.2869453 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Fixed",
+    "visit_date":"30/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Fadhi Xun Mch",
+    "site_id":"tpm136",
+    "staffing_score":58,
+    "facility_score":2.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.80532217,10.31116762 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Fixed",
+    "visit_date":"31/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Gargaara Mch",
+    "site_id":"tpm137",
+    "staffing_score":17,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.78459223,10.04294457 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Baki",
+    "type_of_site":"Fixed",
+    "visit_date":"5/9/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Alixaydh Mch",
+    "site_id":"tpm138",
+    "staffing_score":58,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.43508411,6.765669589 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Gaalkacyo",
+    "type_of_site":"Fixed",
+    "visit_date":"9/9/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SRCS",
+    "site_name":"Srcs Mch, Horumar Village.",
+    "site_id":"tpm139",
+    "staffing_score":43,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.36745768,10.01274489 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Baki",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"16/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Baki",
+    "site_id":"tpm140",
+    "staffing_score":20,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.52496788,5.350389078 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Hobyo",
+    "type_of_site":"Fixed",
+    "visit_date":"24/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"Mercy USA",
+    "site_name":"Hobyo Town Mch/Phc",
+    "site_id":"tpm141",
+    "staffing_score":50,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6236838,10.23850628 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Lughaye",
+    "type_of_site":"Fixed",
+    "visit_date":"4/9/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"WVI",
+    "site_name":"Garbo Dadar Mch",
+    "site_id":"tpm142",
+    "staffing_score":27,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.17745177,9.944864929 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Awdal",
+    "district":"Borama",
+    "type_of_site":"Mobile headquarters",
+    "visit_date":"7/9/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"SCI",
+    "site_name":"Sci Borama Office",
+    "site_id":"tpm143",
+    "staffing_score":0,
+    "facility_score":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.42923689,6.756393877 ]
+    },
+    "properties": {
+    "period":"Phase 2",
+    "region":"Mudug",
+    "district":"Xarardheere",
+    "type_of_site":"Fixed",
+    "visit_date":"20/08/2017",
+    "dfid_partner":"UNICEF",
+    "ngo":"RAWA",
+    "site_name":"Camara Fdp",
+    "site_id":"tpm144",
+    "staffing_score":57,
+    "facility_score":2.5
+    }
+  }
+]
+}

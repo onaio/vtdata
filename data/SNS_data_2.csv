@@ -1,0 +1,1170 @@
+period,District,site,site_id,partner,latitude,longitude,admissions_SAM,relapses_SAM,readmissions_SAM,upgrades_SAM,downgrades_SAM,defaulters_SAM,successful_SAM,tot_discharges_SAM,perc_recovered_SAM,perc_nonresponding_SAM,perc_defaulters_SAM,admissions_MAM,relapses_MAM,readmissions_MAM,defaulters_MAM,successful_MAM,tot_discharges_MAM,perc_recovered_MAM,perc_nonresponding_MAM,perc_defaulters_MAM,malaria,pneumonia,cholera,IYCF
+June,AbdiAziz,Forlanini - Static Health Facility,SNS1,ACF,2.046349,45.360397,367,3,0,12,0,6,138,156,88,10,4,722,0,0,0,23,23,100,0,0,0,0,0,34
+June,Hudur,Hudur Town -  SC,SNS10,ACF,4.12459,43.88765,66,0,1,57,0,1,0,58,0,98,2,19,0,0,0,0,0,0,0,0,0,30,5,86
+June,Hudur,Mada warabe  - Mobile OTP Site ,SNS11,ACF,4.13295,43.92216,119,0,0,0,0,5,62,67,93,0,7,315,0,0,0,0,0,0,0,0,4,27,2,160
+June,Hudur,Gubud Galole mobile  - Mobile OTP Site ,SNS12,ACF,4.13295,43.92216,60,0,0,0,0,3,48,51,94,0,6,197,0,0,0,0,0,0,0,0,0,15,0,87
+June,Hudur,Weerow Mobile Outreach - Mobile OTP Site ,SNS13,ACF,4.17074,43.83483,188,0,0,0,1,5,75,81,93,1,6,410,0,0,0,0,0,0,0,0,2,24,0,61
+June,Hudur,Qaydar Ade/Moragabey Mobile  - Mobile OTP Site ,SNS14,ACF,4.18976,43.64093,38,0,0,0,0,0,21,21,100,0,0,45,0,0,0,0,0,0,0,0,1,17,0,65
+June,Hudur,Sheikh Aweys Fixed IDP  - Mobile OTP Site ,SNS15,ACF,4.18976,43.64093,65,0,0,0,0,0,18,18,100,0,0,112,0,0,0,0,0,0,0,0,0,15,0,88
+June,Hudur,Aboore  - Mobile OTP Site ,SNS16,ACF,4.301239,43.909182,65,0,0,0,0,6,34,40,85,0,15,123,0,0,0,0,0,0,0,0,0,15,0,64
+June,Hudur,Eedinow  - Mobile OTP Site ,SNS17,ACF,4.150735,43.770452,133,0,0,0,0,0,18,18,100,0,0,197,0,0,0,0,0,0,0,0,1,14,0,30
+June,Eyl,Biyo Ade- - Mobile Outreach,SNS18,ACF,8.27098,49.82561,40,0,0,0,0,0,7,7,100,0,0,156,0,0,0,0,0,0,0,0,0,0,0,0
+June,Eyl,Cambare- - Mobile Outreach,SNS19,ACF,8.08177,49.36186,80,0,0,0,0,0,3,3,100,0,0,162,0,0,0,0,0,0,0,0,0,0,0,0
+June,Afgoye,Lafoole - Static Health Facility/ clinics,SNS2,ACF,2.086555,45.201023,443,0,0,7,0,0,165,172,96,4,0,660,0,0,3,102,105,97,0,3,0,134,4,50
+June,Eyl,"Gubato,  - Mobile Outreach",SNS20,ACF,7.617116,47.001314,52,0,0,0,0,0,4,4,100,0,0,192,0,0,0,0,0,0,0,0,0,0,0,0
+June,Eyl,"Weyla-laaq, - Mobile Outreach",SNS21,ACF,8.43695,49.42806,105,0,0,0,0,0,3,3,100,0,0,229,0,0,0,0,0,0,0,0,0,0,0,0
+June,Eyl,Dhoobo-Cantuug - Mobile Outreach,SNS22,ACF,7.63222,49.28027,73,0,0,0,0,0,5,5,100,0,0,107,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hodan,Octobar - Static Health Facility,SNS3,ACF,2.032865,45.315392,766,0,0,122,3,11,288,424,68,29,3,1127,0,0,1,41,42,98,0,2,0,0,0,47
+June,Kahda,Liqliqito  - Static Health Facility,SNS4,ACF,2.058589,45.264256,886,0,0,87,0,1,306,394,78,22,0,1187,0,0,11,91,102,89,0,11,0,0,0,102
+June,Elbarde,Elbarde Town - Static Health Facility/ clinics,SNS5,ACF,4.82821,43.65993,127,2,0,17,3,1,20,41,49,54,2,145,0,0,0,6,6,100,0,0,0,0,0,89
+June,Elbarde,Ato - Mobile Clinics,SNS6,ACF,4.6205,43.35402,27,0,0,0,0,7,13,20,65,0,35,67,0,0,0,2,2,100,0,0,0,0,0,26
+June,Rabdure,Yeed  - Mobile Clinics,SNS7,ACF,4.82821,43.65993,110,0,0,0,0,0,51,51,100,0,0,66,0,0,0,1,1,100,0,0,0,0,0,64
+June,Elbarde,Liwareeg - Mobile Clinics,SNS8,ACF,4.46343,43.3652,96,0,0,1,0,0,45,46,98,2,0,425,0,0,0,8,8,100,0,0,0,0,0,62
+June,Elbarde,Salkudhooble - Mobile Clinics,SNS9,ACF,4.90952,43.99175,109,0,0,0,0,10,2,12,17,0,83,229,0,0,0,7,7,100,0,0,0,0,0,54
+June,Erigavo ,Madare - Mobile OTP/TSFP,SNS33,CARE,10.2722,47.3508,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+June,Ufeyn ,Tuulo Miro - Mobile OTP/TSFP,SNS34,CARE,10.6568,49.6343,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,8
+June,Ufeyn ,Ufeyn MCH  - Mobile OTP/TSFP,SNS35,CARE,10.652623,49.756343,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,13,13,100,0,0,0,0,0,17
+June,Ufeyn ,Bali doog - Mobile OTP/TSFP,SNS36,CARE,10.84771,49.4595,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,17,17,100,0,0,0,0,0,20
+June,Ufeyn ,Jedaal  - Mobile OTP/TSFP,SNS37,CARE,10.209927,49.507984,2,0,0,0,0,0,0,0,0,0,0,10,0,0,0,11,11,100,0,0,0,0,0,18
+June,Ufeyn ,Kob dhexaad  - Mobile OTP/TSFP,SNS38,CARE,10.656162,49.49925,2,0,0,0,0,0,2,2,100,0,0,21,0,0,0,25,25,100,0,0,0,0,0,22
+June,Ufeyn ,Tasjiic - Mobile OTP/TSFP,SNS39,CARE,10.862348,49.457768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Ufeyn ,Geeso Qabad - Mobile OTP/TSFP,SNS40,CARE,10.924473,49.256889,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,18,18,100,0,0,0,0,0,48
+June,Ufeyn ,Xabley - Mobile OTP/TSFP,SNS41,CARE,11.233128,48.97415,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,6,6,100,0,0,0,0,0,16
+June,Qardho,Yaka - Mobile OTP/TSFP ,SNS42,CARE,9.220501,49.121127,1,0,0,0,0,1,1,2,50,0,50,12,0,1,4,7,11,64,0,36,0,0,0,10
+June,Qardho,Shaxda - Mobile OTP/TSFP ,SNS43,CARE,9.175989,48.907055,2,0,0,0,0,3,1,4,25,0,75,11,0,2,0,0,0,0,0,0,0,0,0,12
+June,Qardho,Habaalreer. - Mobile OTP/TSFP ,SNS44,CARE,9.830113,49.372339,1,0,0,0,0,1,0,1,0,0,100,20,0,0,2,0,2,0,0,100,0,0,0,9
+June,Qardho,Shire - Mobile OTP/TSFP ,SNS45,CARE,9.088625,49.212996,0,0,0,0,0,0,0,0,0,0,0,5,0,1,3,4,7,57,0,43,0,0,0,6
+June,Qardho,Farjeerin - Mobile OTP/TSFP ,SNS46,CARE,10.82726,49.53718,0,0,0,0,0,1,0,1,0,0,100,2,0,0,0,1,1,100,0,0,0,0,0,6
+June,ceelbuh,Yube - Mobile OTP/TSFP,SNS47,CARE,10.745042,47.927658,11,0,0,0,0,0,0,0,0,0,0,55,0,0,1,7,8,88,0,13,0,0,0,0
+June,Badhdan,Badhdan - Mobile TSFP,SNS48,CARE,10.63438,48.56123,1,0,0,0,0,0,2,2,100,0,0,14,0,0,0,3,3,100,0,0,0,0,0,0
+June,Badhdan,Mindigale  - Mobile OTP/TSFP,SNS49,CARE,10.682018,48.672193,4,0,0,0,0,0,3,3,100,0,0,18,0,0,0,6,6,100,0,0,0,0,0,0
+June,Badhdan,Rad - Mobile OTP/TSFP,SNS50,CARE,10.711838,48.562524,2,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,Badhdan,Hadaaftimo  - Mobile OTP/TSFP,SNS51,CARE,10.767246,48.107267,0,0,0,0,0,0,0,0,0,0,0,19,0,0,3,3,6,50,0,50,0,0,0,0
+June,Badhdan,Cawsane - Mobile OTP/TSFP,SNS52,CARE,10.582949,48.80709,3,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+June,Badhdan,Jiicanyo - Mobile OTP/TSFP,SNS53,CARE,10.39898,48.38858,1,0,0,0,0,0,1,1,100,0,0,5,0,0,0,3,3,100,0,0,0,0,0,0
+June,Erigavo ,Daysoole - Mobile OTP/TSFP,SNS539,CARE,10.3921,47.4839,7,0,0,0,0,0,1,1,100,0,0,5,0,0,0,2,2,100,0,0,0,0,0,
+June,Badhdan,Xarka dheere - Mobile OTP/TSFP,SNS54,CARE,10.4042,48.4648,0,0,0,0,0,0,2,2,100,0,0,2,0,0,0,1,1,100,0,0,0,0,0,0
+June,Erigavo ,Dalsan  - Mobile OTP/TSFP,SNS540,CARE,10.1514,47.4252,5,0,0,0,0,0,2,2,100,0,0,6,0,0,0,4,4,100,0,0,0,0,0,
+June,Bossasso,Kalabayr  - Mobile TSFP,SNS541,CARE,10.829949,49.2538,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,19,19,100,0,0,0,0,0,33
+June,Bossasso,Karim - Mobile TSFP,SNS542,CARE,10.982399,49.2186,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,8,8,100,0,0,0,0,0,24
+June,Bossasso,Laag - Mobile TSFP,SNS543,CARE,11.038283,49.1881,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,15,15,100,0,0,0,0,0,30
+June,Bossasso,Yalho - Mobile TSFP,SNS544,CARE,11.233128,48.9742,0,0,0,0,0,0,0,0,0,0,0,27,8,0,0,17,17,100,47,0,0,0,0,41
+June,Bossasso,Qaw - Mobile TSFP,SNS545,CARE,10.924473,49.2569,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lasqoray,Ragaad - Mobile OTP/TSFP,SNS546,CARE,10.722594,48.584866,2,0,0,0,0,0,0,0,0,0,0,16,0,0,0,2,2,100,0,0,0,0,0,0
+June,Taleex,taleex - Mobile OTP/TSFP,SNS547,CARE,9.14839,48.42077,4,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+June,ceelbuh,Mindhicir - Mobile OTP/TSFP,SNS55,CARE,11.171,49.1029,7,0,0,0,7,0,2,9,22,78,0,37,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lasqoray,Lasqoray - Mobile OTP/TSFP,SNS56,CARE,11.16027,48.19487,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lasqoray,Ceelayo  - Mobile OTP/TSFP,SNS57,CARE,11.14644,48.53607,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0
+June,Lasqoray,Durduri - Mobile OTP/TSFP,SNS58,CARE,11.29662,48.58537,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo ,dibqalax - Mobile OTP/TSFP,SNS580,CARE,10.34055556,47.63444444,1,0,0,0,0,0,2,2,100,0,0,8,0,0,0,3,3,100,0,0,0,0,0,
+June,Erigavo ,Ardaa - Mobile OTP/TSFP,SNS581,CARE,10.24361111,47.6975,1,0,0,0,0,0,1,1,100,0,0,4,0,0,0,1,1,100,0,0,0,0,0,
+June,Erigavo ,fiqifuliye  - Mobile OTP/TSFP,SNS582,CARE,10.18666667,47.785,11,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,
+June,Erigavo ,Masagan - Mobile OTP/TSFP,SNS583,CARE,10.4625,47.44083333,7,0,0,0,0,0,1,1,100,0,0,7,0,0,0,2,2,100,0,0,0,0,0,
+June,Erigavo ,Ceeldheer - Mobile OTP/TSFP,SNS584,CARE,10.43111111,47.65138889,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,
+June,Erigavo ,boodacade - Mobile OTP/TSFP,SNS585,CARE,10.47138889,47.6659,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,100,0,0,0,0,0,
+June,Erigavo ,Biyo Gaduud - Mobile OTP/TSFP,SNS586,CARE,10.40277778,47.80277778,1,0,0,0,0,0,1,1,100,0,0,0,0,0,0,1,1,100,0,0,0,0,0,
+June,Erigavo ,Dhaabeeda - Mobile OTP/TSFP,SNS587,CARE,10.31944444,47.3827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+June,Qardho,Libow - Mobile OTP/TSFP ,SNS588,CARE,9.090833333,49.21277778,1,0,0,0,0,1,0,1,0,0,100,6,1,0,2,2,4,50,25,50,0,0,0,0
+June,Qardho,Dhaxan Karin - Mobile OTP/TSFP ,SNS589,CARE,9.268888889,49.41833333,5,0,0,0,0,1,1,2,50,0,50,27,0,0,2,4,6,67,0,33,0,0,0,17
+June,Lasqoray,Markad - Mobile OTP/TSFP,SNS59,CARE,11.2051,48.1912,3,0,0,0,0,0,0,0,0,0,0,19,0,1,0,2,2,100,0,0,0,0,0,0
+June,Qardho,Gerihel. - Mobile OTP/TSFP ,SNS590,CARE,9.530555556,49.22972222,1,0,0,0,0,0,0,0,0,0,0,20,0,1,4,7,11,64,0,36,0,0,0,12
+June,Qardho,Armo. - Mobile OTP/TSFP ,SNS591,CARE,9.405833333,49.3516,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,2,50,0,50,0,0,0,0
+June,Qardho,Dhaxan sarin - Mobile OTP/TSFP ,SNS593,CARE,9.450555556,48.5247,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,7
+June,ceelbuh,Carmale  - Mobile OTP/TSFP,SNS594,CARE,10.48,47.95972222,5,0,0,0,0,0,0,0,0,0,0,22,0,0,0,4,4,100,0,0,0,0,0,0
+June,Badhdan,Laako - Mobile OTP/TSFP,SNS595,CARE,10.72555556,48.58805556,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,1,1,100,0,0,0,0,0,0
+June,Badhdan,Gumarta - Mobile OTP/TSFP,SNS596,CARE,10.70138889,48.48666667,0,0,0,0,0,0,0,0,0,0,0,23,0,1,1,1,2,50,0,50,0,0,0,0
+June,ceelbuh,Damala xagare - Mobile OTP/TSFP,SNS597,CARE,11.295,49.20277778,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,ceelbuh,Shinbiraale - Mobile OTP/TSFP,SNS598,CARE,10.13111111,45.02222222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,100,0,0,0,0,0,0
+June,ceelbuh,Dawoco - Mobile OTP/TSFP,SNS599,CARE,10.34611111,47.16833333,8,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,caroolay - Mobile OTP/TSFP,SNS60,CARE,8.85607,48.14833,7,0,0,0,0,0,1,1,100,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+June,Badhdan,Dhabar dalool - Mobile OTP/TSFP,SNS600,CARE,10.34611111,47.16833333,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Badhdan,Daara salaam - Mobile OTP/TSFP,SNS601,CARE,10.24611111,47.40055556,4,0,0,0,0,0,0,0,0,0,0,13,0,0,0,1,1,100,0,0,0,0,0,0
+June,Lasqoray,Xabaashaa wacle - Mobile OTP/TSFP,SNS602,CARE,11.01416667,48.32,6,0,0,0,0,0,0,0,0,0,0,27,0,1,0,2,2,100,0,0,0,0,0,0
+June,Lasqoray,Moon - Mobile OTP/TSFP,SNS603,CARE,11.5975,48.53666667,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lasqoray,Mashcaleed - Mobile OTP/TSFP,SNS604,CARE,11.00444444,48.30611111,6,0,0,0,0,0,1,1,100,0,0,28,0,0,0,8,8,100,0,0,0,0,0,0
+June,kismayo,Farjano(Soya/ Nageye camp) - Mobile OTP/TSFP,SNS605,CARE,-0.340601,42.560065,27,0,0,0,0,0,1,1,100,0,0,41,0,0,0,0,0,0,0,0,0,0,0,45
+June,kismayo,Gulwadhe(adeymarogto camp) - Mobile OTP/TSFP,SNS606,CARE,-0.343446,42.546746,71,0,0,0,0,0,0,0,0,0,0,146,0,0,0,0,0,0,0,0,0,0,0,57
+June,Taleex,qawlo - Mobile OTP/TSFP,SNS61,CARE,8.5646,48.1753,1,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,dhumay - Mobile OTP/TSFP,SNS62,CARE,8.5722,48.3714,5,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,dhubuq dhubuq - Mobile OTP/TSFP,SNS620,CARE,8.261666667,47.76638889,3,0,0,0,0,1,1,2,50,0,50,10,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lascaanod,caday buur - Mobile OTP/TSFP,SNS621,CARE,9.26722,47.376557,0,0,0,0,0,0,1,1,100,0,0,5,0,0,0,3,3,100,0,0,0,0,0,0
+June,Taleex,kacaya - Mobile OTP/TSFP,SNS63,CARE,8.5722,48.3714,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,xalin Town - Mobile OTP/TSFP,SNS64,CARE,9.085632,48.619955,5,1,0,0,0,1,15,16,94,6,6,17,1,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,Gebidheer - Mobile OTP/TSFP,SNS65,CARE,9.06722,48.61222,3,0,0,0,0,1,6,7,86,0,14,18,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,barde dawanle - Mobile OTP/TSFP,SNS66,CARE,9.53,48.926,4,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,kalcad - Mobile OTP/TSFP,SNS67,CARE,8.807914,48.88602,4,0,0,0,0,2,4,6,67,0,33,17,0,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,laabaas - Mobile OTP/TSFP,SNS68,CARE,9.177,48.659,3,0,0,0,0,0,0,0,0,0,0,24,0,2,0,0,0,0,0,0,0,0,0,0
+June,Taleex,xerta taleex - Mobile OTP/TSFP,SNS69,CARE,9.08,48.6,3,0,0,0,0,0,1,1,100,0,0,15,1,0,0,0,0,0,0,0,0,0,0,0
+June,Taleex,Buqdheer - Mobile OTP/TSFP,SNS70,CARE,8.5575,48.83472,3,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+June,Xudun,Lafaweyne  - Mobile OTP/TSFP,SNS71,CARE,9.153887,47.228503,0,0,0,0,0,0,1,1,100,0,0,9,0,0,0,2,2,100,0,0,0,0,0,0
+June,Xudun,Darayo geesaweyn - Mobile OTP/TSFP,SNS72,CARE,9.141,47.3516,11,0,1,0,0,0,12,12,100,0,0,21,0,2,1,0,1,0,0,100,0,0,0,0
+June,Xudun,Gorofley - Mobile OTP/TSFP,SNS73,CARE,9.13558,47.753021,5,0,1,0,0,0,3,3,100,0,0,18,2,0,2,6,8,75,25,25,0,0,0,0
+June,Xudun,Qandhicile - Mobile OTP/TSFP,SNS74,CARE,9.1225,47.3623,12,0,0,0,0,0,8,8,100,0,0,31,0,1,0,5,5,100,0,0,0,0,0,0
+June,Xudun,Siigo dheer - Mobile OTP/TSFP,SNS75,CARE,9.86,47.3658,16,0,0,0,0,0,9,9,100,0,0,33,0,0,2,7,9,78,0,22,0,0,0,0
+June,Xudun,Dhaban - Mobile OTP/TSFP,SNS76,CARE,9.2144,47.3023,10,0,0,0,0,0,9,9,100,0,0,29,0,1,0,4,4,100,0,0,0,0,0,0
+June,Xudun,Wagxin - Mobile OTP/TSFP,SNS77,CARE,9.196,47.4544,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Xudun, Kulaal - Mobile OTP/TSFP,SNS78,CARE,9.73952,47.653384,14,1,0,0,0,1,12,13,92,8,8,40,3,1,0,7,7,100,43,0,0,0,0,0
+June,Xudun, Awrboogays  - Mobile OTP/TSFP,SNS79,CARE,9.569575,47.753808,19,0,0,0,0,0,16,16,100,0,0,41,0,2,1,8,9,89,0,11,0,0,0,0
+June,Xudun, Xabaalo camaare - Mobile OTP/TSFP,SNS80,CARE,9.49519,47.8344,14,1,0,0,0,0,12,12,100,8,0,38,2,0,0,5,5,100,40,0,0,0,0,0
+June,Lascaanod,dibshabeel - Mobile OTP/TSFP,SNS81,CARE,8.932899,47.44309,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lascaanod,jidbaale - Mobile OTP/TSFP,SNS82,CARE,8.98444,47.14778,0,0,0,0,0,1,3,4,75,0,25,10,0,0,2,3,5,60,0,40,0,0,0,0
+June,Lascaanod,dalyare - Mobile OTP/TSFP,SNS83,CARE,8.52636,47.56254,1,0,0,0,0,0,5,5,100,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lascaanod,xalxaliye - Mobile OTP/TSFP,SNS84,CARE,8.350322,47.62752,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0,1,0,0,100,0,0,0,0
+June,Lascaanod,gacandar - Mobile OTP/TSFP,SNS85,CARE,8.38111,47.46778,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,2,2,100,0,0,0,0,0,0
+June,Lascaanod,fiqda maregaale - Mobile OTP/TSFP,SNS86,CARE,0.941411,41.384065,3,0,0,0,0,0,3,3,100,0,0,11,2,0,0,8,8,100,25,0,0,0,0,0
+June,Lascaanod,qaydarka - Mobile OTP/TSFP,SNS87,CARE,5.283726,46.882727,0,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lascaanod,waqderi - Mobile OTP/TSFP,SNS88,CARE,8.43701,47.33006,0,0,0,0,0,0,2,2,100,0,0,0,0,0,0,3,3,100,0,0,0,0,0,0
+June,Lascaanod,dhuxun - Mobile OTP/TSFP,SNS89,CARE,8.55333,47.38556,2,0,0,0,0,1,2,3,67,0,33,12,0,0,0,3,3,100,0,0,0,0,0,0
+June,Lascaanod,oodagooye - Mobile OTP/TSFP,SNS90,CARE,8.471351,47.40198,0,0,0,0,0,0,3,3,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,Lascaanod,kabaalka xargaga - Mobile OTP/TSFP,SNS91,CARE,8.467071,47.17783,1,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+June,Beledweyne,Farlibax - MOBILE/STATIC OTP,SNS23,CESVI,4.87396,44.86851,264,0,0,0,0,2,0,2,0,0,100,201,0,0,0,0,0,0,0,0,89,79,0,494
+June,Beledweyne,Howlwadaag - MOBILE/STATIC OTP,SNS24,CESVI,4.73167,45.19556,101,0,0,0,0,1,0,1,0,0,100,121,0,0,0,0,0,0,0,0,36,41,0,198
+June,Galkaio,Bandiiradley - SC/MOBILE OTP,SNS25,CESVI,6.47609,46.96365,0,0,0,3,1,3,0,7,0,57,43,11,0,0,0,0,0,0,0,0,0,0,0,18
+June,Galkaio,Docol - SC/Mobile OTP,SNS26,CESVI,6.43455,47.48846,0,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,180
+June,Galkaio,Galinsoor - SC/MOBILE OTP,SNS27,CESVI,6.42905,46.71594,0,0,0,0,1,8,0,9,0,11,89,37,0,0,0,0,0,0,0,0,0,228,0,72
+June,Galkaio,Wargalo - SC/Mobile OTP,SNS29,CESVI,6.26589,47.5204,8,0,0,3,0,0,3,6,50,50,0,20,0,0,0,0,0,0,0,0,0,0,0,118
+June,Hobyo ,Elgula - MOBILE/STATIC OTP,SNS30,CESVI,6.01175,47.85248,0,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,48
+June,Hobyo ,Galbarwaaqo - MOBILE/STATIC OTP,SNS31,CESVI,6.076280           ,47.40701,0,0,0,0,0,18,13,31,42,0,58,4,0,0,0,0,0,0,0,0,0,0,0,50
+June,Wadajir,Jazeera - MCH,SNS32,CESVI,1.95051,45.18045,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+June,Afgoye,Abroone IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS443,Concern,2.090555,45.16805,51,0,0,0,0,4,99,103,96,0,4,140,0,0,8,67,75,89,0,11,0,0,0,14
+June,Afgoye,Afgoye Pry School - OTP  SFP  OPD  EPI  ANC/PNC,SNS444,Concern,2.133634,45.12583,217,1,0,0,2,3,184,189,97,2,2,372,0,0,0,197,197,100,0,0,14,23,0,31
+June,Afgoye,Afgoye Town (21stOctober) - OTP  SFP  OPD  EPI  ANC/PNC,SNS445,Concern,2.150278,45.11667,182,4,0,0,0,3,204,207,99,2,1,524,4,0,4,236,240,98,2,2,22,30,1,29
+June,Afgoye,Dajalaq - OTP  SFP  OPD  EPI  ANC/PNC,SNS446,Concern,2.180096,45.15417,206,2,0,0,0,10,96,106,91,2,9,295,0,0,4,101,105,96,0,4,18,19,5,77
+June,Afgoye,Warmaxan - OTP  SFP  OPD  EPI  ANC/PNC,SNS447,Concern,2.393889,45.02222,152,0,0,0,0,6,41,47,87,0,13,188,0,0,6,24,30,80,0,20,15,28,5,54
+June,Bondhere,Wiilwal  - OTP  SFP,SNS448,Concern,2.0425,45.34555,202,5,0,0,0,10,192,202,95,2,5,277,5,0,12,158,170,93,3,7,0,0,0,29
+June,Daynile,Siinka Dheer IDP Camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS449,Concern,2.071388,45.22944,383,15,0,3,1,2,81,87,93,22,2,339,14,0,1,33,34,97,41,3,0,12,23,82
+June,Daynile,Tabeleha Sheikh Ibrahim IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS450,Concern,2.063694,45.26219,624,0,4,0,0,2,769,771,100,0,0,0,0,0,0,0,0,0,0,0,1,2,31,0
+June,Daynile,Weydow IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS451,Concern,2.068611,45.25416,566,2,0,0,0,6,260,266,98,1,2,640,1,0,1,169,170,99,1,1,0,37,0,59
+June,Wadajir,Jabuti School  - OTP  SFP  OPD  EPI  ANC/PNC,SNS452,Concern,2.023195,45.29958,347,2,12,0,0,41,196,237,83,1,17,374,2,0,60,207,267,78,1,22,0,1,37,76
+June,Wadajir,Obosibo Halane  - OTP  SFP  OPD  EPI  ANC/PNC,SNS453,Concern,2.012495,45.28965,420,5,0,0,1,4,271,276,98,2,1,511,6,0,0,218,218,100,3,0,0,1,4,56
+June,berbera,bahalay - OTP and TSFP,SNS245,HPA,9.96984,45.471466,1,0,0,0,0,0,2,2,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,baylahmale - OTP and TSFP,SNS246,HPA,10.00016,45.18594,10,0,0,0,0,0,5,5,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,bixin - OTP and TSFP,SNS247,HPA,10.161252,45.107271,12,0,0,0,0,0,6,6,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,biyacado - OTP and TSFP,SNS248,HPA,10.63674,44.02135,0,0,0,0,0,0,1,1,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,biyofadhisinka - OTP and TSFP,SNS249,HPA,10.37469,44.5737,0,0,0,0,0,0,2,2,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Biyoolay - OTP and TSFP,SNS250,HPA,10.11463,45.27029,2,0,0,0,0,0,3,3,100,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Buloxaar - OTP and TSFP,SNS251,HPA,10.390648,44.402351,5,0,0,0,0,0,1,1,100,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Buq doofaar - OTP and TSFP,SNS252,HPA,10.04747,44.88788,13,0,0,0,0,0,4,4,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Ceel sheekh - OTP and TSFP,SNS253,HPA,10.438899,44.26028,3,0,0,0,0,0,4,4,100,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Ceelbaxay - OTP and TSFP,SNS254,HPA,10.14355,45.28616,8,0,0,0,0,0,6,6,100,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,cilan1  - OTP and TSFP,SNS255,HPA,10.00016,45.18594,1,0,0,0,0,0,3,3,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,cilan2 - OTP and TSFP,SNS256,HPA,10.00016,45.18594,0,0,0,0,0,0,3,3,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Dalow - OTP and TSFP,SNS257,HPA,9.9574,44.8889,6,0,0,0,0,0,4,4,100,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Dhaymoole - OTP and TSFP,SNS258,HPA,10.13499,45.02089,24,0,0,0,0,0,3,3,100,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Tuulo dhibiijo - OTP and TSFP,SNS259,HPA,10.067252,45.298448,24,0,0,0,0,0,1,1,100,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Diririma - OTP and TSFP,SNS260,HPA,10.77767,45.97737,0,0,0,0,0,0,2,2,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Fugux - OTP and TSFP,SNS261,HPA,10.24643,45.08334,0,0,0,0,0,0,6,6,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Gadhka Cisman jaamac - OTP and TSFP,SNS262,HPA,10.23308,45.51503,1,0,0,0,0,0,2,2,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Daboraqas - OTP and TSFP,SNS263,HPA,9.49868,43.76112,0,0,0,0,0,0,7,7,100,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Hayeeti - OTP and TSFP,SNS264,HPA,10.14355,45.28616,3,0,0,0,0,0,1,1,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Ilcarmo - OTP and TSFP,SNS265,HPA,9.88049,45.96843,0,0,0,0,0,0,5,5,100,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Laso dawaco - OTP and TSFP,SNS266,HPA,10.05142,44.98405,8,0,0,0,0,0,3,3,100,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Macaaneeye - OTP and TSFP,SNS267,HPA,9.899211,44.71122,0,0,0,0,0,0,6,6,100,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Mandeera - OTP and TSFP,SNS268,HPA,9.899856,44.711391,0,0,0,0,0,0,7,7,100,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Omane - OTP and TSFP,SNS269,HPA,10.72804,45.5785,15,0,0,0,0,0,1,1,100,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Maqaaxida inanta - OTP and TSFP,SNS270,HPA,9.899856,44.711391,1,0,0,0,0,0,5,5,100,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Ragadwayn - OTP and TSFP,SNS271,HPA,10.45891,45.25248,7,0,0,0,0,0,6,6,100,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Raribul - OTP and TSFP,SNS272,HPA,10.1267,46.193867,8,0,0,0,0,0,3,3,100,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Shacable - OTP and TSFP,SNS273,HPA,10.941267,44.213158,0,0,0,0,0,0,2,2,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Taagada - OTP and TSFP,SNS274,HPA,10.01149,45.08561,7,0,0,0,0,0,1,1,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Tuur dibi - OTP and TSFP,SNS275,HPA,9.811507,44.841468,0,0,0,0,0,0,6,6,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Ugaas madow - OTP and TSFP,SNS276,HPA,9.753653,44.95133,2,0,0,0,0,0,6,6,100,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Waxari kaa yeedhay - OTP and TSFP,SNS277,HPA,10.318398,46.30823,10,0,0,0,0,0,4,4,100,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Xariye - OTP and TSFP,SNS278,HPA,10.110666,45.277363,2,0,0,0,0,0,2,2,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+June,berbera,Xididalay - OTP and TSFP,SNS279,HPA,9.92729,45.09722,4,0,0,0,0,0,2,2,100,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,sheikh,Cagaaray - OTP and TSFP,SNS280,HPA,10.13355,45.21616,1,0,0,0,0,0,3,3,100,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0
+June,sheikh,Gidhays - OTP and TSFP,SNS281,HPA,9.949355,45.460399,1,0,0,0,0,0,8,8,100,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0
+June,sheikh,Gugux - OTP and TSFP,SNS282,HPA,9.966041,45.404552,1,0,0,0,0,0,8,8,100,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+June,sheikh,Ximan - OTP and TSFP,SNS283,HPA,9.801021,45.464898,1,0,0,0,0,0,5,5,100,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+June,sheikh,Raamaale - OTP and TSFP,SNS284,HPA,9.57953,45.44321,8,0,0,0,0,0,2,2,100,0,0,34,0,0,0,0,0,0,0,0,0,0,0,0
+June,Buhoodle,Gantahar - OTP and TSFP,SNS285,HPA,9.087806,46.774456,6,0,0,0,0,0,4,4,100,0,0,57,0,0,0,0,0,0,0,0,0,0,5,0
+June,Buhoodle,Balicalanle - OTP and TSFP,SNS286,HPA,9.087806,46.774456,6,0,0,0,0,0,1,1,100,0,0,61,0,0,0,0,0,0,0,0,0,0,11,0
+June,Buhoodle,Naleeyedirindir - OTP and TSFP,SNS287,HPA,9.087806,46.774456,4,0,0,0,0,0,5,5,100,0,0,68,0,0,0,0,0,0,0,0,0,0,13,0
+June,Buhoodle,Codanle - OTP and TSFP,SNS288,HPA,9.087806,46.774456,6,0,0,0,0,0,1,1,100,0,0,58,0,0,0,0,0,0,0,0,0,0,16,0
+June,Buhoodle,Dogoble - OTP and TSFP,SNS289,HPA,8.840441,46.402417,7,0,0,0,0,0,5,5,100,0,0,52,0,0,0,0,0,0,0,0,0,0,12,0
+June,Burao,Shaxid - OTP and TSFP,SNS290,HPA,9.01834,46.48713,19,0,0,0,0,0,3,3,100,0,0,44,0,0,0,0,0,0,0,0,0,0,12,0
+June,Burao,Shanshcade - OTP and TSFP,SNS291,HPA,9.14411,46.483393,20,0,0,0,0,0,4,4,100,0,0,41,0,0,0,0,0,0,0,0,0,0,9,0
+June,Burao,Talabuur - OTP and TSFP,SNS292,HPA,9.98049,46.12991,25,0,0,0,0,0,4,4,100,0,0,97,0,0,0,0,0,0,0,0,0,0,11,0
+June,Burao,Dabaqabad - OTP and TSFP,SNS293,HPA,9.98049,46.12991,14,0,0,0,0,0,2,2,100,0,0,38,0,0,0,0,0,0,0,0,0,0,10,0
+June,Burao,Qalocan - OTP and TSFP,SNS294,HPA,9.98049,46.12991,4,0,0,0,0,0,1,1,100,0,0,13,0,0,0,0,0,0,0,0,0,0,9,0
+June,Burao,Jamac Qabar - OTP and TSFP,SNS295,HPA,9.98049,46.12991,11,0,0,0,0,0,3,3,100,0,0,37,0,0,0,0,0,0,0,0,0,0,10,0
+June,Burao,Cagararan - OTP and TSFP,SNS296,HPA,9.98049,46.12991,2,0,0,0,0,0,4,4,100,0,0,24,0,0,0,0,0,0,0,0,0,0,5,0
+June,Burao,Naqdhamijo - OTP and TSFP,SNS297,HPA,9.98049,46.12991,18,0,0,0,0,0,4,4,100,0,0,52,0,0,0,0,0,0,0,0,0,0,7,0
+June,Burao,gunburlibax - OTP and TSFP,SNS298,HPA,9.26783,46.3769,18,0,0,0,0,0,3,3,100,0,0,42,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Gedihan - OTP and TSFP,SNS299,HPA,9.28393,46.49952,14,0,0,0,0,0,2,2,100,0,0,40,0,0,0,0,0,0,0,0,0,0,7,0
+June,Burao,Jamac liban - OTP and TSFP,SNS300,HPA,9.65104,46.32145,2,0,0,0,0,0,1,1,100,0,0,16,0,0,0,0,0,0,0,0,0,0,2,0
+June,Burao,Beli eday - OTP and TSFP,SNS301,HPA,8.93733,46.4979,6,0,0,0,0,0,2,2,100,0,0,34,0,0,0,0,0,0,0,0,0,0,6,0
+June,Burao,balanbal - OTP and TSFP,SNS302,HPA,9.975866,46.109205,22,0,0,0,0,0,3,3,100,0,0,40,0,0,0,0,0,0,0,0,0,0,18,0
+June,Burao,Xaydhducato - OTP and TSFP,SNS303,HPA,9.975866,46.109205,0,0,0,0,0,0,3,3,100,0,0,24,0,0,0,0,0,0,0,0,0,0,9,0
+June,Burao,Libaxle - OTP and TSFP,SNS304,HPA,9.975866,46.109205,0,0,0,0,0,0,2,2,100,0,0,4,0,0,0,0,0,0,0,0,0,0,17,0
+June,Burao,Nasiye - OTP and TSFP,SNS305,HPA,9.975866,46.109205,28,0,0,0,0,0,2,2,100,0,0,70,0,0,0,0,0,0,0,0,0,0,17,0
+June,Burao,Bali cabdale - OTP and TSFP,SNS306,HPA,9.975866,46.109205,2,0,0,0,0,0,1,1,100,0,0,16,0,0,0,0,0,0,0,0,0,0,18,0
+June,Burao,Qabrigorod - OTP and TSFP,SNS307,HPA,9.02378,46.15941,14,0,0,0,0,0,3,3,100,0,0,34,0,0,0,0,0,0,0,0,0,0,20,0
+June,Burao,Balicaynashe - OTP and TSFP,SNS308,HPA,8.99811,45.35469,28,0,0,0,0,0,4,4,100,0,0,37,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Dahir Ogle - OTP and TSFP,SNS309,HPA,9.03494,45.28821,13,0,0,0,0,0,3,3,100,0,0,27,0,0,0,0,0,0,0,0,0,0,15,0
+June,Burao,Gorayaxun sare - OTP and TSFP,SNS310,HPA,9.796558,45.574205,12,0,0,0,0,0,1,1,100,0,0,37,0,0,0,0,0,0,0,0,0,0,15,0
+June,Burao,Gorayaxun Hose - OTP and TSFP,SNS311,HPA,9.02442,45.13483,8,0,0,0,0,0,2,2,100,0,0,22,0,0,0,0,0,0,0,0,0,0,17,0
+June,Burao,Qolgodare - OTP and TSFP,SNS312,HPA,8.791798,45.309396,5,0,0,0,0,0,3,3,100,0,0,12,0,0,0,0,0,0,0,0,0,0,15,0
+June,Burao,Yicibyaboh - OTP and TSFP,SNS313,HPA,8.791798,45.309396,25,0,0,0,0,0,2,2,100,0,0,50,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Kabadhere - OTP and TSFP,SNS314,HPA,8.791798,45.309396,10,0,0,0,0,0,3,3,100,0,0,14,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Kaladhac - OTP and TSFP,SNS315,HPA,8.791798,45.309396,6,0,0,0,0,0,2,2,100,0,0,6,0,0,0,0,0,0,0,0,0,0,12,0
+June,Burao,Haqayo malas - OTP and TSFP,SNS316,HPA,8.791798,45.309396,12,0,0,0,0,0,4,4,100,0,0,60,0,0,0,0,0,0,0,0,0,0,7,0
+June,Burao,Beer - OTP and TSFP,SNS317,HPA,8.791798,45.309396,10,0,0,0,0,0,2,2,100,0,0,50,0,0,0,0,0,0,0,0,0,0,11,0
+June,Burao,Kadhada - OTP and TSFP,SNS318,HPA,8.70589,45.26806,2,0,0,0,0,0,1,1,100,0,0,26,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Godorka - OTP and TSFP,SNS319,HPA,8.62106,45.14789,24,0,0,0,0,0,1,1,100,0,0,60,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Suryo - OTP and TSFP,SNS320,HPA,9.349839,44.966578,11,0,0,0,0,0,1,1,100,0,0,32,0,0,0,0,0,0,0,0,0,0,9,0
+June,Burao,Iskidhon - OTP and TSFP,SNS321,HPA,9.24223,44.90343,5,0,0,0,0,0,1,1,100,0,0,17,0,0,0,0,0,0,0,0,0,0,11,0
+June,Burao,Balihiile - OTP and TSFP,SNS322,HPA,8.75638,44.73835,7,0,0,0,0,0,1,1,100,0,0,20,0,0,0,0,0,0,0,0,0,0,13,0
+June,Burao,Labigun - OTP and TSFP,SNS323,HPA,9.04092,44.91224,1,0,0,0,0,0,3,3,100,0,0,4,0,0,0,0,0,0,0,0,0,0,9,0
+June,Burao,Sanyare - OTP and TSFP,SNS324,HPA,8.81409,45.052942,2,0,0,0,0,0,3,3,100,0,0,13,0,0,0,0,0,0,0,0,0,0,10,0
+June,Burao,Bilcilwayso - OTP and TSFP,SNS325,HPA,8.91512,44.78308,2,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,10,0
+June,Burao,Warabeye - OTP and TSFP,SNS326,HPA,9.761123,45.004277,4,0,0,0,0,0,5,5,100,0,0,31,0,0,0,0,0,0,0,0,0,0,5,0
+June,Burao,Bali abaar - OTP and TSFP,SNS327,HPA,9.35561,45.06758,0,0,0,0,0,0,3,3,100,0,0,8,0,0,0,0,0,0,0,0,0,0,14,0
+June,Burao,Harada Gubatoxil - OTP and TSFP,SNS328,HPA,9.241,45.19842,38,0,0,0,0,0,5,5,100,0,0,46,0,0,0,0,0,0,0,0,0,0,6,0
+June,Burao,Bisiqa  - OTP and TSFP,SNS329,HPA,8.876515,45.097483,10,0,0,0,0,0,1,1,100,0,0,32,0,0,0,0,0,0,0,0,0,0,15,0
+June,Burao,Ayjeex - OTP and TSFP,SNS330,HPA,9.087806,46.774456,4,0,0,0,0,0,1,1,100,0,0,6,0,0,0,0,0,0,0,0,0,0,14,0
+June,Burao,Ali cise - OTP and TSFP,SNS331,HPA,9.087806,46.774456,22,0,0,0,0,0,2,2,100,0,0,60,0,0,0,0,0,0,0,0,0,0,11,0
+June,Burao,Riyo Xidho - OTP and TSFP,SNS332,HPA,9.087806,46.774456,14,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,8,0
+June,Burao,Bilcile - OTP and TSFP,SNS333,HPA,9.087806,46.774456,0,0,0,0,0,0,5,5,100,0,0,4,0,0,0,0,0,0,0,0,0,0,8,0
+June,Ainabo,Habariheshay - OTP and TSFP,SNS334,HPA,8.840441,46.402417,5,0,0,0,0,0,5,5,100,0,0,57,0,0,0,0,0,0,0,0,0,0,13,0
+June,Ainabo,Mashruca - OTP and TSFP,SNS335,HPA,9.01834,46.48713,1,0,0,0,0,0,2,2,100,0,0,45,0,0,0,0,0,0,0,0,0,0,2,0
+June,Ainabo,Tukub - OTP and TSFP,SNS336,HPA,9.14411,46.483393,3,0,0,0,0,0,4,4,100,0,0,23,0,0,0,0,0,0,0,0,0,0,4,0
+June,Ainabo,Kiridh - OTP and TSFP,SNS337,HPA,9.98049,46.12991,3,0,0,0,0,0,2,2,100,0,0,59,0,0,0,0,0,0,0,0,0,0,16,0
+June,Ainabo,Waridaad - OTP and TSFP,SNS338,HPA,9.28387,46.25364,6,0,0,0,0,0,4,4,100,0,0,60,0,0,0,0,0,0,0,0,0,0,6,0
+June,Ainabo,Balaas1 - OTP and TSFP,SNS339,HPA,9.066286,46.41218,8,0,0,0,0,0,4,4,100,0,0,46,0,0,0,0,0,0,0,0,0,0,19,0
+June,Ainabo,Balaas2 - OTP and TSFP,SNS340,HPA,9.680066,46.29559,0,0,0,0,0,0,2,2,100,0,0,38,0,0,0,0,0,0,0,0,0,0,8,0
+June,Ainabo,Oog camp - OTP and TSFP,SNS341,HPA,8.934069,46.617513,8,0,0,0,0,0,2,2,100,0,0,40,0,0,0,0,0,0,0,0,0,0,3,0
+June,Ainabo,Wadamagoo - OTP and TSFP,SNS342,HPA,8.9245,46.26745,6,0,0,0,0,0,1,1,100,0,0,46,0,0,0,0,0,0,0,0,0,0,16,0
+June,Ainabo,Buqdharkayn - OTP and TSFP,SNS343,HPA,8.9376,46.48554,1,0,0,0,0,0,1,1,100,0,0,22,0,0,0,0,0,0,0,0,0,0,13,0
+June,Ainabo,Balicumar - OTP and TSFP,SNS344,HPA,8.96423,46.45667,2,0,0,0,0,0,1,1,100,0,0,23,0,0,0,0,0,0,0,0,0,0,10,0
+June,Ainabo,Ceeldhab - OTP and TSFP,SNS345,HPA,8.93733,46.4979,2,0,0,0,0,0,1,1,100,0,0,64,0,0,0,0,0,0,0,0,0,0,10,0
+June,Ainabo,Higlo - OTP and TSFP,SNS346,HPA,9.49185,46.497968,13,0,0,0,0,0,1,1,100,0,0,70,0,0,0,0,0,0,0,0,0,0,13,0
+June,Ainabo,Ulasan - OTP and TSFP,SNS347,HPA,9.02378,46.15941,2,0,0,0,0,0,2,2,100,0,0,30,0,0,0,0,0,0,0,0,0,0,10,0
+June,Ainabo,Goljano - OTP and TSFP,SNS348,HPA,9.18375,46.35176,2,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,18,0
+June,Ainabo,Gadhka - OTP and TSFP,SNS349,HPA,9.26783,46.3769,6,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,17,0
+June,Ainabo,Dhudhubka - OTP and TSFP,SNS350,HPA,9.25501,46.40952,8,0,0,0,0,0,1,1,100,0,0,42,0,0,0,0,0,0,0,0,0,0,15,0
+June,Ainabo,Qoridhere - OTP and TSFP,SNS351,HPA,9.182895,46.671091,4,0,0,0,0,0,2,2,100,0,0,36,0,0,0,0,0,0,0,0,0,0,10,0
+June,Ainabo,Barkada Ali Hisrsi - OTP and TSFP,SNS352,HPA,9.02378,46.15941,2,0,0,0,0,0,4,4,100,0,0,50,0,0,0,0,0,0,0,0,0,0,14,0
+June,Odwaine,Dabagorayale - OTP and TSFP,SNS353,HPA,8.99811,45.35469,4,0,0,0,0,0,2,2,100,0,0,23,0,0,0,0,0,0,0,0,0,0,1,0
+June,Odwaine,Gocondhale - OTP and TSFP,SNS354,HPA,9.03494,45.28821,1,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,2,0
+June,Odwaine,RaydabKhatumo - OTP and TSFP,SNS355,HPA,9.796558,45.574205,2,0,0,0,0,0,1,1,100,0,0,23,0,0,0,0,0,0,0,0,0,0,4,0
+June,Odwaine,Lanmulaxo - OTP and TSFP,SNS356,HPA,9.02442,45.13483,10,0,0,0,0,0,3,3,100,0,0,48,0,0,0,0,0,0,0,0,0,0,10,0
+June,Odwaine,Jenyolaye - OTP and TSFP,SNS357,HPA,8.791798,45.309396,3,0,0,0,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,9,0
+June,Odwaine,Ceeg - OTP and TSFP,SNS358,HPA,8.791798,45.309396,0,0,0,0,0,0,2,2,100,0,0,32,0,0,0,0,0,0,0,0,0,0,5,0
+June,Odwaine,Goraya od - OTP and TSFP,SNS359,HPA,8.791798,45.309396,6,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,10,0
+June,Odwaine,Bodhlay - OTP and TSFP,SNS360,HPA,8.791798,45.309396,2,0,0,0,0,0,3,3,100,0,0,26,0,0,0,0,0,0,0,0,0,0,3,0
+June,Odwaine,Ali farah - OTP and TSFP,SNS361,HPA,8.791798,45.309396,6,0,0,0,0,0,3,3,100,0,0,42,0,0,0,0,0,0,0,0,0,0,12,0
+June,Odwaine,Obsiye - OTP and TSFP,SNS362,HPA,8.791798,45.309396,6,0,0,0,0,0,4,4,100,0,0,22,0,0,0,0,0,0,0,0,0,0,11,0
+June,Odwaine,Gawama - OTP and TSFP,SNS363,HPA,8.70589,45.26806,1,0,0,0,0,0,3,3,100,0,0,24,0,0,0,0,0,0,0,0,0,0,10,0
+June,Odwaine,Qalocato - OTP and TSFP,SNS364,HPA,8.62106,45.14789,1,0,0,0,0,0,3,3,100,0,0,33,0,0,0,0,0,0,0,0,0,0,16,0
+June,Odwaine,Gatiitalay - OTP and TSFP,SNS365,HPA,9.349839,44.966578,7,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,15,0
+June,Odwaine,Xidhxidh - OTP and TSFP,SNS366,HPA,9.24223,44.90343,3,0,0,0,0,0,3,3,100,0,0,32,0,0,0,0,0,0,0,0,0,0,15,0
+June,Odwaine,Dabagunbur - OTP and TSFP,SNS367,HPA,8.75638,44.73835,1,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,11,0
+June,Odwaine,Xaaxi - OTP and TSFP,SNS369,HPA,8.81409,45.052942,0,0,0,0,0,0,1,1,100,0,0,26,0,0,0,0,0,0,0,0,0,0,17,0
+June,Odwaine,Murec - OTP and TSFP,SNS370,HPA,8.91512,44.78308,2,0,0,0,0,0,4,4,100,0,0,16,0,0,0,0,0,0,0,0,0,0,3,0
+June,Odwaine,Carale Ismail - OTP and TSFP,SNS371,HPA,9.761123,45.004277,2,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,17,0
+June,Odwaine,Abdidhere - OTP and TSFP,SNS372,HPA,9.35561,45.06758,0,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,11,0
+June,Odwaine,Bali cigaal - OTP and TSFP,SNS373,HPA,9.241,45.19842,5,0,0,0,0,0,3,3,100,0,0,26,0,0,0,0,0,0,0,0,0,0,2,0
+June,Odwaine,Qolqol - OTP and TSFP,SNS374,HPA,8.876515,45.097483,0,0,0,0,0,0,0,0,0,0,0,76,0,0,0,0,0,0,0,0,0,0,9,0
+June,Hargeisa,Aw Bare - OTP and TSFP,SNS375,HPA,9.39667,43.82639,2,0,0,0,0,0,3,3,100,0,0,5,0,0,0,0,0,0,0,0,0,0,3,0
+June,Hargeisa,Dacawalay - OTP and TSFP,SNS376,HPA,10.4417,43.65495,3,0,0,0,0,0,3,3,100,0,0,6,0,0,0,0,0,0,0,0,0,0,3,0
+June,Hargeisa,Fahda - OTP and TSFP,SNS377,HPA,9.447454,43.918564,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0
+June,Hargeisa,maraaga - OTP and TSFP,SNS378,HPA,9.39747,43.74581,4,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,4,0
+June,Hargeisa,Haro cadaado - OTP and TSFP,SNS379,HPA,9.53583,43.76222,4,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,9,0
+June,Hargeisa,Digaale - OTP and TSFP,SNS380,HPA,9.320506,44.050178,5,0,0,0,0,0,1,1,100,0,0,9,0,0,0,0,0,0,0,0,0,0,7,0
+June,Hargeisa,Gorayo - OTP and TSFP,SNS381,HPA,9.6235,43.504,3,0,0,0,0,0,2,2,100,0,0,4,0,0,0,0,0,0,0,0,0,0,5,0
+June,Hargeisa,Higlada - OTP and TSFP,SNS382,HPA,8.82003,44.54681,1,0,0,0,0,0,2,2,100,0,0,1,0,0,0,0,0,0,0,0,0,0,15,0
+June,Hargeisa,Hundule - OTP and TSFP,SNS383,HPA,9.31686,44.14944,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+June,Hargeisa,Ina Guuxaa - OTP and TSFP,SNS384,HPA,8.92778,44.22181,41,0,0,0,0,0,3,3,100,0,0,73,0,0,0,0,0,0,0,0,0,0,16,0
+June,Hargeisa,Libaax qawdhama - OTP and TSFP,SNS385,HPA,8.83925,44.48781,1,0,0,0,0,0,2,2,100,0,0,8,0,0,0,0,0,0,0,0,0,0,17,0
+June,Hargeisa,Maygaagta yar iyo wayn - OTP and TSFP,SNS386,HPA,9.51333,44.20093,4,0,0,0,0,0,1,1,100,0,0,1,0,0,0,0,0,0,0,0,0,0,16,0
+June,Hargeisa,Qowl Buulale - OTP and TSFP,SNS387,HPA,8.86822,44.39969,2,0,0,0,0,0,5,5,100,0,0,8,0,0,0,0,0,0,0,0,0,0,10,0
+June,Hargeisa,Sharmaarke - OTP and TSFP,SNS388,HPA,9.399979,44.217907,13,0,0,0,0,0,2,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0
+June,Hargeisa,Toon - OTP and TSFP,SNS389,HPA,9.39069,44.11939,14,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,16,0
+June,Hargeisa,qool caday - OTP and TSFP,SNS390,HPA,9.21169,44.16503,2,0,0,0,0,0,1,1,100,0,0,2,0,0,0,0,0,0,0,0,0,0,10,0
+June,Hargeisa,Xadhig xadhig - OTP and TSFP,SNS391,HPA,9.359877,43.609406,10,0,0,0,0,0,2,2,100,0,0,1,0,0,0,0,0,0,0,0,0,0,11,0
+June,Erigavo,Shalcow - OTP and TSFP,SNS392,HPA,10.777021,46.720051,2,0,0,0,0,0,3,3,100,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0
+June,Erigavo,Dhoobo - OTP and TSFP,SNS393,HPA,10.51379,47.77419,3,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,14,0
+June,Erigavo,Qotonka - OTP and TSFP,SNS394,HPA,10.76997,47.97745,2,0,0,0,0,0,2,2,100,0,0,2,0,0,0,0,0,0,0,0,0,0,10,0
+June,Erigavo,Geed caroweyn - OTP and TSFP,SNS395,HPA,11.11581,47.91034,0,0,0,0,0,0,5,5,100,0,0,4,0,0,0,0,0,0,0,0,0,0,8,0
+June,Erigavo,Laaso Dhagax - OTP and TSFP,SNS396,HPA,11.147119,47.343604,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Cilamo - OTP and TSFP,SNS397,HPA,10.944952,47.241548,1,0,0,0,0,0,1,1,100,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Sodonlay - OTP and TSFP,SNS398,HPA,10.306192,46.30796,11,0,0,0,0,0,2,2,100,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Kamouda - OTP and TSFP,SNS399,HPA,9.73981,47.65417,1,0,0,0,0,0,4,4,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Keylo Waqal - OTP and TSFP,SNS400,HPA,10.68228,46.44826,0,0,0,0,0,0,4,4,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Conqor - OTP and TSFP,SNS401,HPA,10.77793,46.19731,0,0,0,0,0,0,5,5,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Nagolagufur - OTP and TSFP,SNS402,HPA,10.72791,47.53481,1,0,0,0,0,0,3,3,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Yufle - OTP and TSFP,SNS403,HPA,10.376977,47.195739,0,0,0,0,0,0,4,4,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Saqiyad - OTP and TSFP,SNS404,HPA,9.9621,48.13828,2,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Kalmac - OTP and TSFP,SNS405,HPA,10.069057,47.204579,1,0,0,0,0,0,2,2,100,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Ceel caro - OTP and TSFP,SNS406,HPA,9.808085,46.603849,5,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Ceel fiito - OTP and TSFP,SNS407,HPA,10.61541,47.22518,3,0,0,0,0,0,5,5,100,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Uurwayn - OTP and TSFP,SNS408,HPA,10.74225,48.10947,0,0,0,0,0,0,4,4,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Doboc (Erigavo) - OTP and TSFP,SNS409,HPA,10.682528,47.752035,2,0,0,0,0,0,2,2,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Kubaday - OTP and TSFP,SNS410,HPA,9.73981,47.65417,2,0,0,0,0,0,1,1,100,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Kalxoor - OTP and TSFP,SNS411,HPA,10.809207,47.45558,3,0,0,0,0,0,1,1,100,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Qacab ciinle - OTP and TSFP,SNS412,HPA,10.038026,47.558841,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Kaldaray (Erigavo) - OTP and TSFP,SNS413,HPA,9.84207,46.574791,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Bali(galgaal) - OTP and TSFP,SNS414,HPA,10.6806,47.65591,0,0,0,0,0,0,2,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Xoog bardaale - OTP and TSFP,SNS415,HPA,10.77807,47.2736,1,0,0,0,0,0,3,3,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Koof (Erigavo) - OTP and TSFP,SNS416,HPA,9.73981,47.65417,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,OROG - OTP and TSFP,SNS417,HPA,10.1521,47.798,1,0,0,0,0,0,1,1,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Fardheeratay - OTP and TSFP,SNS418,HPA,10.4195,48.299702,0,0,0,0,0,0,1,1,100,0,0,13,0,0,0,0,0,0,0,0,0,0,4,0
+June,Erigavo,Kalarog - OTP and TSFP,SNS419,HPA,10.1521,47.798,0,0,0,0,0,0,1,1,100,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Gurmaan - OTP and TSFP,SNS420,HPA,9.73981,47.65417,0,0,0,0,0,0,1,1,100,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0
+June,Erigavo,Biyo xadhaadh - OTP and TSFP,SNS421,HPA,9.57794,47.48019,0,0,0,0,0,0,1,1,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Laascilaan - OTP and TSFP,SNS422,HPA,11.147119,47.343604,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Bali Galgaal - OTP and TSFP,SNS423,HPA,10.6806,47.65591,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Erigavo,Uur - OTP and TSFP,SNS424,HPA,10.24361,47.69705,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Gudohaadle - OTP and TSFP,SNS425,HPA,10.58882,47.29122,1,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Sarmaano - OTP and TSFP,SNS426,HPA,10.15955,46.24721,3,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Kal-Sheikh - OTP and TSFP,SNS427,HPA,10.062975,47.204693,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,God caanood - OTP and TSFP,SNS428,HPA,10.105648,47.307387,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Dhadhiid Yaxye - OTP and TSFP,SNS429,HPA,10.057183,47.370631,0,0,0,0,0,0,1,1,100,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Qal iyo Qac - OTP and TSFP,SNS430,HPA,9.61874,46.82852,2,0,0,0,0,0,2,2,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Dhabar Mamac - OTP and TSFP,SNS431,HPA,10.343805,48.691851,1,0,0,0,0,0,2,2,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Timo-Weynta(darar-weyne) - OTP and TSFP,SNS432,HPA,9.757366,47.527199,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Higlo(darar-Weyne) - OTP and TSFP,SNS433,HPA,8.82003,44.54681,0,0,0,0,0,0,1,1,100,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Kaldaray - OTP and TSFP,SNS434,HPA,9.84207,46.574791,0,0,0,0,0,0,2,2,100,0,0,5,0,0,0,0,0,0,0,0,0,0,2,0
+June,El-afwayn,Bixin(higlobalaysi) - OTP and TSFP,SNS435,HPA,10.25956,47.30543,1,0,0,0,0,0,1,1,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Galruble - OTP and TSFP,SNS436,HPA,10.09504,47.04531,0,0,0,0,0,0,1,1,100,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+June,El-afwayn,Ilad - OTP and TSFP,SNS437,HPA,10.172998,47.112832,0,0,0,0,0,0,2,2,100,0,0,13,0,0,0,0,0,0,0,0,0,0,2,0
+June,El-afwayn,Bali(galgaal) farguud - OTP and TSFP,SNS438,HPA,10.038026,47.558841,6,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,4,0
+June,El-afwayn,DOCOB (El-afwayn) - OTP and TSFP,SNS439,HPA,10.682528,47.752035,0,0,0,0,0,0,1,1,100,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0
+June,El-afwayn,Beer Wayso - OTP and TSFP,SNS440,HPA,9.755949,47.528741,2,0,0,0,0,0,2,2,100,0,0,4,0,0,0,0,0,0,0,0,0,0,3,0
+June,El-afwayn,Jed(Biyo Dhacay) - OTP and TSFP,SNS441,HPA,10.311183,47.667107,11,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,3,0
+June,El-afwayn,Dawldawl - OTP and TSFP,SNS442,HPA,9.55867,47.04721,4,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hargeisa,Ina Cunaaye - OTP and TSFP,SNS618,HPA,9.315,44.05094,4,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,2,0
+June,Hargeisa,Laalayska - OTP and TSFP,SNS624,HPA,9.362765,43.91166667,5,0,0,0,0,0,2,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+June,Odwaine,Galoolay - OTP and TSFP Mobile,SNS228,HPA,9.75931,43.75077,4,0,0,0,0,0,5,5,100,0,0,42,0,0,0,0,0,0,0,0,0,0,18,13
+June,Dhusamareb ,Ballicad/Dumaye/Mobile - Integrated Health and  nutrition site,SNS454,IRC,5.4875,46.095833,23,0,1,0,2,0,15,17,88,12,0,55,0,0,1,23,24,96,0,4,1,26,0,45
+June,Dhusamareb ,Beer cabdi farax/Mobile - Integrated Health and  nutrition site,SNS455,IRC,5.445833,46.500556,20,0,0,0,0,1,13,14,93,0,7,47,0,2,0,20,20,100,0,0,0,19,0,43
+June,Dhusamareb ,Dhusamareb district  - Referral Health Centre,SNS456,IRC,5.53764,46.3867,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+June,Dhusamareb ,Faragoy/Mobile - Integrated Health and  nutrition site,SNS457,IRC,5.92108,46.524527,19,1,0,0,1,0,12,13,92,15,0,50,0,0,0,16,16,100,0,0,0,16,0,49
+June,Dhusamareb ,Hadful/Mobile - Integrated Health and  nutrition site,SNS458,IRC,5.643056,46.554722,18,0,0,0,0,0,20,20,100,0,0,49,0,0,0,19,19,100,0,0,0,26,0,53
+June,Dhusamareb,Hanan Hospital - HC,SNS459,IRC,5.320374,46.225872,87,3,4,7,14,3,33,57,58,42,5,178,0,3,2,57,59,97,0,3,19,108,53,238
+June,Dhusamareb ,Hananley/Mobile - Integrated Health and  nutrition site,SNS460,IRC,5.664444,46.422778,24,0,0,0,1,1,12,14,86,7,7,53,0,0,0,15,15,100,0,0,2,13,5,54
+June,Dhusamareb ,Higlale/Mobile - Integrated Health and  nutrition site,SNS461,IRC,5.493056,46.2075,17,0,1,0,0,0,14,14,100,0,0,38,0,1,0,15,15,100,0,0,0,17,0,28
+June,Dhusamareb ,Xundhure/Mobile - Integrated Health and  nutrition site,SNS462,IRC,5.45911,46.38648,29,1,0,0,0,1,15,16,94,6,6,54,0,1,2,22,24,92,0,8,0,33,1,53
+June,Guricel ,Ali Hassan/Mobile 2 - Integrated Health and  nutrition site,SNS463,IRC,5.18907,45.91851,18,0,0,0,0,2,10,12,83,0,17,48,0,0,1,19,20,95,0,5,0,22,0,43
+June,Guricel ,Aran/Mobile 1 - Integrated Health and  nutrition site,SNS464,IRC,5.30825,45.87737,37,0,1,0,4,1,22,27,81,15,4,83,0,5,3,30,33,91,0,9,5,84,11,96
+June,Guricel ,Barax/Mobile 2 - Integrated Health and  nutrition site,SNS465,IRC,5.40896,45.7955,17,0,2,0,0,1,17,18,94,0,6,44,0,1,0,23,23,100,0,0,0,27,1,35
+June,Guricel ,Bart-Ugaska/Mobile 1 - Integrated Health and  nutrition site,SNS466,IRC,5.23694,45.82129,15,1,0,0,1,0,12,13,92,15,0,38,0,3,0,22,22,100,0,0,0,26,0,38
+June,Guricel ,Calalale/Mobile 2 - Integrated Health and  nutrition site,SNS467,IRC,5.54121,45.67062,16,0,0,0,0,1,13,14,93,0,7,39,0,0,0,22,22,100,0,0,0,25,1,46
+June,Guricel ,Ceelbaraf/Mobile 1 - Integrated Health and  nutrition site,SNS468,IRC,5.4798,45.89961,14,0,1,0,0,0,13,13,100,0,0,38,0,0,0,24,24,100,0,0,0,24,1,51
+June,Guricel ,Dabarre/Mobile 1 - Integrated Health and  nutrition site,SNS469,IRC,5.126111,45.935278,15,0,1,0,1,0,11,12,92,8,0,28,0,0,2,20,22,91,0,9,0,18,0,31
+June,Guricel ,Damanyo/Mobile 1 - Integrated Health and  nutrition site,SNS470,IRC,5.17972,45.53306,13,1,0,0,0,0,11,11,100,9,0,34,0,2,0,16,16,100,0,0,0,23,0,29
+June,Guricel ,Dhagaxyale/Mobile 1 - Integrated Health and  nutrition site,SNS471,IRC,5.27692,45.83127,12,0,0,0,1,0,11,12,92,8,0,36,0,0,1,27,28,96,0,4,0,18,0,34
+June,Guricel ,Dirie-Hassan/Mobile 2 - Integrated Health and  nutrition site,SNS472,IRC,5.26156,45.765,18,1,0,0,0,1,14,15,93,7,7,46,0,0,2,17,19,89,0,11,0,22,0,36
+June,Guricel ,Gabun/Mobile 1 - Integrated Health and  nutrition site,SNS473,IRC,5.4898,45.79951,14,0,0,0,0,1,12,13,92,0,8,42,0,1,0,22,22,100,0,0,0,19,0,47
+June,Guricel ,Gashan/Mobile 2 - Integrated Health and  nutrition site,SNS474,IRC,5.30825,45.87737,21,0,2,0,0,0,14,14,100,0,0,42,0,0,1,23,24,96,0,4,0,21,0,34
+June,Guricel ,Godwil/Mobile 2 - Integrated Health and  nutrition site,SNS475,IRC,5.30894,45.8856,18,0,1,0,0,0,14,14,100,0,0,47,0,0,0,18,18,100,0,0,0,27,0,43
+June,Guricel ,Guricel District - Hospital ,SNS476,IRC,5.31296,45.88569,68,1,2,16,3,2,21,42,50,48,5,131,0,4,0,48,48,100,0,0,26,111,66,190
+June,Guricel ,Harale/Mobile 2 - Integrated Health and  nutrition site,SNS477,IRC,5.40079,45.94858,18,0,0,0,1,1,14,16,88,6,6,44,0,0,1,23,24,96,0,4,0,17,0,44
+June,Guricel ,Lanle/Mobile 2 - Integrated Health and  nutrition site,SNS478,IRC,5.4366,45.94898,22,0,0,0,1,1,15,17,88,6,6,47,0,0,0,23,23,100,0,0,0,19,0,39
+June,Guricel ,Nagaadi-weyn/Mobile 1 - Integrated Health and  nutrition site,SNS479,IRC,5.07791,45.8319,11,0,0,0,0,0,9,9,100,0,0,34,0,0,0,14,14,100,0,0,0,20,0,38
+June,Guricel ,Qarsoni/Mobile 2 - Integrated Health and  nutrition site,SNS480,IRC,5.4869,45.84895,14,0,0,0,0,1,12,13,92,0,8,36,0,0,0,14,14,100,0,0,0,14,0,37
+June,Guricel ,Shalaqben/Mobile 1 - Integrated Health and  nutrition site,SNS481,IRC,6.02351,45.96333,19,0,0,0,0,0,12,12,100,0,0,44,0,0,2,22,24,92,0,8,0,18,0,41
+June,Guricel ,Ujuuran/Mobile 1 - Integrated Health and  nutrition site,SNS482,IRC,6.02351,45.96333,15,0,0,0,0,1,10,11,91,0,9,35,0,2,0,19,19,100,0,0,0,22,0,39
+June,Gaalkayo South ,Gaalkayo South Hospital - Gaalkayo South Hospital,SNS483,IRC,6.84444,47.42816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,244,15,
+June,Kahda,"Dalada Mako, Camp Bulo-Sheik, , Dalada Celcade, Dalaada Rabituuk, Dalada Kuntuwarey - Health Mobile Team",SNS484,IMC,2.03996,45.13815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+June,Kahda,"Dalada Garas Bajino, Dalada Dulqad, Dalaada Mareeg, Dalada Nageeye, Camp Farjano - Health Mobile Team",SNS485,IMC,2.04086,45.14231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,22,0,0
+June,Kahda ,Kahda HC - HC With Nutrition Screening & Referral,SNS486,IMC,2.03809,45.14551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Wadajir,"Camp Bill iyo Xidig, Dalada Nageyee, Camp Lafweyne, Camp Weedow, Camp Kalkaal - Health Mobile Team",SNS487,IMC,2.02277,45.17611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+June,Wadajir,"Dalada Bardhere, Camp Waasax, Camp towfiq, Camp Osob, Camp Masha-Allah. - Health Mobile Team",SNS488,IMC,2.03996,45.1426,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Abudwak,1st July HC - HC with OTP & TSFP,SNS489,IMC,6.12156,46.125453,40,0,0,0,0,0,26,26,100,0,0,236,0,0,0,0,0,0,0,0,0,0,18,0
+June,Abudwak,Bangelle HC - HC with OTP & TSFP,SNS490,IMC,6.0502,46.1846,23,0,0,0,0,0,17,17,100,0,0,0,0,0,0,0,0,0,0,0,0,14,55,0
+June,Abudwak,Dabad HC - HC with CTC  OTP & TSFP,SNS491,IMC,6.254958,46.272158,20,0,0,0,0,0,23,23,100,0,0,83,0,0,0,0,0,0,0,0,5,11,33,0
+June,Abudwak,Ibado Referral HC - RHC with CTC  SC & OTP,SNS492,IMC,6.142536,46.14418,264,0,0,20,6,10,144,180,80,14,6,378,0,0,0,0,0,0,0,0,0,8,0,0
+June,Abudwak,Mirjicley HC - HC with OTP & TSFP,SNS493,IMC,5.58698,46.2188,77,0,0,0,0,3,26,29,90,0,10,168,0,0,0,0,0,0,0,0,10,27,93,0
+June,Jowhar,Galoley HC - Fixed OTP/TSFP,SNS494,IMC,2.42128,45.1849,67,0,0,0,1,0,11,12,92,8,0,615,0,0,0,1,1,100,0,0,0,1,0,0
+June,Abudwak,"Alla-Amin, Tawakal/Balgish IDPs,Garasle IDP, Hurfada IDP, lander IDP, Shimbirale IDP - Integrated Health & Nutrition Mobile Team (1st July)",SNS495,IMC,6.132993,46.142485,116,0,0,0,0,0,55,55,100,0,0,243,0,0,0,0,0,0,0,0,0,32,0,0
+June,Abudwak,"Balihawad,Ilmanasey,Dilinba,Dafle,Caligurey, Dalsan, Libaxyare,Lamawayne, Dhilitre, Labagale, Angalo - Nutrition Mobile Team",SNS496,IMC,6.1615,46.1924,111,0,0,0,0,0,19,19,100,0,0,242,0,0,0,0,0,0,0,0,0,0,0,0
+June,Abudwak,Hadiyo CTC - Integrated Health & Nutrition Mobile Team (1st July),SNS497,IMC,6.235207,46.23251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,235,0
+June,Balambal,"Borancad,Odale,Dahir Budhle,Burale Idps,Goroyo Hor idps, Waaberi Village - Nutrition Mobile Team",SNS498,IMC,5.5243,45.4012,145,0,0,0,0,0,42,42,100,0,0,231,0,0,0,0,0,0,0,0,0,0,0,0
+June,Abudwak,"Balicad, Galmaygag,Darusalam, Libaxsexay, Aricadays,Geswayne,Airport, Landher,Shilamadow, Lasole - Nutrition Mobile Team",SNS499,IMC,6.1627,46.2233,166,0,0,0,0,0,41,41,100,0,0,230,0,0,0,0,0,0,0,0,0,0,0,0
+June,Balambal,Balambal town - HC with CTC  OTP & TSFP,SNS619,IMC,5.762953,45.756243,337,0,0,0,0,0,41,41,100,0,0,385,0,0,0,0,0,0,0,0,0,0,11,0
+June,Balambal,"Yocale village, Kalafoge village, Barwaqo village, Timaweynta, inaerig, Gacandaley - Nutrition Mobile Team",SNS625,IMC,5.973611111,45.8,129,0,0,0,0,0,41,41,100,0,0,149,0,0,0,0,0,0,0,0,0,24,0,0
+June,Baki,Xamashka - OTP and TSFP Mobile,SNS100,SCI,10.27701,43.41222,4,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,58
+June,Baki,Xamarta  - OTP and TSFP Mobile,SNS101,SCI,10.108934,43.356797,6,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,63
+June,Borama,Cayngala - OTP and TSFP Mobile,SNS102,SCI,9.70395,43.37201,6,0,0,0,0,0,2,2,100,0,0,29,0,0,0,4,4,100,0,0,0,0,0,69
+June,Borama,Carocad - OTP and TSFP Mobile,SNS103,SCI,10.01349,43.44324,2,0,0,0,0,0,2,2,100,0,0,16,0,0,0,0,0,0,0,0,0,0,0,29
+June,Borama,Jufada - OTP and TSFP Mobile,SNS104,SCI,9.69377,43.29268,5,0,0,0,0,0,5,5,100,0,0,30,0,0,0,3,3,100,0,0,0,0,0,52
+June,Borama,Khamuun - OTP and TSFP Mobile,SNS105,SCI,9.79192,43.27711,6,0,0,0,0,0,6,6,100,0,0,49,0,0,0,4,4,100,0,0,0,0,0,82
+June,Borama,Maaga/lamalooshka - OTP and TSFP Mobile,SNS106,SCI,9.69214,43.32793,6,0,0,0,0,0,4,4,100,0,0,23,0,0,0,2,2,100,0,0,0,0,0,70
+June,Borama,Qaararu - OTP and TSFP Mobile,SNS107,SCI,10.06292,43.06172,6,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,32
+June,Borama,Qabriga caruurta - OTP and TSFP Mobile,SNS108,SCI,10.06303,43.06181,10,0,0,0,0,0,2,2,100,0,0,61,0,0,0,0,0,0,0,0,0,0,0,113
+June,Borama,Qabri-dhawad - OTP and TSFP Mobile,SNS109,SCI,9.77942,43.3445,15,0,0,0,0,0,5,5,100,0,0,66,0,0,0,21,21,100,0,0,0,0,0,85
+June,Borama,Sogsoglay - OTP and TSFP Mobile,SNS110,SCI,9.93747,43.13522,14,0,0,0,0,0,6,6,100,0,0,65,0,0,0,15,15,100,0,0,0,0,0,127
+June,Borama,Xushallay - OTP and TSFP Mobile,SNS111,SCI,9.7209,43.4222,6,0,0,0,0,0,3,3,100,0,0,48,0,0,0,0,0,0,0,0,0,0,0,74
+June,Lughaya,Beeyo cadadeed - OTP and TSFP Mobile,SNS112,SCI,10.20882,43.75095,0,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,48
+June,Lughaya,Biya cas - OTP and TSFP Mobile,SNS113,SCI,9.73521,43.85376,1,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,41
+June,Lughaya,Bulocado/qudhaanjalaY - OTP and TSFP Mobile,SNS114,SCI,10.75131,43.59125,8,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,54
+June,Lughaya,Damasha - OTP and TSFP Mobile,SNS115,SCI,10.15781,43.83497,0,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,60
+June,Lughaya,Garaaca - OTP and TSFP Mobile,SNS116,SCI,10.7142,43.82382,2,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,44
+June,Lughaya,Kalawle - OTP and TSFP Mobile,SNS117,SCI,10.551523,43.8527,8,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,49
+June,Lughaya,Laan cawale - OTP and TSFP Mobile,SNS118,SCI,10.86573,43.74596,5,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,40
+June,Lughaya,magaalo xooga - OTP and TSFP Mobile,SNS119,SCI,10.4093,43.44947,2,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,42
+June,Lughaya,Saclamoodka  - OTP and TSFP Mobile,SNS120,SCI,10.02755,44.0085,8,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,47
+June,Lughaya,Teeb - OTP and TSFP Mobile,SNS121,SCI,10.15817,43.83447,5,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,32
+June,Zeila,Barisle - OTP and TSFP Mobile,SNS122,SCI,11.432446,43.294363,3,0,0,0,0,0,0,0,0,0,0,12,0,0,0,8,8,100,0,0,0,0,0,20
+June,Zeila,Bayga - OTP and TSFP Mobile,SNS123,SCI,10.55783,43.13985,9,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,31
+June,Zeila,caashocado - OTP and TSFP Mobile,SNS124,SCI,9.907693,43.114862,11,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,35
+June,Zeila,Gamada - OTP and TSFP Mobile,SNS125,SCI,11.08806,43.50773,9,0,0,0,0,0,4,4,100,0,0,25,0,0,0,8,8,100,0,0,0,0,0,35
+June,Zeila,Gargara galbed - OTP and TSFP Mobile,SNS126,SCI,10.46174,43.2482,3,0,0,0,0,0,8,8,100,0,0,16,0,0,0,5,5,100,0,0,0,0,0,25
+June,Zeila,Huseini - OTP and TSFP Mobile,SNS127,SCI,10.56067,43.24975,5,0,0,0,0,0,7,7,100,0,0,16,0,0,0,10,10,100,0,0,0,0,0,25
+June,Zeila,Kale beydhaka - OTP and TSFP Mobile,SNS128,SCI,10.63674,44.02135,5,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,30
+June,Zeila,Qudhanjaale - OTP and TSFP Mobile,SNS129,SCI,11.08173,43.53277,11,0,0,0,0,0,5,5,100,0,0,26,0,0,0,13,13,100,0,0,0,0,0,35
+June,Zeila,Muliyo - OTP and TSFP Mobile,SNS130,SCI,11.42078,43.32906,2,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,5
+June,Zeila,Toqoshi - OTP and TSFP Mobile,SNS131,SCI,11.343782,43.419546,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,1,1,100,0,0,0,0,0,25
+June,Deynile,Malable - OTP and TSFP Mobile,SNS132,SCI,2.0527778,45.276111,1585,0,0,0,0,3,144,147,98,0,2,2749,0,0,0,142,142,100,0,0,0,0,0,781
+June,Deynile,Weydow - OTP and TSFP,SNS133,SCI,2.089444,45.250833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dharkinley,Deq-rabbi - OTP and TSFP Mobile,SNS134,SCI,2.0536111,45.2675,592,0,0,1,1,3,52,57,91,4,5,1171,0,0,0,54,54,100,0,0,0,0,0,391
+June,Dharkinley,Kulmiye - OTP and TSFP Mobile,SNS135,SCI,2.049444,45.258611,634,0,0,0,1,2,36,39,92,3,5,844,0,0,1,65,66,98,0,2,0,0,0,257
+June,Hamarjajab,1-da May - OTP,SNS136,SCI,2.02944,45.33,392,0,0,0,3,2,22,27,81,11,7,142,0,0,0,0,0,0,0,0,0,0,0,358
+June,Hamarweyne ,Gobanimo - OTP,SNS137,SCI,2.0333,45.34277,361,0,0,0,0,6,27,33,82,0,18,966,0,0,0,0,0,0,0,0,0,29,11,1116
+June,Waberi,El-gab - OTP,SNS138,SCI,2.0336111,45.334722,368,1,0,0,1,1,35,37,95,5,3,23,0,0,0,0,0,0,0,0,0,0,0,75
+June,Waberi,Hantiwadag - OTP ,SNS139,SCI,2.313889,45.325,495,0,0,0,0,0,26,26,100,0,0,49,0,0,0,0,0,0,0,0,0,0,0,1038
+June,Allula,Dhurbo - OTP and TSFP Mobile,SNS140,SCI,11.757783,51.189658,33,0,0,0,0,0,2,2,100,0,0,49,0,0,1,0,1,0,0,100,0,0,0,134
+June,Allula,Geesaley - OTP and TSFP Mobile,SNS141,SCI,11.744967,50.50374,29,0,0,0,0,0,4,4,100,0,0,35,0,0,0,0,0,0,0,0,0,0,0,96
+June,Allula,Horseela - OTP and TSFP Mobile,SNS142,SCI,11.564622,50.869,26,0,0,0,0,1,6,7,86,0,14,46,0,0,0,0,0,0,0,0,0,0,0,113
+June,Allula,Murcayo - Fixed Health centre ,SNS143,SCI,11.691681,50.457833,43,0,0,0,0,0,2,2,100,0,0,61,0,0,0,0,0,0,0,0,0,0,0,132
+June,Allula,Ximistiyo - OTP and TSFP Mobile,SNS144,SCI,11.760526,51.196112,44,0,0,0,0,0,7,7,100,0,0,53,0,0,0,0,0,0,0,0,0,0,0,141
+June,Armo,Barookhle  - OTP and TSFP Mobile,SNS145,SCI,10.519138,49.231491,42,0,0,0,0,0,7,7,100,0,0,46,0,0,0,0,0,0,0,0,0,0,0,177
+June,Armo,Carta  - OTP and TSFP Mobile,SNS146,SCI,10.496328,49.074932,38,0,0,0,0,0,3,3,100,0,0,47,0,0,1,0,1,0,0,100,0,0,0,132
+June,Armo,Juurile  - OTP and TSFP Mobile,SNS147,SCI,10.385377,49.071735,41,0,0,0,0,0,2,2,100,0,0,43,0,0,0,0,0,0,0,0,0,0,0,127
+June,Armo,Jiingadda  - OTP and TSFP Mobile,SNS148,SCI,10.72517,49.149988,21,0,0,0,0,2,7,9,78,0,22,27,0,0,0,0,0,0,0,0,0,0,0,94
+June,Armo,Laasa-dawaco  - OTP and TSFP Mobile,SNS149,SCI,10.471521,49.082832,39,0,0,0,0,0,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,151
+June,Bargaal,Hoodaa  - OTP and TSFP Mobile,SNS150,SCI,11.02856,50.44246,21,0,0,0,0,0,2,2,100,0,0,26,0,0,0,0,0,0,0,0,0,0,0,162
+June,Bargaal,Qoroxaad/dibir - OTP and TSFP Mobile,SNS151,SCI,11.083367,50.750521,4,0,0,0,0,0,2,2,100,0,0,6,0,0,0,0,0,0,0,0,0,0,0,64
+June,Bargaal,Muudiye - OTP and TSFP Mobile,SNS152,SCI,11.35013,50.67301,19,0,0,0,0,0,2,2,100,0,0,23,0,0,0,0,0,0,0,0,0,0,0,159
+June,Bargaal,Taageer  - OTP and TSFP Mobile,SNS153,SCI,10.945805,50.919872,18,0,0,0,0,0,3,3,100,0,0,23,0,0,1,0,1,0,0,100,0,0,0,158
+June,Bargaal,Waadi-khayr  - OTP and TSFP Mobile,SNS154,SCI,11.12964,51.055999,22,0,0,0,0,0,2,2,100,0,0,11,0,0,2,0,2,0,0,100,0,0,0,155
+June,Qandala,Belwacato  - OTP and TSFP Mobile,SNS155,SCI,11.027225,50.440436,29,0,0,0,1,0,2,3,67,33,0,40,0,0,0,0,0,0,0,0,0,0,0,159
+June,Qandala,Ceel-gaal - OTP and TSFP Mobile,SNS156,SCI,11.375204,50.397188,48,0,0,0,0,0,5,5,100,0,0,58,0,0,0,0,0,0,0,0,0,0,0,142
+June,Qandala,Qaanlaaye - OTP and TSFP Mobile,SNS157,SCI,11.289972,50.328479,35,0,0,0,0,0,4,4,100,0,0,49,0,0,0,0,0,0,0,0,0,0,0,203
+June,Qandala,Unuun - OTP and TSFP Mobile,SNS158,SCI,11.178507,50.434055,44,0,0,0,0,0,1,1,100,0,0,60,0,0,0,0,0,0,0,0,0,0,0,154
+June,Qandala,Xamure - OTP and TSFP Mobile,SNS159,SCI,10.66599,50.53527,20,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,116
+June,Baidoa,Awshin - OTP and TSFP Mobile,SNS160,SCI,3.1024,43.29,179,0,0,0,0,0,50,50,100,0,0,210,2,0,0,21,21,100,10,0,0,0,0,365
+June,Baidoa,Berdale - OTP and TSFP Mobile,SNS161,SCI,3.213889,43.77472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Baidoa,Edkayal - OTP and TSFP Mobile,SNS162,SCI,3.135,43.663889,159,1,0,0,0,3,61,64,95,2,5,245,0,0,0,21,21,100,0,0,0,0,0,168
+June,Baidoa,Gooyaale - OTP and TSFP Mobile,SNS163,SCI,3.1024,43.29,160,3,0,0,0,0,38,38,100,8,0,212,0,0,0,6,6,100,0,0,0,0,0,171
+June,Baidoa,Horseed - OTP and TSFP Mobile,SNS164,SCI,3.32167,43.70778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Baidoa,Morshi - OTP and TSFP Mobile,SNS165,SCI,3.138056,43.675278,146,4,0,0,0,1,48,49,98,8,2,162,0,0,0,0,0,0,0,0,0,0,0,270
+June,Berdale,Bakalhoobad - OTP and TSFP Mobile,SNS166,SCI,3.122,43.1156,62,0,0,0,0,0,37,37,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Berdale,Oktoobar - OTP and TSFP Mobile,SNS167,SCI,3.1245,43.1123,56,2,0,0,0,0,39,39,100,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Belewaine,Banan - OTP and TSFP Mobile,SNS168,SCI,4.848607,45.24758,286,0,0,0,0,0,112,112,100,0,0,283,0,0,0,0,0,0,0,0,0,0,0,243
+June,Belewaine,Gasle - OTP and TSFP Mobile,SNS169,SCI,4.920779,45.162086,140,0,0,0,0,3,38,41,93,0,7,267,0,0,0,0,0,0,0,0,0,0,0,153
+June,Belewaine,Ilkacade - OTP and TSFP Mobile,SNS170,SCI,4.881407,45.22761,139,0,0,0,0,0,41,41,100,0,0,259,0,0,0,0,0,0,0,0,0,0,0,164
+June,Mahas,Gooba - OTP and TSFP Mobile,SNS171,SCI,4.5,46.050189,72,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,58
+June,Mahas,Mahas - OTP and TSFP Mobile,SNS172,SCI,4.38364,46.0878,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Mataban,Baribax - OTP and TSFP Mobile,SNS173,SCI,5.040856,45.322116,312,0,0,0,0,0,26,26,100,0,0,185,0,0,0,0,0,0,0,0,0,0,0,298
+June,Mataban,Gelkudhal - OTP and TSFP Mobile,SNS174,SCI,5.06677,45.470278,469,0,0,0,0,0,24,24,100,0,0,175,0,0,0,0,0,0,0,0,0,0,0,306
+June,Mataban,Gerijir - OTP and TSFP Mobile,SNS175,SCI,5.433441,45.5006,526,0,0,0,0,0,0,0,0,0,0,287,0,0,0,0,0,0,0,0,0,0,0,218
+June,Mataban,Haja-hababis - OTP and TSFP Mobile,SNS176,SCI,5.37,45.53694,471,0,0,0,0,0,0,0,0,0,0,263,0,0,0,0,0,0,0,0,0,0,0,195
+June,Mataban,Ilgule - OTP and TSFP Mobile,SNS177,SCI,5.65444,45.994167,307,0,0,0,0,0,0,0,0,0,0,153,0,0,0,0,0,0,0,0,0,0,0,185
+June,Mataban,Labile - OTP and TSFP Mobile,SNS178,SCI,5.18401,45.46688,156,0,0,0,0,2,3,5,60,0,40,222,0,0,0,0,0,0,0,0,0,0,0,70
+June,Banderbeyla,Aris - OTP and TSFP Mobile,SNS179,SCI,9.59525,50.798117,22,0,0,0,0,0,3,3,100,0,0,34,0,0,0,0,0,0,0,0,0,0,0,44
+June,Banderbeyla,Banderbayla - Fixed Health centre ,SNS180,SCI,9.493291,50.813298,22,0,0,0,0,0,2,2,100,0,0,26,0,0,0,0,0,0,0,0,0,0,0,125
+June,Banderbeyla,Dhuudo - Fixed Health centre ,SNS181,SCI,9.324601,50.207289,23,0,0,0,0,0,1,1,100,0,0,34,0,0,0,0,0,0,0,0,0,0,0,203
+June,Banderbeyla,Dhudhub - Fixed Health centre ,SNS182,SCI,9.228863,49.918871,7,0,0,0,0,1,0,1,0,0,100,16,0,0,0,0,0,0,0,0,0,0,0,135
+June,Banderbeyla,Qoton - OTP and TSFP Mobile,SNS183,SCI,9.594911,50.468883,15,0,0,0,0,0,4,4,100,0,0,27,0,0,0,0,0,0,0,0,0,0,0,146
+June,Banderbeyla,Sarmaan - OTP and TSFP Mobile,SNS184,SCI,9.244875,50.60578,10,0,0,0,0,1,2,3,67,0,33,21,0,0,0,0,0,0,0,0,0,0,0,143
+June,Hafun,Baarmadoobe  - OTP and TSFP Mobile,SNS185,SCI,10.05027,50.883559,10,0,0,0,0,0,5,5,100,0,0,20,0,0,0,0,0,0,0,0,0,0,0,91
+June,Hafun,Dardaare - OTP and TSFP Mobile,SNS186,SCI,10.41675,50.900522,14,0,0,0,0,0,1,1,100,0,0,22,0,0,0,0,0,0,0,0,0,0,0,141
+June,Hafun,Foocaar  - OTP and TSFP Mobile,SNS187,SCI,10.316615,50.897858,23,0,0,0,0,0,4,4,100,0,0,40,0,0,0,0,0,0,0,0,0,0,0,242
+June,Hafun,Garan  - OTP and TSFP Mobile,SNS188,SCI,10.17177,50.89948,21,0,0,0,0,0,1,1,100,0,0,31,0,0,1,0,1,0,0,100,0,0,0,98
+June,Hafun,Hafun  - Fixed Health centre ,SNS189,SCI,10.418127,51.27293,8,0,0,0,0,0,6,6,100,0,0,11,0,0,0,0,0,0,0,0,0,0,0,108
+June,Hafun,Hurdiya  - Fixed Health centre ,SNS190,SCI,10.564567,51.133278,61,0,0,0,0,0,2,2,100,0,0,78,0,0,0,0,0,0,0,0,0,0,0,149
+June,Hafun,Xandha  - OTP and TSFP Mobile,SNS191,SCI,10.648444,51.138422,11,0,0,0,0,0,5,5,100,0,0,14,0,0,0,0,0,0,0,0,0,0,0,104
+June,Afmadow,Dhobley-Ceel Deeg IDP - OTP and TSFP Mobile,SNS192,SCI,0.60527,42.208,13,0,0,0,0,0,7,7,100,0,0,3,0,0,0,0,0,0,0,0,0,0,0,32
+June,Afmadow,Dhobley-Labi IDP - OTP and TSFP Mobile,SNS193,SCI,1.194167,42.365,34,0,0,0,0,0,14,14,100,0,0,25,0,0,0,0,0,0,0,0,0,0,0,74
+June,Wanlawain,Erebka - OTP and TSFP Mobile,SNS195,SCI,2.6254559,44.89937,139,0,0,0,0,0,52,52,100,0,0,195,0,0,0,12,12,100,0,0,0,0,0,116
+June,Kismayo,Dhudhu-Kismayo - OTP and TSFP Mobile,SNS196,SCI,0.35611,42.523889,33,0,1,0,0,0,5,5,100,0,0,131,0,1,0,0,0,0,0,0,0,0,0,173
+June,Kismayo,Luqmaan-Kismayo - OTP and TSFP Mobile,SNS197,SCI,0.35472,42.53,24,0,0,0,0,0,0,0,0,0,0,87,0,0,0,0,0,0,0,0,0,0,0,123
+June,Kismayo,Wiriri-Kismayo - OTP and TSFP Mobile,SNS198,SCI,0.35889,42.530833,26,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,152
+June,Wanlawain,Yaqdhub - OTP and TSFP Mobile,SNS199,SCI,2.6254559,44.89937,104,0,0,0,0,0,35,35,100,0,0,109,0,0,0,0,0,0,0,0,0,0,0,203
+June,Galdogob,Alaale IDPS - OTP and TSFP Mobile,SNS200,SCI,7.03773,47.003152,12,0,0,0,0,0,2,2,100,0,0,22,0,0,0,0,0,0,0,0,0,0,0,166
+June,Galdogob,Darasalam - OTP and TSFP Mobile,SNS201,SCI,7.25033,47.10482,15,0,0,0,0,0,3,3,100,0,0,21,0,0,0,0,0,0,0,0,0,0,0,61
+June,Galdogob,Xerajale - OTP and TSFP Mobile,SNS202,SCI,6.987531,47.184584,12,0,0,0,0,0,2,2,100,0,0,20,0,0,0,0,0,0,0,0,0,0,0,111
+June,Galdogob,Riiga omane - OTP and TSFP Mobile,SNS203,SCI,7.20018,47.18372,14,0,0,0,0,0,3,3,100,0,0,24,0,0,0,0,0,0,0,0,0,0,0,113
+June,Galdogob,Qansaxeley - OTP and TSFP Mobile,SNS204,SCI,7.115247,47.094991,32,0,0,0,0,0,3,3,100,0,0,54,0,0,0,0,0,0,0,0,0,0,0,73
+June,Galkaio,Beyra - OTP and TSFP Mobile,SNS205,SCI,6.951191,47.31781,47,0,0,0,0,0,4,4,100,0,0,73,0,0,0,0,0,0,0,0,0,0,0,133
+June,Galkaio,Danwadaag IDPS - OTP and TSFP Mobile,SNS206,SCI,6.83343,47.41711,36,0,0,0,0,0,3,3,100,0,0,48,0,0,0,0,0,0,0,0,0,0,0,141
+June,Galkaio,Gobshe village - OTP and TSFP Mobile,SNS207,SCI,6.939201,47.479686,36,0,0,0,0,0,1,1,100,0,0,45,0,0,0,0,0,0,0,0,0,0,0,208
+June,Galkaio,Orshe IDPS - OTP and TSFP Mobile,SNS208,SCI,6.835036,47.42708,46,0,0,0,0,0,3,3,100,0,0,64,0,0,0,0,0,0,0,0,0,0,0,155
+June,Galkaio,Tuulo farxaan - OTP and TSFP Mobile,SNS209,SCI,7.310427,47.577741,29,0,0,0,0,0,3,3,100,0,0,46,0,0,0,0,0,0,0,0,0,0,0,91
+June,Jariban,Qalaanqal/raydable - OTP and TSFP Mobile,SNS210,SCI,7.294333,48.324807,11,0,0,0,0,0,3,3,100,0,0,27,0,0,0,0,0,0,0,0,0,0,0,80
+June,Jariban,Balanbale - OTP and TSFP Mobile,SNS211,SCI,7.43932,48.133772,11,0,0,0,0,0,4,4,100,0,0,22,0,0,0,0,0,0,0,0,0,0,0,91
+June,Jariban,Dhinowda - OTP and TSFP Mobile,SNS212,SCI,6.731452,49.200849,23,0,0,0,0,0,3,3,100,0,0,81,0,0,0,0,0,0,0,0,0,0,0,160
+June,Jariban,Dhoba cantug - OTP and TSFP Mobile,SNS213,SCI,7.619465,49.077075,18,0,0,0,0,0,7,7,100,0,0,90,0,0,0,0,0,0,0,0,0,0,0,185
+June,Jariban,Geelxagar PHU - Fixed Health centre ,SNS214,SCI,7.41773,49.277935,14,0,0,0,0,0,2,2,100,0,0,24,0,0,0,0,0,0,0,0,0,0,0,201
+June,Jariban,Kulub - OTP and TSFP Mobile,SNS215,SCI,7.035518,49.371336,13,0,0,0,0,0,3,3,100,0,0,24,0,0,0,0,0,0,0,0,0,0,0,212
+June,Jariban,Labilamane - OTP and TSFP Mobile,SNS216,SCI,7.518751,49.019754,8,0,0,0,0,0,5,5,100,0,0,16,0,0,0,0,0,0,0,0,0,0,0,152
+June,Jariban,Malasle - OTP and TSFP Mobile,SNS217,SCI,7.521892,47.984223,25,0,0,0,0,0,3,3,100,0,0,32,0,0,0,0,0,0,0,0,0,0,0,47
+June,Jariban,Seemade - OTP and TSFP Mobile,SNS218,SCI,7.156336,48.609739,9,0,0,0,0,0,1,1,100,0,0,16,0,0,0,0,0,0,0,0,0,0,0,139
+June,Lasanod,Dhoon - OTP and TSFP Mobile,SNS219,SCI,8.07168,47.28464,2,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,43
+June,Lasanod,Gobdheero - OTP and TSFP Mobile,SNS220,SCI,8.359372,47.251839,2,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,38
+June,Lasanod,Qabribayax  - OTP and TSFP Mobile,SNS221,SCI,9.5679512,44.0592013,2,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,73
+June,Gabiley,Bocda - OTP and TSFP Mobile,SNS222,SCI,9.614664,43.300407,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,18
+June,Gabiley,Botor - OTP and TSFP Mobile,SNS223,SCI,9.70975,43.49161,11,0,0,0,0,0,2,2,100,0,0,36,0,0,0,0,0,0,0,0,0,0,0,166
+June,Gabiley,Bus - OTP and TSFP Mobile,SNS224,SCI,9.85706,43.67436,9,0,0,0,0,0,3,3,100,0,0,15,0,0,0,0,0,0,0,0,0,0,0,86
+June,Gabiley,caada - OTP and TSFP Mobile,SNS225,SCI,9.5675,43.67275,4,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,38
+June,Gabiley,Ceel bardaale - OTP and TSFP Mobile,SNS226,SCI,9.82412,43.47594,16,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,152
+June,Gabiley,Duburuha - OTP and TSFP Mobile,SNS227,SCI,9.59836,43.67323,8,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,99
+June,Gabiley,Gashamo - OTP and TSFP Mobile,SNS229,SCI,9.91472,43.912498,6,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,59
+June,Gabiley,Geed abeera - OTP and TSFP Mobile,SNS230,SCI,9.66386,43.63246,2,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,61
+June,Gabiley,Gogaysa - OTP and TSFP Mobile,SNS231,SCI,9.77864,43.58217,6,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,143
+June,Gabiley,Gogol wanag - OTP and TSFP Mobile,SNS232,SCI,9.67619,43.81598,4,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,44
+June,Gabiley,idhanka - OTP and TSFP Mobile,SNS233,SCI,9.69256,43.30208,16,0,0,0,0,0,4,4,100,0,0,41,0,0,0,0,0,0,0,0,0,0,0,172
+June,Gabiley,Kidiiga dhanaan - OTP and TSFP Mobile,SNS234,SCI,9.7936,43.84354,3,0,0,0,0,0,3,3,100,0,0,22,0,0,0,0,0,0,0,0,0,0,0,63
+June,Gabiley,Laan barwaqo - OTP and TSFP Mobile,SNS235,SCI,9.64754,43.558529,14,0,0,0,0,0,8,8,100,0,0,44,0,0,0,0,0,0,0,0,0,0,0,159
+June,Gabiley,laaye - OTP and TSFP Mobile,SNS236,SCI,9.50853,43.58858,4,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,52
+June,Gabiley,Ijo waqi - OTP and TSFP Mobile,SNS237,SCI,9.59313,43.621,2,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,67
+June,Gabiley,Mashruuca - OTP and TSFP Mobile,SNS238,SCI,9.70251,43.75212,6,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,55
+June,Gabiley,Sh maxamud yare - OTP and TSFP Mobile,SNS239,SCI,9.59062,43.54888,10,0,0,0,0,0,4,4,100,0,0,15,0,0,0,0,0,0,0,0,0,0,0,120
+June,Gabiley,Xidinka - OTP and TSFP Mobile,SNS240,SCI,9.701,43.67872,4,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,53
+June,Gabiley,Xidiinta (Tysa) - OTP and TSFP Mobile,SNS241,SCI,9.5463,43.732,12,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,113
+June,Baidoa ,Horseed  - Health center ,SNS242,SCI,0.206122,40.6023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dharkenley,Shabelle IDPS - Health center ,SNS244,SCI,0.40627,41.01238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,191,44,0
+June,Lasanod,Afweyan  - OTP and TSFP Mobile,SNS548,SCI,8.297325,47.495917,2,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,50
+June,Lasanod,Caanoxadhigle - OTP and TSFP Mobile,SNS549,SCI,8.121343,47.479558,3,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,15
+June,Lasanod,Ceeljeex - OTP and TSFP Mobile,SNS550,SCI,8.347597,47.209605,4,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,30
+June,Lasanod,Geelboob  - OTP and TSFP Mobile,SNS551,SCI,7.993303,47.247875,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,18
+June,Lasanod,Xaawlka gaaska - OTP and TSFP Mobile,SNS552,SCI,8.04339,47.18169,1,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,20
+June,Lasanod,Waraabalay - OTP and TSFP Mobile,SNS553,SCI,8.081324,47.394297,1,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,40
+June,Baidoa ,Hananno 2 - Mobile clinic ,SNS569,SCI,3.1428,43.6678,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0
+June,Borama,Garbo Hadlay  - Mobile Nutrition Team,SNS570,SCI,9.614664,43.300407,11,0,0,0,0,0,0,0,0,0,0,25,0,0,0,0,0,0,0,0,0,0,0,34
+June,Borama,Cad madooni - Mobile Nutrition Team,SNS571,SCI,9.70392,43.35255,18,0,0,0,0,0,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,37
+June,Borama,Degmo-laqas - Mobile Nutrition Team,SNS572,SCI,9.97742,43.08433,7,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,57
+June,Borama,Dababuur - Mobile Nutrition Team,SNS573,SCI,9.94247,43.09511,10,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,34
+June,Borama,Tuli /Sh Nuur - Mobile Nutrition Team,SNS574,SCI,9.81661,43.31158,13,0,0,0,0,0,0,0,0,0,0,31,0,0,0,0,0,0,0,0,0,0,0,34
+June,Borama,Shirwac lagu baanay - Mobile Nutrition Team,SNS575,SCI,9.83972,43.28014,11,0,0,0,0,0,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,24
+June,Borama,Haya yaabe  - Mobile Nutrition Team,SNS576,SCI,9.91479,43.17201,13,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,34
+June,Borama,Walaal goo - Mobile Nutrition Team,SNS577,SCI,9.86925,43.26267,12,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,0,0,0,0,0,0,67
+June,Borama,Goryo cawl - Mobile Nutrition Team,SNS578,SCI,9.86789,43.22686,9,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,34
+June,Borama,Daray macne  - Mobile Nutrition Team,SNS579,SCI,9.96558,43.22137,13,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,30
+June,Baidoa ,Takawakal 2 Diinsoor - Mobile clinic ,SNS608,SCI,3.917222222,43.63388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,46,0,0
+June,Baidoa ,Galgalwayne - Mobile clinic ,SNS609,SCI,3.143244444,43.66861111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+June,Dharkenley,Kulmiye IDPs - Mobile clinic ,SNS610,SCI,2.049722222,45.25861111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147,0,0
+June,Dharkenley,Deeq Rabi IDPs - Mobile clinic ,SNS611,SCI,2.053888889,45.26805556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,7,0
+June,Dharkenley,Alcadada/Malable IDPs - Mobile clinic ,SNS612,SCI,2.065277778,45.25805556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,0
+June,Waberi,Hantiwadaag village  - Health center ,SNS613,SCI,2.031666667,45.325,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0
+June,Bay,Alletug - OTP and TSFP Mobile,SNS616,SCI,3.193611111,43.79694444,178,0,0,0,0,0,0,0,0,0,0,187,0,0,0,0,0,0,0,0,0,0,0,63
+June,Bay,Galgalweyn - OTP and TSFP Mobile,SNS617,SCI,3.239444444,43.85416667,225,0,0,0,0,0,0,0,0,0,0,252,0,0,0,0,0,0,0,0,0,0,0,107
+June,Jariban,Buubi - OTP and TSFP Mobile,SNS622,SCI,7.1337,48.38056,12,0,0,0,0,0,3,3,100,0,0,17,0,0,0,0,0,0,0,0,0,0,0,112
+June,Lasanod,Dhagax iskura  - OTP and TSFP Mobile,SNS623,SCI,8.14025,47.46388889,6,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,40
+June,Baki,boodhka  - OTP and TSFP Mobile,SNS92,SCI,9.901715,43.501047,5,0,0,0,0,0,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,77
+June,Baki,Buqdhada - OTP and TSFP Mobile,SNS93,SCI,9.89471,43.58078,6,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,69
+June,Baki,cashuura - OTP and TSFP Mobile,SNS94,SCI,10.292461,43.294688,6,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,74
+June,Baki,Galigalool - OTP and TSFP Mobile,SNS95,SCI,9.97025,43.42828,8,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,67
+June,Baki,isha gudnban - OTP and TSFP Mobile,SNS96,SCI,9.94569,43.34772,4,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,56
+June,Baki,Ruqi - OTP and TSFP Mobile,SNS97,SCI,9.97025,43.42828,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,68
+June,Baki,Seemal - OTP and TSFP Mobile,SNS98,SCI,9.92675,43.54808,5,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,69
+June,Baki,sh.rooble - OTP and TSFP Mobile,SNS99,SCI,9.94186,43.66359,4,0,0,0,0,0,0,0,0,0,0,17,0,0,0,0,0,0,0,0,0,0,0,56
+June,Baidoa ,BAHAHOW hospital  - CTC,SNS607,SCI,3.137927778,43.65416667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,0
+June,Bulla Hawa ,Bulla Hawa HC - OTP and TSFP static,SNS500,Trocaire,3.923813,41.876282,88,0,0,6,0,27,52,85,61,7,32,0,0,18,168,231,399,58,0,42,0,0,0,0
+June,Bulla Hawa ,Belet Amin PHU  - OTP and TSFP static,SNS501,Trocaire,3.95606,41.89392,29,0,0,0,0,0,11,11,100,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Haroo - TSFP ,SNS502,Trocaire,3.2994,41.720699,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Hudley - TSFP ,SNS503,Trocaire,3.9991,41.9425,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Khalil Hospital - SC,SNS504,Trocaire,4.131675,42.209692,31,0,0,0,0,0,25,25,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Malakriye  - TSFP ,SNS505,Trocaire,3.892243,41.85553,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Malmaley PHU  - OTP and TSFP static,SNS506,Trocaire,4.163256,42.076945,34,0,0,0,0,10,6,16,38,0,63,0,0,0,0,11,11,100,0,0,0,0,0,0
+June,Bulla Hawa ,Mirdhisley - OTP/TSFP,SNS507,Trocaire,3.2729,41.6819,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Qurac Bilash - OTP and TSFP,SNS508,Trocaire,3.9618,41.96935,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bulla Hawa ,Sharmadaq - OTP/TSFP,SNS509,Trocaire,3.8566,41.90096,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Afqoloc - OTP/TSFP mobile site ,SNS510,Trocaire,3.8448,42.10947,3,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Barabaray  - OTP/TSFP mobile site ,SNS511,Trocaire,4.13258,42.1768,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Degrebe Outreach - OTP and TSFP Mobile ,SNS512,Trocaire,4.02795,42.297438,3,0,0,0,0,0,3,3,100,0,0,39,0,0,6,22,28,79,0,21,0,0,0,
+June,Dolow,Digtaar Outreach - OTP and TSFP Mobile ,SNS513,Trocaire,4.0537,41.95413,4,0,0,0,0,0,0,0,0,0,0,4,0,0,0,7,7,100,0,0,0,0,0,0
+June,Dolow,Dolow - RHC - SC OTP and TSFP static,SNS514,Trocaire,4.033098,42.383145,104,0,1,23,1,3,177,204,87,12,1,180,0,1,3,177,180,98,0,2,0,0,0,0
+June,Dolow,Gedweyne Health Centre - OTP and TSFP static,SNS515,Trocaire,3.80034,42.544504,39,0,1,0,0,0,41,41,100,0,0,79,0,5,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Gubata  - OTP/TSFP mobile site,SNS516,Trocaire,4.1345,42.21043,3,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Korey PHU - OTP and TSFP static,SNS517,Trocaire,4.13346,42.210976,4,0,0,1,0,0,4,5,80,20,0,50,0,0,0,26,26,100,0,0,0,0,0,0
+June,Dolow,Qurac Bore  - OTP/TSFP mobile site ,SNS518,Trocaire,3.8034,42.21543,1,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Sadhumay PHU - OTP and TSFP static,SNS519,Trocaire,4.1276,42.25621,1,0,0,0,0,0,0,0,0,0,0,15,0,0,0,28,28,100,0,0,0,0,0,0
+June,Dolow,SC - SC,SNS520,Trocaire,4.163256,42.076945,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Shidle  - OTP/TSFP mobile site ,SNS521,Trocaire,4.0763,42.32158,3,0,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0
+June,Dolow,Surgudud PHU - OTP and TSFP static,SNS522,Trocaire,4.094713,42.027969,7,0,0,0,0,0,2,2,100,0,0,13,0,0,2,3,5,60,0,40,0,0,0,0
+June,Dolow,Wagadey  - OTP/TSFP mobile site ,SNS523,Trocaire,4.1328,42.16582,17,0,0,0,0,0,0,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Akara HC - OTP and TSFP static,SNS524,Trocaire,3.78591,42.548254,112,0,0,0,0,0,29,29,100,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Abow  - OTP/TSFP mobile sites ,SNS525,Trocaire,3.94016,42.44429,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Belet Rahma  - OTP/TSFP mobile sites ,SNS526,Trocaire,3.766686,42.498408,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Dogob - OTP and TSFP ,SNS527,Trocaire,3.884227,42.482291,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Garboloow - OTP/TSFP mobile sites ,SNS528,Trocaire,3.90185,42.510385,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Luuq Hospital - SC,SNS529,Trocaire,3.80034,42.544504,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Madhawey - OTP and TSFP,SNS530,Trocaire,3.95101,42.480373,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Maganey  - OTP/TSFP mobile sites ,SNS531,Trocaire,3.747227,42.526414,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Muradqabe  - OTP/TSFP mobile sites ,SNS532,Trocaire,3.9247,42.47148,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Qoney  - TSFP mobile sites ,SNS533,Trocaire,3.64834,42.51026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Shatilow - TSFP,SNS534,Trocaire,3.9055,42.424304,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Shidle - OTP and TSFP,SNS535,Trocaire,3.829595,42.563857,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Surtag - OTP and TSFP,SNS536,Trocaire,4.0074,42.91823,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Taganey  - OTP/TSFP mobile sites ,SNS537,Trocaire,3.835908,42.578937,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Luuq,Wariryale - OTP and TSFP,SNS538,Trocaire,3.960255,42.459319,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Baidoa ,Bardaale  - Health center ,SNS243,SCI/GREDO,0.209122,40.8023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Daynunay,Daynunay - CTU,SNS554,SCI/GREDO,3.03985,43.796879,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+June,Daynunay,danbala - ORT,SNS555,SCI/GREDO,3.01339,43.51012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0
+June,Daynunay,Buuloonsiyow - ORT,SNS556,SCI/GREDO,3.05205,43.80739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0
+June,Hudur ,Hudur CTC - CTC,SNS557,SCI/GREDO,4.113335,43.876109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hudur ,Wanay - CTU,SNS558,SCI/GREDO,4.07202,43.80566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hudur ,Banjinaay - ORT,SNS559,SCI/GREDO,4.170805,43.932421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hudur ,Mabiwaraaabe - ORT,SNS560,SCI/GREDO,4.134332,43.919581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Hudur ,Weerow - ORT,SNS561,SCI/GREDO,4.170805,43.8354662,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Baidoa ,Boorama - ORT,SNS563,SCI/GREDO,2.92554,43.70033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bardale,Morowarabe - ORP,SNS564,SCI/GREDO,3.18055,43.41617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Baidoa ,Awdinle - CTU,SNS565,SCI/GREDO,3.03985,43.797,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bardale,Duurow - ORP,SNS566,SCI/GREDO,3.90888,43.97918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bardale,Mooshi - ORP,SNS567,SCI/GREDO,3.17297,43.491482,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+June,Bardale,Masuubiye - ORP,SNS568,SCI/GREDO,3.17368,43.4933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,AbdiAziz,Forlanini - Static Health Facility,SNS1,ACF,2.046349,45.360397,1450,0,0,71,2,6,226,305,74,24,2,1916,0,0,2,19,21,90,0,10,0,0,0,0
+July,Hudur,Hudur Town -  SC,SNS10,ACF,4.12459,43.88765,52,0,0,58,0,0,0,58,0,100,0,0,0,0,0,0,0,0,0,0,0,21,0,106
+July,Hudur,Mada warabe  - Mobile OTP Site ,SNS11,ACF,4.13295,43.92216,430,0,0,1,0,2,95,98,97,1,2,556,0,0,0,200,200,100,0,0,1,41,0,234
+July,Hudur,Weerow Mobile Outreach - Mobile OTP Site ,SNS13,ACF,4.17074,43.83483,286,0,0,0,0,2,73,75,97,0,3,397,0,0,0,154,154,100,0,0,0,30,0,83
+July,Hudur,Qaydar Ade/Moragabey Mobile  - Mobile OTP Site ,SNS14,ACF,4.18976,43.64093,535,0,0,0,3,0,64,67,96,4,0,597,0,0,0,19,19,100,0,0,0,33,0,101
+July,Hudur,Aboore  - Mobile OTP Site ,SNS16,ACF,4.301239,43.909182,55,0,0,0,0,0,30,30,100,0,0,71,0,0,0,0,0,0,0,0,1,13,0,67
+July,Hudur,Bisigle/Eedinow  - Mobile OTP Site ,SNS17,ACF,4.150735,43.770452,68,0,0,0,0,0,23,23,100,0,0,110,0,0,0,0,0,0,0,0,0,17,0,54
+July,Eyl,Biyo Ade- - Mobile Outreach,SNS18,ACF,8.27098,49.82561,12,0,0,0,0,2,16,18,89,0,11,72,0,0,1,7,8,88,0,13,0,0,0,0
+July,Eyl,Cambare- - Mobile Outreach,SNS19,ACF,8.08177,49.36186,13,0,0,0,0,1,16,17,94,0,6,81,0,0,0,5,5,100,0,0,0,0,0,0
+July,Afgoye,Lafoole - Static Health Facility/ clinics,SNS2,ACF,2.086555,45.201023,1559,0,0,6,0,0,277,283,98,2,0,2705,0,0,0,51,51,100,0,0,1,51,1,150
+July,Eyl,Dhoobo-Cantuug - Mobile Outreach,SNS20,ACF,7.617116,47.001314,37,0,0,0,0,1,45,46,98,0,2,148,0,0,2,33,35,94,0,6,0,0,0,0
+July,Eyl,"Gubato,  - Mobile Outreach",SNS21,ACF,8.43695,49.42806,11,0,0,0,0,2,10,12,83,0,17,71,0,0,2,10,12,83,0,17,0,0,0,0
+July,Eyl,"Weyla-laaq, - Mobile Outreach",SNS22,ACF,7.63222,49.28027,24,0,0,0,0,2,41,43,95,0,5,121,0,0,1,31,32,97,0,3,0,0,0,0
+July,Hodan,Octobar - Static Health Facility,SNS3,ACF,2.032865,45.315392,898,0,0,131,1,7,375,514,73,26,1,1699,0,0,6,190,196,97,0,3,0,0,0,0
+July,Kahda,Liqliqito  - Static Health Facility,SNS4,ACF,2.058589,45.264256,1577,0,0,58,0,0,587,645,91,9,0,3241,0,0,11,98,109,90,0,10,0,0,0,0
+July,Elbarde,Elbarde Town - Static Health Facility/ clinics,SNS5,ACF,4.82821,43.65993,755,0,0,16,2,2,149,169,88,11,1,976,0,0,0,0,0,0,0,0,0,0,0,0
+July,Elbarde,Ato - Mobile Clinics,SNS6,ACF,4.6205,43.35402,314,0,0,6,0,0,33,39,85,15,0,447,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hudur,Lafaale  - Mobile OTP Site ,SNS626,ACF,3.644759,43.536287,260,0,0,0,0,0,0,0,0,0,0,222,0,0,0,0,0,0,0,0,3,20,0,62
+July,Eyl,Dihiyo - Mobile Outreach,SNS627,ACF,7.471104,49.251696,60,0,0,0,0,0,5,5,100,0,0,246,0,0,0,8,8,100,0,0,0,0,0,0
+July,Eyl,Goroyo hogod - Mobile Outreach,SNS628,ACF,8.45427,49.214054,17,0,0,0,0,0,0,0,0,0,0,106,0,0,0,10,10,100,0,0,0,0,0,0
+July,Eyl,Gabac - Mobile Outreach,SNS630,ACF,8.815756,50.3338219,6,0,0,0,0,0,0,0,0,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+July,Eyl,Qarhis - Mobile Outreach,SNS631,ACF,8.29507299,49.3433,31,0,0,0,0,0,0,0,0,0,0,269,0,0,0,0,0,0,0,0,0,0,0,0
+July,Elbarde,Liwareeg - Mobile Clinics,SNS8,ACF,4.46343,43.3652,241,0,0,0,0,1,34,35,97,0,3,271,0,0,0,0,0,0,0,0,0,0,0,0
+July,Elbarde,Salkudhooble - Mobile Clinics,SNS9,ACF,4.90952,43.99175,368,0,0,0,0,0,28,28,100,0,0,375,0,0,0,5,5,100,0,0,0,0,0,0
+July,Erigavo ,Madare - Mobile OTP/TSFP,SNS33,CARE,10.2722,47.3508,4,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+July,Ufeyn ,Tuulo Miro - Mobile OTP/TSFP,SNS34,CARE,10.6568,49.6343,1,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+July,Ufeyn ,Ufeyn MCH  - Mobile OTP/TSFP,SNS35,CARE,10.652623,49.756343,1,0,0,0,0,0,0,0,0,0,0,17,0,0,2,13,15,87,0,13,0,0,0,0
+July,Ufeyn ,Bali doog - Mobile OTP/TSFP,SNS36,CARE,10.84771,49.4595,6,0,0,0,0,0,0,0,0,0,0,58,0,0,0,17,17,100,0,0,0,0,0,0
+July,Ufeyn ,Jedaal  - Mobile OTP/TSFP,SNS37,CARE,10.209927,49.507984,3,0,0,0,0,0,0,0,0,0,0,62,0,0,0,11,11,100,0,0,0,0,0,0
+July,Ufeyn ,Kob dhexaad  - Mobile OTP/TSFP,SNS38,CARE,10.656162,49.49925,1,0,0,0,0,0,2,2,100,0,0,31,0,0,0,25,25,100,0,0,0,0,0,0
+July,Ufeyn ,Tasjiic - Mobile OTP/TSFP,SNS39,CARE,10.862348,49.457768,2,0,0,0,0,0,0,0,0,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0
+July,Ufeyn ,Geeso Qabad - Mobile OTP/TSFP,SNS40,CARE,10.924473,49.256889,1,0,0,0,0,0,0,0,0,0,0,17,0,0,2,18,20,90,0,10,0,0,0,0
+July,Ufeyn ,Xabley - Mobile OTP/TSFP,SNS41,CARE,11.233128,48.97415,125,0,0,0,0,0,0,0,0,0,0,331,0,0,0,6,6,100,0,0,0,0,0,0
+July,Qardho,Yaka - Mobile OTP/TSFP ,SNS42,CARE,9.220501,49.121127,169,0,0,0,0,1,1,2,50,0,50,273,0,1,4,7,11,64,0,36,0,0,0,0
+July,Qardho,Shaxda - Mobile OTP/TSFP ,SNS43,CARE,9.175989,48.907055,4,0,0,0,0,3,1,4,25,0,75,198,0,2,0,0,0,0,0,0,0,0,0,0
+July,Qardho,Habaalreer. - Mobile OTP/TSFP ,SNS44,CARE,9.830113,49.372339,3,0,0,0,0,1,0,1,0,0,100,34,0,0,2,0,2,0,0,100,0,0,0,0
+July,Qardho,Shire - Mobile OTP/TSFP ,SNS45,CARE,9.088625,49.212996,2,0,0,0,0,0,0,0,0,0,0,17,0,1,3,4,7,57,0,43,0,0,0,0
+July,Qardho,Farjeerin - Mobile OTP/TSFP ,SNS46,CARE,10.82726,49.53718,0,0,0,0,0,1,0,1,0,0,100,14,0,0,0,1,1,100,0,0,0,0,0,0
+July,ceelbuh,Yube - Mobile OTP/TSFP,SNS47,CARE,10.745042,47.927658,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,7,8,88,0,13,0,0,0,0
+July,Badhdan,Badhdan - Mobile TSFP,SNS48,CARE,10.63438,48.56123,0,0,0,0,0,0,2,2,100,0,0,21,0,0,0,3,3,100,0,0,0,0,0,0
+July,Badhdan,Mindigale  - Mobile OTP/TSFP,SNS49,CARE,10.682018,48.672193,8,0,0,0,0,0,3,3,100,0,0,26,0,0,0,6,6,100,0,0,0,0,0,0
+July,Badhdan,Rad - Mobile OTP/TSFP,SNS50,CARE,10.711838,48.562524,5,0,0,0,0,0,0,0,0,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0
+July,Badhdan,Hadaaftimo  - Mobile OTP/TSFP,SNS51,CARE,10.767246,48.107267,0,0,0,0,0,0,0,0,0,0,0,16,0,0,3,3,6,50,0,50,0,0,0,0
+July,Badhdan,Cawsane - Mobile OTP/TSFP,SNS52,CARE,10.582949,48.80709,0,0,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0
+July,Badhdan,Jiicanyo - Mobile OTP/TSFP,SNS53,CARE,10.39898,48.38858,1,0,0,0,0,0,1,1,100,0,0,31,0,0,0,3,3,100,0,0,0,0,0,0
+July,Erigavo ,Daysoole - Mobile OTP/TSFP,SNS539,CARE,10.3921,47.4839,3,1,0,0,0,0,1,1,100,100,0,54,0,0,0,2,2,100,0,0,0,0,0,0
+July,Badhdan,Xarka dheere - Mobile OTP/TSFP,SNS54,CARE,10.4042,48.4648,0,0,0,0,0,0,2,2,100,0,0,19,0,0,0,1,1,100,0,0,0,0,0,0
+July,Erigavo ,Dalsan  - Mobile OTP/TSFP,SNS540,CARE,10.1514,47.4252,2,0,0,0,0,0,2,2,100,0,0,19,0,0,0,4,4,100,0,0,0,0,0,0
+July,Bossasso,Kalabayr  - Mobile TSFP,SNS541,CARE,10.829949,49.2538,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,19,19,100,0,0,0,0,0,0
+July,Bossasso,Karim - Mobile TSFP,SNS542,CARE,10.982399,49.2186,1,0,0,0,0,0,0,0,0,0,0,3,0,0,2,8,10,80,0,20,0,0,0,0
+July,Bossasso,Laag - Mobile TSFP,SNS543,CARE,11.038283,49.1881,2,0,0,0,0,0,0,0,0,0,0,15,0,0,0,15,15,100,0,0,0,0,0,0
+July,Bossasso,Yalho - Mobile TSFP,SNS544,CARE,11.233128,48.9742,1,0,0,0,0,0,0,0,0,0,0,5,8,0,0,17,17,100,47,0,0,0,0,0
+July,Bossasso,Qaw - Mobile TSFP,SNS545,CARE,10.924473,49.2569,4,0,0,0,0,0,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasqoray,Ragaad - Mobile OTP/TSFP,SNS546,CARE,10.722594,48.584866,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,2,2,100,0,0,0,0,0,0
+July,Taleex,taleex - Mobile OTP/TSFP,SNS547,CARE,9.14839,48.42077,5,0,0,0,0,0,0,0,0,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0
+July,ceelbuh,Mindhicir - Mobile OTP/TSFP,SNS55,CARE,11.171,49.1029,0,0,0,0,7,0,2,9,22,78,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasqoray,Lasqoray - Mobile OTP/TSFP,SNS56,CARE,11.16027,48.19487,2,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasqoray,Ceelayo  - Mobile OTP/TSFP,SNS57,CARE,11.14644,48.53607,3,0,0,0,0,0,0,0,0,0,0,24,0,0,0,1,1,100,0,0,0,0,0,0
+July,Lasqoray,Durduri - Mobile OTP/TSFP,SNS58,CARE,11.29662,48.58537,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+July,Erigavo ,dibqalax - Mobile OTP/TSFP,SNS580,CARE,10.34055556,47.63444444,0,0,0,0,0,0,2,2,100,0,0,28,0,0,0,3,3,100,0,0,0,0,0,0
+July,Erigavo ,Ardaa - Mobile OTP/TSFP,SNS581,CARE,10.24361111,47.6975,0,0,0,0,0,0,1,1,100,0,0,23,0,0,0,1,1,100,0,0,0,0,0,0
+July,Erigavo ,fiqifuliye  - Mobile OTP/TSFP,SNS582,CARE,10.18666667,47.785,0,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+July,Erigavo ,Masagan - Mobile OTP/TSFP,SNS583,CARE,10.4625,47.44083333,2,0,0,0,0,0,1,1,100,0,0,15,0,0,0,2,2,100,0,0,0,0,0,0
+July,Erigavo ,Ceeldheer - Mobile OTP/TSFP,SNS584,CARE,10.43111111,47.65138889,8,0,0,0,0,0,0,0,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,0
+July,Erigavo ,boodacade - Mobile OTP/TSFP,SNS585,CARE,10.47138889,47.6659,3,0,0,0,0,0,0,0,0,0,0,32,0,0,0,1,1,100,0,0,0,0,0,0
+July,Erigavo ,Biyo Gaduud - Mobile OTP/TSFP,SNS586,CARE,10.40277778,47.80277778,0,0,0,0,0,0,1,1,100,0,0,25,1,0,1,1,2,50,50,50,0,0,0,0
+July,Erigavo ,Dhaabeeda - Mobile OTP/TSFP,SNS587,CARE,10.31944444,47.3827,1,0,1,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qardho,Libow - Mobile OTP/TSFP ,SNS588,CARE,9.090833333,49.21277778,0,0,0,0,0,1,0,1,0,0,100,6,1,0,2,2,4,50,25,50,0,0,0,0
+July,Qardho,Dhaxan Karin - Mobile OTP/TSFP ,SNS589,CARE,9.268888889,49.41833333,3,0,0,0,0,1,1,2,50,0,50,35,0,0,2,4,6,67,0,33,0,0,0,0
+July,Lasqoray,Markad - Mobile OTP/TSFP,SNS59,CARE,11.2051,48.1912,0,0,0,0,0,0,0,0,0,0,0,4,0,1,0,2,2,100,0,0,0,0,0,0
+July,Qardho,Gerihel. - Mobile OTP/TSFP ,SNS590,CARE,9.530555556,49.22972222,9,0,0,0,0,0,0,0,0,0,0,94,0,1,4,7,11,64,0,36,0,0,0,0
+July,Qardho,Armo. - Mobile OTP/TSFP ,SNS591,CARE,9.405833333,49.3516,1,0,0,0,0,0,0,0,0,0,0,18,0,0,1,1,2,50,0,50,0,0,0,0
+July,Qardho,Higlo - Mobile OTP/TSFP ,SNS592,CARE,9.376111111,49.3851,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qardho,Dhaxan sarin - Mobile OTP/TSFP ,SNS593,CARE,9.450555556,48.5247,4,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0
+July,ceelbuh,Carmale  - Mobile OTP/TSFP,SNS594,CARE,10.48,47.95972222,5,0,0,0,0,0,0,0,0,0,0,15,0,0,0,4,4,100,0,0,0,0,0,0
+July,Badhdan,Laako - Mobile OTP/TSFP,SNS595,CARE,10.72555556,48.58805556,4,0,0,0,0,0,0,0,0,0,0,56,0,0,0,1,1,100,0,0,0,0,0,0
+July,Badhdan,Gumarta - Mobile OTP/TSFP,SNS596,CARE,10.70138889,48.48666667,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,1,2,50,0,50,0,0,0,0
+July,ceelbuh,Damala xagare - Mobile OTP/TSFP,SNS597,CARE,11.295,49.20277778,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0
+July,ceelbuh,Shinbiraale - Mobile OTP/TSFP,SNS598,CARE,10.13111111,45.02222222,0,0,0,0,0,0,0,0,0,0,0,9,0,0,0,2,2,100,0,0,0,0,0,0
+July,ceelbuh,Dawoco - Mobile OTP/TSFP,SNS599,CARE,10.34611111,47.16833333,0,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,caroolay - Mobile OTP/TSFP,SNS60,CARE,8.85607,48.14833,2,0,0,0,0,0,1,1,100,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,Badhdan,Dhabar dalool - Mobile OTP/TSFP,SNS600,CARE,10.34611111,47.16833333,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0
+July,Badhdan,Daara salaam - Mobile OTP/TSFP,SNS601,CARE,10.24611111,47.40055556,7,0,0,0,0,0,0,0,0,0,0,26,0,0,0,1,1,100,0,0,0,0,0,0
+July,Lasqoray,Xabaashaa wacle - Mobile OTP/TSFP,SNS602,CARE,11.01416667,48.32,1,0,0,0,0,0,0,0,0,0,0,17,0,1,0,2,2,100,0,0,0,0,0,0
+July,Lasqoray,Moon - Mobile OTP/TSFP,SNS603,CARE,11.5975,48.53666667,2,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasqoray,Mashcaleed - Mobile OTP/TSFP,SNS604,CARE,11.00444444,48.30611111,0,0,0,0,0,0,1,1,100,0,0,37,0,0,0,8,8,100,0,0,0,0,0,0
+July,kismayo,Farjano(Soya/ Nageye camp) - Mobile OTP/TSFP,SNS605,CARE,-0.340601,42.560065,0,0,0,0,0,0,1,1,100,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,kismayo,Gulwadhe(adeymarogto camp) - Mobile OTP/TSFP,SNS606,CARE,-0.343446,42.546746,1,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,qawlo - Mobile OTP/TSFP,SNS61,CARE,8.5646,48.1753,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,dhumay - Mobile OTP/TSFP,SNS62,CARE,8.5722,48.3714,7,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,dhubuq dhubuq - Mobile OTP/TSFP,SNS620,CARE,8.261666667,47.76638889,0,0,0,0,0,1,1,2,50,0,50,6,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lascaanod,caday buur - Mobile OTP/TSFP,SNS621,CARE,9.26722,47.376557,2,0,0,0,0,0,1,1,100,0,0,17,0,0,0,3,3,100,0,0,0,0,0,0
+July,Erigavo ,Ceelqooxle  - Mobile OTP/TSFP,SNS638,CARE,9.5946,47.4,1,0,0,0,0,0,2,2,100,0,0,8,0,0,2,2,4,50,0,50,0,0,0,0
+July,Taleex,xalin Town - Mobile OTP/TSFP,SNS64,CARE,9.085632,48.619955,5,1,0,0,0,1,15,16,94,6,6,24,1,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,Gebidheer - Mobile OTP/TSFP,SNS65,CARE,9.06722,48.61222,0,0,0,0,0,1,6,7,86,0,14,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,barde dawanle - Mobile OTP/TSFP,SNS66,CARE,9.53,48.926,1,0,0,0,0,0,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,kalcad - Mobile OTP/TSFP,SNS67,CARE,8.807914,48.88602,4,0,0,0,0,2,4,6,67,0,33,19,0,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,laabaas - Mobile OTP/TSFP,SNS68,CARE,9.177,48.659,2,0,0,0,0,0,0,0,0,0,0,34,0,2,0,0,0,0,0,0,0,0,0,0
+July,Taleex,xerta taleex - Mobile OTP/TSFP,SNS69,CARE,9.08,48.6,1,0,0,0,0,0,1,1,100,0,0,12,1,0,0,0,0,0,0,0,0,0,0,0
+July,Taleex,Buqdheer - Mobile OTP/TSFP,SNS70,CARE,8.5575,48.83472,3,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+July,Xudun,Lafaweyne  - Mobile OTP/TSFP,SNS71,CARE,9.153887,47.228503,4,0,0,0,0,0,1,1,100,0,0,23,0,0,0,2,2,100,0,0,0,0,0,0
+July,Xudun,Darayo geesaweyn - Mobile OTP/TSFP,SNS72,CARE,9.141,47.3516,4,0,1,0,0,0,12,12,100,0,0,16,0,2,1,0,1,0,0,100,0,0,0,0
+July,Xudun,siigo dheer - Mobile OTP/TSFP,SNS75,CARE,9.86,47.3658,9,0,0,0,0,0,9,9,100,0,0,77,0,0,2,7,9,78,0,22,0,0,0,0
+July,Xudun,Dhaban - Mobile OTP/TSFP,SNS76,CARE,9.2144,47.3023,9,0,0,0,0,0,9,9,100,0,0,75,0,1,0,4,4,100,0,0,0,0,0,0
+July,Xudun,Wagxin - Mobile OTP/TSFP,SNS77,CARE,9.196,47.4544,1,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+July,Xudun, Kulaal - Mobile OTP/TSFP,SNS78,CARE,9.73952,47.653384,4,1,0,0,0,1,12,13,92,8,8,19,3,1,0,7,7,100,43,0,0,0,0,0
+July,Xudun, Awrboogays  - Mobile OTP/TSFP,SNS79,CARE,9.569575,47.753808,3,0,0,0,0,0,16,16,100,0,0,29,0,2,1,8,9,89,0,11,0,0,0,0
+July,Xudun, Xabaalo camaare - Mobile OTP/TSFP,SNS80,CARE,9.49519,47.8344,0,1,0,0,0,0,12,12,100,8,0,20,2,0,0,5,5,100,40,0,0,0,0,0
+July,Lascaanod,dibshabeel - Mobile OTP/TSFP,SNS81,CARE,8.932899,47.44309,5,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lascaanod,jidbaale - Mobile OTP/TSFP,SNS82,CARE,8.98444,47.14778,2,0,0,0,0,1,3,4,75,0,25,40,0,0,2,3,5,60,0,40,0,0,0,0
+July,Lascaanod,dalyare - Mobile OTP/TSFP,SNS83,CARE,8.52636,47.56254,0,0,0,0,0,0,5,5,100,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lascaanod,xalxaliye - Mobile OTP/TSFP,SNS84,CARE,8.350322,47.62752,3,0,0,0,0,0,0,0,0,0,0,44,0,0,1,0,1,0,0,100,0,0,0,0
+July,Lascaanod,gacandar - Mobile OTP/TSFP,SNS85,CARE,8.38111,47.46778,2,0,0,0,0,0,0,0,0,0,0,26,0,0,0,2,2,100,0,0,0,0,0,0
+July,Lascaanod,fiqda maregaale - Mobile OTP/TSFP,SNS86,CARE,0.941411,41.384065,0,0,0,0,0,0,3,3,100,0,0,16,2,0,0,8,8,100,25,0,0,0,0,0
+July,Lascaanod,qaydarka - Mobile OTP/TSFP,SNS87,CARE,5.283726,46.882727,1,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lascaanod,waqderi - Mobile OTP/TSFP,SNS88,CARE,8.43701,47.33006,2,0,0,0,0,0,2,2,100,0,0,23,0,0,0,3,3,100,0,0,0,0,0,0
+July,Lascaanod,dhuxun - Mobile OTP/TSFP,SNS89,CARE,8.55333,47.38556,3,0,0,0,0,1,2,3,67,0,33,36,0,0,0,3,3,100,0,0,0,0,0,0
+July,Lascaanod,oodagooye - Mobile OTP/TSFP,SNS90,CARE,8.471351,47.40198,0,0,0,0,0,0,3,3,100,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lascaanod,kabaalka xargaga - Mobile OTP/TSFP,SNS91,CARE,8.467071,47.17783,1,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+July,Beledweyne,Farlibax - MOBILE/STATIC OTP,SNS23,CESVI,4.87396,44.86851,234,0,0,0,0,0,0,0,0,0,0,155,0,0,0,0,0,0,0,0,91,105,34,0
+July,Beledweyne,Howlwadaag - MOBILE/STATIC OTP,SNS24,CESVI,4.73167,45.19556,138,0,0,0,0,2,41,43,95,0,5,162,0,0,0,10,10,100,0,0,57,56,60,0
+July,Galkaio,Bandiiradley - SC/MOBILE OTP,SNS25,CESVI,6.47609,46.96365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10
+July,Galkaio,Docol - SC/Mobile OTP,SNS26,CESVI,6.43455,47.48846,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,80
+July,Galkaio,Galinsoor - SC/MOBILE OTP,SNS27,CESVI,6.42905,46.71594,0,0,0,0,0,0,9,9,100,0,0,0,0,0,0,0,0,0,0,0,0,392,154,21
+July,Galkaio,Wargalo - SC/Mobile OTP,SNS29,CESVI,6.26589,47.5204,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,46
+July,Hobyo ,Elgula - MOBILE/STATIC OTP,SNS30,CESVI,6.01175,47.85248,18,0,0,0,0,0,0,0,0,0,0,28,0,0,0,4,4,100,0,0,0,0,0,75
+July,Hobyo ,Galbarwaaqo - MOBILE/STATIC OTP,SNS31,CESVI,6.076280           ,47.40701,5,0,0,0,0,10,7,17,41,0,59,14,0,0,3,7,10,70,0,30,0,0,0,55
+July,Wadajir,Jazeera - MCH,SNS32,CESVI,1.95051,45.18045,0,0,0,0,0,0,0,0,0,0,0,60,0,0,0,0,0,0,0,0,2,17,5,163
+July,Afgoye,Abroone IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS443,Concern,2.090555,45.16805,83,0,0,0,0,2,31,33,94,0,6,118,0,0,4,250,254,98,0,2,0,0,0,0
+July,Afgoye,Afgoye Pry School - OTP  SFP  OPD  EPI  ANC/PNC,SNS444,Concern,2.133634,45.12583,317,0,0,0,0,3,225,228,99,0,1,555,0,0,6,430,436,99,0,1,17,16,2,29
+July,Afgoye,Afgoye Town (21stOctober) - OTP  SFP  OPD  EPI  ANC/PNC,SNS445,Concern,2.150278,45.11667,322,0,0,0,0,4,202,206,98,0,2,484,0,0,3,630,633,100,0,0,14,8,0,71
+July,Afgoye,Dajalaq - OTP  SFP  OPD  EPI  ANC/PNC,SNS446,Concern,2.180096,45.15417,340,0,0,0,0,8,199,207,96,0,4,472,0,0,2,333,335,99,0,1,18,8,3,55
+July,Afgoye,Warmaxan - OTP  SFP  OPD  EPI  ANC/PNC,SNS447,Concern,2.393889,45.02222,362,0,0,0,0,5,45,50,90,0,10,434,0,0,7,138,145,95,0,5,12,11,2,78
+July,Bondhere,Wiilwal  - OTP  SFP,SNS448,Concern,2.0425,45.34555,281,0,0,0,0,6,216,222,97,0,3,392,0,0,22,552,574,96,0,4,0,0,0,0
+July,Daynile,Siinka Dheer IDP Camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS449,Concern,2.071388,45.22944,478,0,0,0,0,0,249,249,100,0,0,780,0,0,2,110,112,98,0,2,0,19,0,0
+July,Daynile,Tabeleha Sheikh Ibrahim IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS450,Concern,2.063694,45.26219,539,0,0,0,0,5,622,627,99,0,1,0,0,0,0,0,0,0,0,0,1,20,23,448
+July,Daynile,Weydow IDP camps - OTP  SFP  OPD  EPI  ANC/PNC,SNS451,Concern,2.068611,45.25416,376,0,0,0,0,6,619,625,99,0,1,239,0,0,8,574,582,99,0,1,5,54,0,58
+July,Wadajir,Jabuti School  - OTP  SFP  OPD  EPI  ANC/PNC,SNS452,Concern,2.023195,45.29958,499,0,0,0,0,28,300,328,91,0,9,621,0,0,38,403,441,91,0,9,0,7,0,366
+July,Wadajir,Obosibo Halane  - OTP  SFP  OPD  EPI  ANC/PNC,SNS453,Concern,2.012495,45.28965,431,0,0,0,0,17,399,416,96,0,4,621,0,0,14,566,580,98,0,2,1,0,1,0
+July,berbera,bahalay - OTP and TSFP,SNS245,HPA,9.96984,45.471466,0,0,0,0,0,1,5,6,83,0,17,0,0,0,0,18,18,100,0,0,0,1,0,0
+July,berbera,baylahmale - OTP and TSFP,SNS246,HPA,10.00016,45.18594,0,0,0,0,0,5,36,41,88,0,12,5,0,0,10,61,71,86,0,14,0,3,4,0
+July,berbera,bixin - OTP and TSFP,SNS247,HPA,10.161252,45.107271,0,0,0,0,1,0,8,9,89,11,0,25,0,0,6,25,31,81,0,19,0,1,2,0
+July,berbera,biyofadhisinka - OTP and TSFP,SNS249,HPA,10.37469,44.5737,9,0,0,0,0,1,23,24,96,0,4,14,0,0,8,13,21,62,0,38,0,1,1,0
+July,berbera,Biyoolay - OTP and TSFP,SNS250,HPA,10.11463,45.27029,8,0,0,0,0,0,9,9,100,0,0,12,0,0,9,23,32,72,0,28,0,0,0,0
+July,berbera,Buloxaar - OTP and TSFP,SNS251,HPA,10.390648,44.402351,3,0,0,0,0,1,10,11,91,0,9,11,0,0,1,15,16,94,0,6,0,3,3,0
+July,berbera,Buq doofaar - OTP and TSFP,SNS252,HPA,10.04747,44.88788,4,0,0,0,0,0,18,18,100,0,0,14,0,0,7,20,27,74,0,26,0,0,0,0
+July,berbera,Ceel sheekh - OTP and TSFP,SNS253,HPA,10.438899,44.26028,1,0,0,0,0,0,30,30,100,0,0,0,0,0,1,20,21,95,0,5,0,2,0,0
+July,berbera,Ceelbaxay - OTP and TSFP,SNS254,HPA,10.14355,45.28616,1,0,0,0,0,1,52,53,98,0,2,16,0,0,2,52,54,96,0,4,0,0,2,0
+July,berbera,Dalow - OTP and TSFP,SNS257,HPA,9.9574,44.8889,1,0,0,0,0,2,23,25,92,0,8,2,0,0,9,27,36,75,0,25,0,0,0,0
+July,berbera,Dhaymoole - OTP and TSFP,SNS258,HPA,10.13499,45.02089,0,0,0,0,0,2,15,17,88,0,12,0,0,0,4,10,14,71,0,29,0,0,0,0
+July,berbera,Tuulo dhibiijo - OTP and TSFP,SNS259,HPA,10.067252,45.298448,3,0,0,0,0,0,20,20,100,0,0,0,0,0,9,27,36,75,0,25,0,0,1,0
+July,berbera,Diririma - OTP and TSFP,SNS260,HPA,10.77767,45.97737,0,0,0,0,0,1,20,21,95,0,5,0,0,0,6,27,33,82,0,18,0,0,0,0
+July,berbera,Fugux - OTP and TSFP,SNS261,HPA,10.24643,45.08334,1,0,0,0,0,0,27,27,100,0,0,1,0,0,12,33,45,73,0,27,0,0,2,0
+July,berbera,Gadhka Cisman jaamac - OTP and TSFP,SNS262,HPA,10.23308,45.51503,3,0,0,0,0,1,2,3,67,0,33,14,0,0,10,33,43,77,0,23,0,2,0,0
+July,berbera,Daboraqas - OTP and TSFP,SNS263,HPA,9.49868,43.76112,0,0,0,0,0,3,29,32,91,0,9,6,0,0,1,20,21,95,0,5,0,0,0,0
+July,berbera,Ilcarmo - OTP and TSFP,SNS265,HPA,9.88049,45.96843,2,0,0,0,0,2,10,12,83,0,17,16,0,0,3,36,39,92,0,8,0,3,0,0
+July,berbera,Laso dawaco - OTP and TSFP,SNS266,HPA,10.05142,44.98405,9,0,0,0,0,2,27,29,93,0,7,4,0,0,2,23,25,92,0,8,0,0,0,0
+July,berbera,Macaaneeye - OTP and TSFP,SNS267,HPA,9.899211,44.71122,4,0,0,0,0,2,27,29,93,0,7,15,0,0,0,31,31,100,0,0,0,0,2,0
+July,berbera,Mandeera - OTP and TSFP,SNS268,HPA,9.899856,44.711391,3,0,0,0,1,2,20,23,87,4,9,18,0,0,2,65,67,97,0,3,0,0,4,0
+July,berbera,Omane - OTP and TSFP,SNS269,HPA,10.72804,45.5785,7,0,0,0,1,0,3,4,75,25,0,28,0,0,5,30,35,86,0,14,0,3,2,0
+July,berbera,Ragadwayn - OTP and TSFP,SNS271,HPA,10.45891,45.25248,2,0,0,0,0,0,10,10,100,0,0,5,0,0,6,31,37,84,0,16,0,0,0,0
+July,berbera,Raribul - OTP and TSFP,SNS272,HPA,10.1267,46.193867,3,0,0,0,0,1,7,8,88,0,13,28,0,0,7,29,36,81,0,19,0,0,0,0
+July,berbera,Shacable - OTP and TSFP,SNS273,HPA,10.941267,44.213158,2,0,0,0,0,1,2,3,67,0,33,3,0,0,1,25,26,96,0,4,0,0,3,0
+July,berbera,Taagada - OTP and TSFP,SNS274,HPA,10.01149,45.08561,1,0,0,0,0,0,6,6,100,0,0,16,0,0,2,22,24,92,0,8,0,0,1,0
+July,berbera,Tuur dibi - OTP and TSFP,SNS275,HPA,9.811507,44.841468,15,0,0,0,0,1,5,6,83,0,17,0,0,0,3,22,25,88,0,12,0,0,0,0
+July,berbera,Ugaas madow - OTP and TSFP,SNS276,HPA,9.753653,44.95133,2,0,0,0,0,0,7,7,100,0,0,6,0,0,2,21,23,91,0,9,0,0,0,0
+July,berbera,Waxari kaa yeedhay - OTP and TSFP,SNS277,HPA,10.318398,46.30823,2,0,0,0,0,0,15,15,100,0,0,10,0,0,3,22,25,88,0,12,0,0,0,0
+July,berbera,Xariye - OTP and TSFP,SNS278,HPA,10.110666,45.277363,6,0,0,0,0,3,7,10,70,0,30,6,0,0,1,24,25,96,0,4,0,0,0,0
+July,berbera,Xididalay - OTP and TSFP,SNS279,HPA,9.92729,45.09722,0,0,0,0,0,3,7,10,70,0,30,1,0,0,0,25,25,100,0,0,0,0,0,0
+July,sheikh,Cagaaray - OTP and TSFP,SNS280,HPA,10.13355,45.21616,7,0,0,0,0,0,11,11,100,0,0,10,0,0,0,13,13,100,0,0,0,0,0,0
+July,sheikh,Gidhays - OTP and TSFP,SNS281,HPA,9.949355,45.460399,0,0,0,0,0,3,4,7,57,0,43,0,0,0,6,14,20,70,0,30,0,0,0,0
+July,sheikh,Gugux - OTP and TSFP,SNS282,HPA,9.966041,45.404552,0,0,0,0,1,0,4,5,80,20,0,2,0,0,9,22,31,71,0,29,0,0,0,0
+July,sheikh,Ximan - OTP and TSFP,SNS283,HPA,9.801021,45.464898,0,0,0,0,0,2,8,10,80,0,20,11,0,0,1,20,21,95,0,5,0,2,0,0
+July,sheikh,Raamaale - OTP and TSFP,SNS284,HPA,9.57953,45.44321,24,0,0,0,0,0,9,9,100,0,0,29,0,0,0,39,39,100,0,0,0,0,0,0
+July,Buhoodle,Gantahar - OTP and TSFP,SNS285,HPA,9.087806,46.774456,57,0,0,0,1,6,74,81,91,1,7,477,0,0,30,225,255,88,0,12,0,5,21,0
+July,Buhoodle,Dogoble - OTP and TSFP,SNS289,HPA,8.840441,46.402417,10,0,0,0,3,1,15,19,79,16,5,98,0,0,3,43,46,93,0,7,0,4,5,0
+July,Burao,Shaxid - OTP and TSFP,SNS290,HPA,9.01834,46.48713,39,0,0,0,0,2,14,16,88,0,13,122,0,0,2,44,46,96,0,4,0,0,2,0
+July,Burao,Shanshcade - OTP and TSFP,SNS291,HPA,9.14411,46.483393,16,0,0,0,1,2,22,25,88,4,8,79,0,0,1,50,51,98,0,2,0,6,7,0
+July,Burao,Talabuur - OTP and TSFP,SNS292,HPA,9.98049,46.12991,44,0,0,0,0,7,34,41,83,0,17,199,0,0,23,184,207,89,0,11,0,1,14,0
+July,Burao,gunburlibax - OTP and TSFP,SNS298,HPA,9.26783,46.3769,15,0,0,0,0,0,8,8,100,0,0,54,0,0,2,38,40,95,0,5,0,2,1,0
+July,Burao,Gedihan - OTP and TSFP,SNS299,HPA,9.28393,46.49952,13,0,0,0,1,3,3,7,43,14,43,38,0,0,6,15,21,71,0,29,0,0,0,0
+July,Burao,Jamac liban - OTP and TSFP,SNS300,HPA,9.65104,46.32145,4,0,0,0,0,2,3,5,60,0,40,17,0,0,0,18,18,100,0,0,0,2,3,0
+July,Burao,Beli eday - OTP and TSFP,SNS301,HPA,8.93733,46.4979,13,0,0,0,0,2,6,8,75,0,25,86,0,0,3,87,90,97,0,3,0,1,0,0
+July,Burao,balanbal - OTP and TSFP,SNS302,HPA,9.975866,46.109205,51,0,0,0,2,6,10,18,56,11,33,153,0,0,14,101,115,88,0,12,0,9,8,0
+July,Burao,Qabrigorod - OTP and TSFP,SNS307,HPA,9.02378,46.15941,17,0,0,0,0,1,15,16,94,0,6,149,0,0,3,88,91,97,0,3,0,1,0,0
+July,Burao,Balicaynashe - OTP and TSFP,SNS308,HPA,8.99811,45.35469,45,0,0,0,3,2,20,25,80,12,8,77,0,0,6,75,81,93,0,7,0,2,6,0
+July,Burao,Dahir Ogle - OTP and TSFP,SNS309,HPA,9.03494,45.28821,16,0,0,0,0,0,5,5,100,0,0,51,0,0,11,47,58,81,0,19,0,1,0,0
+July,Burao,Gorayaxun sare - OTP and TSFP,SNS310,HPA,9.796558,45.574205,11,0,0,0,0,3,19,22,86,0,14,81,0,0,5,28,33,85,0,15,0,2,5,0
+July,Burao,Gorayaxun Hose - OTP and TSFP,SNS311,HPA,9.02442,45.13483,8,0,0,0,0,3,18,21,86,0,14,42,0,0,16,39,55,71,0,29,0,2,4,0
+July,Burao,Qolgodare - OTP and TSFP,SNS312,HPA,8.791798,45.309396,100,0,0,0,5,11,76,92,83,5,12,396,0,0,43,273,316,86,0,14,0,13,21,0
+July,Burao,Kadhada - OTP and TSFP,SNS318,HPA,8.70589,45.26806,3,0,0,0,1,4,7,12,58,8,33,42,0,0,6,65,71,92,0,8,0,1,2,0
+July,Burao,Godorka - OTP and TSFP,SNS319,HPA,8.62106,45.14789,8,0,0,0,1,0,5,6,83,17,0,88,0,0,5,68,73,93,0,7,0,2,2,0
+July,Burao,Suryo - OTP and TSFP,SNS320,HPA,9.349839,44.966578,9,0,0,0,0,1,10,11,91,0,9,88,0,0,7,66,73,90,0,10,0,6,3,0
+July,Odwaine,Iskidhon - OTP and TSFP,SNS321,HPA,9.24223,44.90343,6,0,0,0,1,2,16,19,84,5,11,44,0,0,2,64,66,97,0,3,0,0,0,0
+July,Odwaine,Balihiile - OTP and TSFP,SNS322,HPA,8.75638,44.73835,6,0,0,0,1,2,15,18,83,6,11,52,0,0,2,80,82,98,0,2,0,2,2,0
+July,Burao,Labigun - OTP and TSFP,SNS323,HPA,9.04092,44.91224,4,0,0,0,2,6,14,22,64,9,27,40,0,0,2,61,63,97,0,3,0,1,2,0
+July,Odwaine,Sanyare - OTP and TSFP,SNS324,HPA,8.81409,45.052942,2,0,0,0,2,5,16,23,70,9,22,38,0,0,1,87,88,99,0,1,0,3,1,0
+July,Burao,Bilcilwayso - OTP and TSFP,SNS325,HPA,8.91512,44.78308,7,0,0,0,0,2,11,13,85,0,15,46,0,0,4,66,70,94,0,6,0,2,0,0
+July,Burao,Warabeye - OTP and TSFP,SNS326,HPA,9.761123,45.004277,3,0,0,0,0,1,8,9,89,0,11,36,0,0,0,40,40,100,0,0,0,2,1,0
+July,Odwaine,Abdidhere - OTP and TSFP,SNS327,HPA,9.35561,45.06758,7,0,0,0,1,2,14,17,82,6,12,54,0,0,2,44,46,96,0,4,0,4,4,0
+July,Odwaine,Harada Gubatoxil - OTP and TSFP,SNS328,HPA,9.241,45.19842,47,0,0,0,0,2,12,14,86,0,14,161,0,0,2,56,58,97,0,3,0,5,3,0
+July,Odwaine,Qolqol - OTP and TSFP,SNS329,HPA,8.876515,45.097483,23,0,0,0,2,2,24,28,86,7,7,157,0,0,5,67,72,93,0,7,0,3,0,0
+July,Ainabo,Waridaad - OTP and TSFP,SNS338,HPA,9.28387,46.25364,4,0,0,0,1,0,3,4,75,25,0,66,0,0,0,23,23,100,0,0,0,2,2,0
+July,Ainabo,Balaas1 - OTP and TSFP,SNS339,HPA,9.066286,46.41218,10,0,0,0,1,1,5,7,71,14,14,105,0,0,2,24,26,92,0,8,0,1,2,0
+July,Ainabo,Balaas2 - OTP and TSFP,SNS340,HPA,9.680066,46.29559,5,0,0,0,0,2,9,11,82,0,18,90,0,0,0,56,56,100,0,0,0,2,2,0
+July,Ainabo,Oog camp - OTP and TSFP,SNS341,HPA,8.934069,46.617513,3,0,0,0,0,2,4,6,67,0,33,74,0,0,1,27,28,96,0,4,0,1,0,0
+July,Ainabo,Wadamagoo - OTP and TSFP,SNS342,HPA,8.9245,46.26745,9,0,0,0,0,1,7,8,88,0,13,56,0,0,1,35,36,97,0,3,0,3,0,0
+July,Ainabo,Buqdharkayn - OTP and TSFP,SNS343,HPA,8.9376,46.48554,5,0,0,0,2,1,8,11,73,18,9,45,0,0,6,20,26,77,0,23,0,1,5,0
+July,Ainabo,Balicumar - OTP and TSFP,SNS344,HPA,8.96423,46.45667,3,0,0,0,0,0,4,4,100,0,0,54,0,0,7,9,16,56,0,44,0,0,2,0
+July,Ainabo,Higlo - OTP and TSFP,SNS346,HPA,9.49185,46.497968,17,0,0,0,0,2,9,11,82,0,18,131,0,0,3,19,22,86,0,14,0,1,2,0
+July,Ainabo,Goljano - OTP and TSFP,SNS348,HPA,9.18375,46.35176,2,0,0,0,1,0,7,8,88,13,0,23,0,0,7,62,69,90,0,10,0,2,0,0
+July,Ainabo,Dhudhubka - OTP and TSFP,SNS350,HPA,9.25501,46.40952,10,0,0,0,0,1,2,3,67,0,33,51,0,0,2,16,18,89,0,11,0,3,0,0
+July,Ainabo,Qoridhere - OTP and TSFP,SNS351,HPA,9.182895,46.671091,14,0,0,0,0,2,7,9,78,0,22,66,0,0,3,55,58,95,0,5,0,3,0,0
+July,Hargeisa,Aw Bare - OTP and TSFP,SNS375,HPA,9.39667,43.82639,2,0,0,0,0,1,5,6,83,0,17,2,0,0,5,25,30,83,0,17,0,2,1,0
+July,Hargeisa,Dacawalay - OTP and TSFP,SNS376,HPA,10.4417,43.65495,2,0,0,0,0,0,2,2,100,0,0,6,0,0,1,22,23,96,0,4,0,3,0,0
+July,Hargeisa,Fahda - OTP and TSFP,SNS377,HPA,9.447454,43.918564,5,0,0,0,2,2,8,12,67,17,17,4,0,0,8,22,30,73,0,27,0,0,0,0
+July,Hargeisa,maraaga - OTP and TSFP,SNS378,HPA,9.39747,43.74581,4,0,0,0,0,1,6,7,86,0,14,5,0,0,1,21,22,95,0,5,0,1,2,0
+July,Hargeisa,Haro cadaado - OTP and TSFP,SNS379,HPA,9.53583,43.76222,1,0,0,0,0,2,2,4,50,0,50,3,0,0,2,12,14,86,0,14,0,1,0,0
+July,Hargeisa,Digaale - OTP and TSFP,SNS380,HPA,9.320506,44.050178,0,0,0,0,0,2,2,4,50,0,50,6,0,0,2,14,16,88,0,13,0,3,1,0
+July,Hargeisa,Gorayo - OTP and TSFP,SNS381,HPA,9.6235,43.504,1,0,0,0,0,1,2,3,67,0,33,2,0,0,2,25,27,93,0,7,0,1,0,0
+July,Hargeisa,Higlada - OTP and TSFP,SNS382,HPA,8.82003,44.54681,3,0,0,0,1,2,5,8,63,13,25,14,0,0,3,41,44,93,0,7,0,4,2,0
+July,Hargeisa,Hundule - OTP and TSFP,SNS383,HPA,9.31686,44.14944,1,0,0,0,0,2,2,4,50,0,50,1,0,0,9,12,21,57,0,43,0,4,1,0
+July,Hargeisa,Ina Guuxaa - OTP and TSFP,SNS384,HPA,8.92778,44.22181,0,0,0,0,0,1,3,4,75,0,25,0,0,0,8,22,30,73,0,27,0,1,4,0
+July,Hargeisa,Libaax qawdhama - OTP and TSFP,SNS385,HPA,8.83925,44.48781,0,0,0,0,0,2,3,5,60,0,40,0,0,0,7,14,21,67,0,33,0,1,2,0
+July,Hargeisa,Maygaagta yar iyo wayn - OTP and TSFP,SNS386,HPA,9.51333,44.20093,1,0,0,0,2,0,6,8,75,25,0,2,0,0,10,17,27,63,0,37,0,2,0,0
+July,Hargeisa,Qowl Buulale - OTP and TSFP,SNS387,HPA,8.86822,44.39969,1,0,0,0,0,1,5,6,83,0,17,1,0,0,9,10,19,53,0,47,0,1,0,0
+July,Hargeisa,Sharmaarke - OTP and TSFP,SNS388,HPA,9.399979,44.217907,1,0,0,0,0,2,8,10,80,0,20,0,0,0,2,25,27,93,0,7,0,2,3,0
+July,Hargeisa,Toon - OTP and TSFP,SNS389,HPA,9.39069,44.11939,4,0,0,0,0,0,8,8,100,0,0,4,0,0,0,19,19,100,0,0,0,2,3,0
+July,Hargeisa,qool caday - OTP and TSFP,SNS390,HPA,9.21169,44.16503,2,0,0,0,1,2,6,9,67,11,22,5,0,0,8,15,23,65,0,35,0,1,3,0
+July,Hargeisa,Xadhig xadhig - OTP and TSFP,SNS391,HPA,9.359877,43.609406,3,0,0,0,0,0,8,8,100,0,0,12,0,0,9,6,15,40,0,60,0,3,0,0
+July,Erigavo,Shalcow - OTP and TSFP,SNS392,HPA,10.777021,46.720051,2,0,0,0,0,2,7,9,78,0,22,0,0,0,12,6,18,33,0,67,0,2,4,0
+July,Erigavo,Dhoobo - OTP and TSFP,SNS393,HPA,10.51379,47.77419,3,0,0,0,0,0,5,5,100,0,0,5,0,0,0,4,4,100,0,0,0,3,0,0
+July,Erigavo,Qotonka - OTP and TSFP,SNS394,HPA,10.76997,47.97745,5,0,0,0,2,1,4,7,57,29,14,1,0,0,8,14,22,64,0,36,0,2,1,0
+July,Erigavo,Geed caroweyn - OTP and TSFP,SNS395,HPA,11.11581,47.91034,2,0,0,0,0,0,3,3,100,0,0,9,0,0,4,6,10,60,0,40,0,2,0,0
+July,Erigavo,Laaso Dhagax - OTP and TSFP,SNS396,HPA,11.147119,47.343604,2,0,0,0,0,1,15,16,94,0,6,12,0,0,17,61,78,78,0,22,0,2,4,0
+July,Erigavo,Cilamo - OTP and TSFP,SNS397,HPA,10.944952,47.241548,0,0,0,0,0,0,4,4,100,0,0,1,0,0,6,16,22,73,0,27,0,2,1,0
+July,Erigavo,Sodonlay - OTP and TSFP,SNS398,HPA,10.306192,46.30796,4,0,0,0,0,1,6,7,86,0,14,3,0,0,17,15,32,47,0,53,0,4,0,0
+July,Erigavo,Kamouda - OTP and TSFP,SNS399,HPA,9.73981,47.65417,3,0,0,0,0,1,12,13,92,0,8,26,0,0,53,99,152,65,0,35,0,8,2,0
+July,Erigavo,Keylo Waqal - OTP and TSFP,SNS400,HPA,10.68228,46.44826,0,0,0,0,1,0,2,3,67,33,0,0,0,0,10,8,18,44,0,56,0,2,0,0
+July,Erigavo,Conqor - OTP and TSFP,SNS401,HPA,10.77793,46.19731,1,0,0,0,0,0,12,12,100,0,0,7,0,0,11,28,39,72,0,28,0,2,0,0
+July,Erigavo,Nagolagufur - OTP and TSFP,SNS402,HPA,10.72791,47.53481,0,0,0,0,0,1,11,12,92,0,8,11,0,0,3,10,13,77,0,23,0,3,0,0
+July,Erigavo,Yufle - OTP and TSFP,SNS403,HPA,10.376977,47.195739,0,0,0,0,0,1,9,10,90,0,10,0,0,0,6,15,21,71,0,29,0,4,0,0
+July,Erigavo,Saqiyad - OTP and TSFP,SNS404,HPA,9.9621,48.13828,1,0,0,0,2,0,14,16,88,13,0,1,0,0,4,28,32,88,0,13,0,1,0,0
+July,Erigavo,Kalmac - OTP and TSFP,SNS405,HPA,10.069057,47.204579,3,0,0,0,0,2,12,14,86,0,14,9,0,0,6,14,20,70,0,30,0,1,2,0
+July,Erigavo,Ceel caro - OTP and TSFP,SNS406,HPA,9.808085,46.603849,4,0,0,0,0,0,16,16,100,0,0,9,0,0,2,16,18,89,0,11,0,4,0,0
+July,Erigavo,Ceel fiito - OTP and TSFP,SNS407,HPA,10.61541,47.22518,3,0,0,0,0,1,5,6,83,0,17,11,0,0,8,6,14,43,0,57,0,3,2,0
+July,Erigavo,Uurwayn - OTP and TSFP,SNS408,HPA,10.74225,48.10947,0,0,0,0,0,0,10,10,100,0,0,0,0,0,3,9,12,75,0,25,0,1,0,0
+July,Erigavo,Doboc (Erigavo) - OTP and TSFP,SNS409,HPA,10.682528,47.752035,2,0,0,0,1,2,13,16,81,6,13,17,0,0,13,44,57,77,0,23,0,2,0,0
+July,Erigavo,Kalxoor - OTP and TSFP,SNS411,HPA,10.809207,47.45558,1,0,0,0,0,2,8,10,80,0,20,16,0,0,10,34,44,77,0,23,0,1,0,0
+July,El-afwayn,Qacab ciinle - OTP and TSFP,SNS412,HPA,10.038026,47.558841,2,0,0,0,0,2,12,14,86,0,14,12,0,0,11,36,47,77,0,23,0,2,0,0
+July,El-afwayn,Kaldaray (Erigavo) - OTP and TSFP,SNS413,HPA,9.84207,46.574791,3,0,0,0,0,1,17,18,94,0,6,21,0,0,11,46,57,81,0,19,0,5,2,0
+July,Erigavo,Bali Galgaal - OTP and TSFP,SNS414,HPA,10.6806,47.65591,0,0,0,0,0,2,10,12,83,0,17,0,0,0,16,51,67,76,0,24,0,0,3,0
+July,Erigavo,Xoog bardaale - OTP and TSFP,SNS415,HPA,10.77807,47.2736,0,0,0,0,0,2,14,16,88,0,13,6,0,0,6,11,17,65,0,35,0,1,0,0
+July,Erigavo,Kalarog - OTP and TSFP,SNS417,HPA,10.1521,47.798,6,0,0,0,0,1,12,13,92,0,8,29,0,0,19,51,70,73,0,27,0,2,1,0
+July,Erigavo,Fardheeratay - OTP and TSFP,SNS418,HPA,10.4195,48.299702,3,0,0,0,0,1,10,11,91,0,9,10,0,0,8,32,40,80,0,20,0,1,2,0
+July,Erigavo,Biyo xadhaadh - OTP and TSFP,SNS421,HPA,9.57794,47.48019,0,0,0,0,0,0,7,7,100,0,0,11,0,0,11,39,50,78,0,22,0,2,2,0
+July,Erigavo,Uur - OTP and TSFP,SNS424,HPA,10.24361,47.69705,0,0,0,0,0,1,2,3,67,0,33,7,0,0,5,56,61,92,0,8,0,1,2,0
+July,El-afwayn,Gudohaadle - OTP and TSFP,SNS425,HPA,10.58882,47.29122,4,0,0,0,0,0,2,2,100,0,0,33,0,0,12,18,30,60,0,40,0,0,1,0
+July,El-afwayn,Sarmaano - OTP and TSFP,SNS426,HPA,10.15955,46.24721,1,0,0,0,0,1,2,3,67,0,33,4,0,0,12,29,41,71,0,29,0,2,2,0
+July,El-afwayn,Kal-Sheikh - OTP and TSFP,SNS427,HPA,10.062975,47.204693,0,0,0,0,0,0,3,3,100,0,0,2,0,0,18,37,55,67,0,33,0,2,2,0
+July,El-afwayn,God caanood - OTP and TSFP,SNS428,HPA,10.105648,47.307387,0,0,0,0,0,1,3,4,75,0,25,5,0,0,2,24,26,92,0,8,0,3,3,0
+July,El-afwayn,Dhadhiid Yaxye - OTP and TSFP,SNS429,HPA,10.057183,47.370631,1,0,0,0,0,2,1,3,33,0,67,2,0,0,13,38,51,75,0,25,0,3,1,0
+July,El-afwayn,Qal iyo Qac - OTP and TSFP,SNS430,HPA,9.61874,46.82852,1,0,0,0,0,0,3,3,100,0,0,1,0,0,3,21,24,88,0,13,0,1,2,0
+July,El-afwayn,Dhabar Mamac - OTP and TSFP,SNS431,HPA,10.343805,48.691851,1,0,0,0,0,0,3,3,100,0,0,4,0,0,2,38,40,95,0,5,0,2,4,0
+July,El-afwayn,Timo-Weynta(darar-weyne) - OTP and TSFP,SNS432,HPA,9.757366,47.527199,1,0,0,0,0,2,3,5,60,0,40,1,0,0,3,17,20,85,0,15,0,0,4,0
+July,El-afwayn,Bixin(higlobalaysi) - OTP and TSFP,SNS435,HPA,10.25956,47.30543,0,0,0,0,0,2,7,9,78,0,22,8,0,0,2,23,25,92,0,8,0,4,0,0
+July,El-afwayn,Galruble - OTP and TSFP,SNS436,HPA,10.09504,47.04531,5,0,0,0,0,0,5,5,100,0,0,7,0,0,1,15,16,94,0,6,0,3,0,0
+July,El-afwayn,Ilad - OTP and TSFP,SNS437,HPA,10.172998,47.112832,2,0,0,0,0,1,5,6,83,0,17,20,0,0,2,47,49,96,0,4,0,2,0,0
+July,El-afwayn,Beer Wayso - OTP and TSFP,SNS440,HPA,9.755949,47.528741,0,0,0,0,0,2,3,5,60,0,40,2,0,0,7,36,43,84,0,16,0,0,0,0
+July,El-afwayn,Jed(Biyo Dhacay) - OTP and TSFP,SNS441,HPA,10.311183,47.667107,2,0,0,0,0,1,3,4,75,0,25,10,0,0,13,27,40,68,0,33,0,0,0,0
+July,El-afwayn,Dawldawl - OTP and TSFP,SNS442,HPA,9.55867,47.04721,0,0,0,0,0,0,3,3,100,0,0,9,0,0,13,35,48,73,0,27,0,2,0,0
+July,Hargeisa,Ina Cunaaye - OTP and TSFP,SNS618,HPA,9.315,44.05094,2,0,0,0,0,0,8,8,100,0,0,5,0,0,7,10,17,59,0,41,0,2,0,0
+July,Hargeisa,Laalayska - OTP and TSFP,SNS624,HPA,9.362765,43.91166667,3,0,0,0,0,0,2,2,100,0,0,5,0,0,1,14,15,93,0,7,0,1,0,0
+July,Dhusamareb ,Ballicad/Dumaye/Mobile - Integrated Health and  nutrition site,SNS454,IRC,5.4875,46.095833,17,0,1,0,4,1,22,27,81,15,4,34,0,5,3,25,28,89,0,11,0,29,0,40
+July,Dhusamareb ,Beer cabdi farax/Mobile - Integrated Health and  nutrition site,SNS455,IRC,5.445833,46.500556,10,0,1,0,0,0,13,13,100,0,0,27,0,0,0,24,24,100,0,0,0,20,3,35
+July,Dhusamareb ,Dhusamareb district  - Referral Health Centre,SNS456,IRC,5.53764,46.3867,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dhusamareb ,Faragoy/Mobile - Integrated Health and  nutrition site,SNS457,IRC,5.92108,46.524527,9,1,0,0,1,0,12,13,92,15,0,19,0,0,0,16,16,100,0,0,0,23,0,36
+July,Dhusamareb ,Hadful/Mobile - Integrated Health and  nutrition site,SNS458,IRC,5.643056,46.554722,12,3,2,0,1,2,23,26,88,15,8,23,0,2,2,25,27,93,0,7,0,20,0,34
+July,Dhusamareb,Hanan Hospital - HC,SNS459,IRC,5.320374,46.225872,145,1,2,20,6,1,26,53,49,51,2,407,0,0,2,47,49,96,0,4,13,116,0,643
+July,Dhusamareb ,Hananley/Mobile - Integrated Health and  nutrition site,SNS460,IRC,5.664444,46.422778,15,0,0,0,0,0,20,20,100,0,0,32,0,0,0,19,19,100,0,0,0,25,0,41
+July,Dhusamareb ,Higlale/Mobile - Integrated Health and  nutrition site,SNS461,IRC,5.493056,46.2075,14,1,0,0,0,1,13,14,93,7,7,28,0,1,2,22,24,92,0,8,2,22,0,36
+July,Dhusamareb ,Xundhure/Mobile - Integrated Health and  nutrition site,SNS462,IRC,5.45911,46.38648,21,0,0,0,0,1,13,14,93,0,7,41,0,0,0,22,22,100,0,0,2,46,0,53
+July,Guricel ,Ali Hassan/Mobile 2 - Integrated Health and  nutrition site,SNS463,IRC,5.18907,45.91851,16,0,0,0,0,1,12,13,92,0,8,37,0,0,0,14,14,100,0,0,0,13,0,39
+July,Guricel ,Aran/Mobile - Integrated Health and  nutrition site,SNS464,IRC,5.30825,45.87737,75,1,3,0,3,2,35,40,88,10,5,177,0,4,0,66,66,100,0,0,3,83,5,181
+July,Guricel ,Barax/Mobile 2 - Integrated Health and  nutrition site,SNS465,IRC,5.40896,45.7955,10,1,0,0,0,0,11,11,100,9,0,29,0,2,0,16,16,100,0,0,0,19,0,35
+July,Guricel ,Bart-Ugaska/Mobile 1 - Integrated Health and  nutrition site,SNS466,IRC,5.23694,45.82129,10,0,0,0,0,0,10,10,100,0,0,36,0,0,0,14,14,100,0,0,0,24,0,37
+July,Guricel ,Calalale/Mobile 2 - Integrated Health and  nutrition site,SNS467,IRC,5.54121,45.67062,9,0,0,0,1,1,12,14,86,7,7,23,0,0,0,15,15,100,0,0,0,17,6,30
+July,Guricel ,Ceelbaraf/Mobile 1 - Integrated Health and  nutrition site,SNS468,IRC,5.4798,45.89961,10,1,0,0,1,0,12,13,92,15,0,27,0,3,0,19,19,100,0,0,0,20,0,37
+July,Guricel ,Dabarre/Mobile 1 - Integrated Health and  nutrition site,SNS469,IRC,5.126111,45.935278,12,0,0,0,1,1,11,13,85,8,8,28,0,2,0,19,19,100,0,0,0,19,0,32
+July,Guricel ,Damanyo/Mobile 1 - Integrated Health and  nutrition site,SNS470,IRC,5.17972,45.53306,9,0,0,0,0,0,12,12,100,0,0,23,0,0,2,22,24,92,0,8,0,16,0,31
+July,Guricel ,Dhagaxyale/Mobile 1 - Integrated Health and  nutrition site,SNS471,IRC,5.27692,45.83127,11,0,0,0,1,1,14,16,88,6,6,29,0,0,1,23,24,96,0,4,0,24,0,36
+July,Guricel ,Dirie-Hassan/Mobile 2 - Integrated Health and  nutrition site,SNS472,IRC,5.26156,45.765,14,0,0,0,1,1,15,17,88,6,6,30,0,0,0,23,23,100,0,0,0,23,52,36
+July,Guricel ,Gabun/Mobile 1 - Integrated Health and  nutrition site,SNS473,IRC,5.4898,45.79951,12,0,0,0,0,2,14,16,88,0,13,33,0,0,1,19,20,95,0,5,0,22,55,38
+July,Guricel ,Godwil/Mobile 2 - Integrated Health and  nutrition site,SNS475,IRC,5.30894,45.8856,16,0,2,0,0,0,14,14,100,0,0,35,0,0,1,23,24,96,0,4,0,24,7,41
+July,Guricel ,Guricel District - Hospital ,SNS476,IRC,5.31296,45.88569,99,2,0,26,7,1,33,67,49,52,1,307,0,1,0,22,22,100,0,0,27,103,0,452
+July,Guricel ,Harale/Mobile 2 - Integrated Health and  nutrition site,SNS477,IRC,5.40079,45.94858,12,0,0,0,1,0,11,12,92,8,0,32,0,0,1,55,56,98,0,2,0,22,1,37
+July,Guricel ,Lanle/Mobile 2 - Integrated Health and  nutrition site,SNS478,IRC,5.4366,45.94898,11,0,1,0,1,0,11,12,92,8,0,27,0,0,2,20,22,91,0,9,0,26,0,41
+July,Guricel ,Nagaadi-weyn/Mobile 1 - Integrated Health and  nutrition site,SNS479,IRC,5.07791,45.8319,9,1,0,0,1,2,15,18,83,11,11,23,0,0,0,18,18,100,0,0,0,24,0,30
+July,Guricel ,Qarsoni/Mobile 2 - Integrated Health and  nutrition site,SNS480,IRC,5.4869,45.84895,7,0,2,0,0,1,17,18,94,0,6,19,0,1,0,23,23,100,0,0,0,20,0,28
+July,Guricel ,Shalaqben/Mobile - Integrated Health and  nutrition site,SNS481,IRC,6.02351,45.96333,19,0,2,0,1,2,35,38,92,3,5,44,0,1,0,42,42,100,0,0,0,37,0,70
+July,Gaalkayo South ,Gaalkayo South Hospital - Gaalkayo South Hospital,SNS483,IRC,6.84444,47.42816,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,1,0
+July,Kahda,"Dalada Mako, Camp Bulo-Sheik, , Dalada Celcade, Dalaada Rabituuk, Dalada Kuntuwarey - Health Mobile Team",SNS484,IMC,2.03996,45.13815,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,0,0
+July,Kahda,"Dalada Garas Bajino, Dalada Dulqad, Dalaada Mareeg, Dalada Nageeye, Camp Farjano - Health Mobile Team",SNS485,IMC,2.04086,45.14231,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,0
+July,Kahda ,Kahda HC - HC With Nutrition Screening & Referral,SNS486,IMC,2.03809,45.14551,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0
+July,Wadajir,"Camp Bill iyo Xidig, Dalada Nageyee, Camp Lafweyne, Camp Weedow, Camp Kalkaal - Health Mobile Team",SNS487,IMC,2.02277,45.17611,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+July,Abudwak,1st July HC - HC with OTP & TSFP,SNS489,IMC,6.12156,46.125453,90,0,0,0,0,1,31,32,97,0,3,45,0,0,0,0,0,0,0,0,1,1,0,0
+July,Abudwak,Bangelle HC - HC with OTP & TSFP,SNS490,IMC,6.0502,46.1846,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Abudwak,Dabad HC - HC with CTC  OTP & TSFP,SNS491,IMC,6.254958,46.272158,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Abudwak,Ibado Referral HC - RHC with CTC  SC & OTP,SNS492,IMC,6.142536,46.14418,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Abudwak,Mirjicley HC - HC with OTP & TSFP,SNS493,IMC,5.58698,46.2188,57,0,0,0,0,0,0,0,0,0,0,103,0,0,0,0,0,0,0,0,0,0,0,0
+July,Jowhar,Galoley HC - Fixed OTP/TSFP,SNS494,IMC,2.42128,45.1849,141,0,0,0,0,0,45,45,100,0,0,507,0,0,0,30,30,100,0,0,0,0,0,0
+July,Abudwak,"Alla-Amin, Tawakal/Balgish IDPs,Garasle IDP, Hurfada IDP, lander IDP, Shimbirale IDP - Integrated Health & Nutrition Mobile Team (1st July)",SNS495,IMC,6.132993,46.142485,82,0,0,0,0,2,54,56,96,0,4,97,0,0,11,0,11,0,0,100,0,9,0,0
+July,Abudwak,"Balihawad,Ilmanasey,Dilinba,Dafle,Caligurey, Dalsan, Libaxyare,Lamawayne, Dhilitre, Labagale, Angalo - Nutrition Mobile Team",SNS496,IMC,6.1615,46.1924,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Abudwak,Hadiyo CTC - Integrated Health & Nutrition Mobile Team (1st July),SNS497,IMC,6.235207,46.23251,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Balambal,"Borancad,Odale,Dahir Budhle,Burale Idps,Goroyo Hor idps, Waaberi Village - Nutrition Mobile Team",SNS498,IMC,5.5243,45.4012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Abudwak,"Balicad, Galmaygag,Darusalam, Libaxsexay, Aricadays,Geswayne,Airport, Landher,Shilamadow, Lasole - Nutrition Mobile Team",SNS499,IMC,6.1627,46.2233,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Balambal,Balambal town - HC with CTC  OTP & TSFP,SNS619,IMC,5.762953,45.756243,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Balambal,"Yocale village, Kalafoge village, Barwaqo village, Timaweynta, inaerig, Gacandaley - Nutrition Mobile Team",SNS625,IMC,5.973611111,45.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baki,Xamashka - OTP and TSFP Mobile,SNS100,SCI,10.27701,43.41222,10,0,0,0,0,0,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baki,Xamarta  - OTP and TSFP Mobile,SNS101,SCI,10.108934,43.356797,0,0,0,0,0,0,0,0,0,0,0,26,0,0,0,4,4,100,0,0,0,0,0,0
+July,Borama,Cayngala - OTP and TSFP Mobile,SNS102,SCI,9.70395,43.37201,20,0,0,0,0,0,5,5,100,0,0,85,0,0,0,9,9,100,0,0,0,0,0,0
+July,Borama,Carocad - OTP and TSFP Mobile,SNS103,SCI,10.01349,43.44324,20,0,0,0,0,0,3,3,100,0,0,84,0,0,0,2,2,100,0,0,0,0,0,0
+July,Borama,Jufada - OTP and TSFP Mobile,SNS104,SCI,9.69377,43.29268,14,0,0,0,0,0,4,4,100,0,0,109,0,0,0,4,4,100,0,0,0,0,0,0
+July,Borama,Khamuun - OTP and TSFP Mobile,SNS105,SCI,9.79192,43.27711,19,0,0,0,0,0,7,7,100,0,0,86,0,0,0,20,20,100,0,0,0,0,0,0
+July,Borama,Maaga/lamalooshka - OTP and TSFP Mobile,SNS106,SCI,9.69214,43.32793,14,0,0,0,0,0,3,3,100,0,0,102,0,0,0,4,4,100,0,0,0,0,0,0
+July,Borama,Qaararu - OTP and TSFP Mobile,SNS107,SCI,10.06292,43.06172,23,0,0,0,0,0,7,7,100,0,0,76,0,0,0,2,2,100,0,0,0,0,0,0
+July,Borama,Qabriga caruurta - OTP and TSFP Mobile,SNS108,SCI,10.06303,43.06181,15,0,0,0,0,0,5,5,100,0,0,90,0,0,0,5,5,100,0,0,0,0,0,0
+July,Borama,Qabri-dhawad - OTP and TSFP Mobile,SNS109,SCI,9.77942,43.3445,20,0,0,0,0,0,8,8,100,0,0,75,0,0,0,4,4,100,0,0,0,0,0,0
+July,Borama,Sogsoglay - OTP and TSFP Mobile,SNS110,SCI,9.93747,43.13522,23,0,0,0,0,0,4,4,100,0,0,72,0,0,0,3,3,100,0,0,0,0,0,0
+July,Borama,Xushallay - OTP and TSFP Mobile,SNS111,SCI,9.7209,43.4222,19,0,0,0,0,0,3,3,100,0,0,91,0,0,0,4,4,100,0,0,0,0,0,0
+July,Lughaya,Beeyo cadadeed - OTP and TSFP Mobile,SNS112,SCI,10.20882,43.75095,9,0,0,0,0,0,2,2,100,0,0,36,0,0,0,2,2,100,0,0,0,0,0,0
+July,Lughaya,Biya cas - OTP and TSFP Mobile,SNS113,SCI,9.73521,43.85376,9,0,0,0,0,0,2,2,100,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,Bulocado/qudhaanjalaY - OTP and TSFP Mobile,SNS114,SCI,10.75131,43.59125,7,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,Damasha - OTP and TSFP Mobile,SNS115,SCI,10.15781,43.83497,7,0,0,0,0,0,0,0,0,0,0,30,0,0,0,1,1,100,0,0,0,0,0,0
+July,Lughaya,Garaaca - OTP and TSFP Mobile,SNS116,SCI,10.7142,43.82382,8,0,0,0,0,0,1,1,100,0,0,52,0,0,0,7,7,100,0,0,0,0,0,0
+July,Lughaya,Kalawle - OTP and TSFP Mobile,SNS117,SCI,10.551523,43.8527,11,0,0,0,0,0,0,0,0,0,0,54,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,Laan cawale - OTP and TSFP Mobile,SNS118,SCI,10.86573,43.74596,8,0,0,0,0,0,0,0,0,0,0,30,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,magaalo xooga - OTP and TSFP Mobile,SNS119,SCI,10.4093,43.44947,6,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,Saclamoodka  - OTP and TSFP Mobile,SNS120,SCI,10.02755,44.0085,8,0,0,0,0,0,0,0,0,0,0,27,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lughaya,Teeb - OTP and TSFP Mobile,SNS121,SCI,10.15817,43.83447,6,0,0,0,0,0,4,4,100,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0
+July,Zeila,Barisle - OTP and TSFP Mobile,SNS122,SCI,11.432446,43.294363,3,0,0,0,0,0,2,2,100,0,0,33,0,0,0,13,13,100,0,0,0,0,0,0
+July,Zeila,Bayga - OTP and TSFP Mobile,SNS123,SCI,10.55783,43.13985,9,0,0,0,0,0,5,5,100,0,0,45,0,0,0,9,9,100,0,0,0,0,0,0
+July,Zeila,caashocado - OTP and TSFP Mobile,SNS124,SCI,9.907693,43.114862,4,0,0,0,0,0,0,0,0,0,0,24,0,0,0,9,9,100,0,0,0,0,0,0
+July,Zeila,Gamada - OTP and TSFP Mobile,SNS125,SCI,11.08806,43.50773,6,0,0,0,0,0,3,3,100,0,0,26,0,0,0,6,6,100,0,0,0,0,0,0
+July,Zeila,Gargara galbed - OTP and TSFP Mobile,SNS126,SCI,10.46174,43.2482,6,0,0,0,0,0,4,4,100,0,0,38,0,0,0,9,9,100,0,0,0,0,0,0
+July,Zeila,Huseini - OTP and TSFP Mobile,SNS127,SCI,10.56067,43.24975,18,0,0,0,0,0,7,7,100,0,0,64,0,0,0,13,13,100,0,0,0,0,0,0
+July,Zeila,Kale beydhaka - OTP and TSFP Mobile,SNS128,SCI,10.63674,44.02135,9,0,0,0,0,2,19,21,90,0,10,52,0,0,1,21,22,95,0,5,0,0,0,0
+July,Zeila,Qudhanjaale - OTP and TSFP Mobile,SNS129,SCI,11.08173,43.53277,7,0,0,0,0,0,8,8,100,0,0,32,0,0,0,7,7,100,0,0,0,0,0,0
+July,Zeila,Muliyo - OTP and TSFP Mobile,SNS130,SCI,11.42078,43.32906,2,0,0,0,0,0,4,4,100,0,0,18,0,0,0,3,3,100,0,0,0,0,0,0
+July,Zeila,Toqoshi - OTP and TSFP Mobile,SNS131,SCI,11.343782,43.419546,7,0,0,0,0,0,5,5,100,0,0,35,0,0,0,11,11,100,0,0,0,0,0,0
+July,Deynile,Malable - OTP and TSFP Mobile,SNS132,SCI,2.0527778,45.276111,276,0,1,0,0,2,187,189,99,0,1,766,0,0,1,225,226,100,0,0,0,0,0,117
+July,Deynile,Weydow - OTP and TSFP,SNS133,SCI,2.089444,45.250833,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dharkinley,Deq-rabbi - OTP and TSFP Mobile,SNS134,SCI,2.0536111,45.2675,211,0,0,0,1,4,79,84,94,1,5,547,0,0,4,160,164,98,0,2,0,0,0,292
+July,Dharkinley,Kulmiye - OTP and TSFP Mobile,SNS135,SCI,2.049444,45.258611,190,0,0,0,1,2,88,91,97,1,2,439,0,0,2,143,145,99,0,1,0,0,0,165
+July,Hamarjajab,1-da May - OTP,SNS136,SCI,2.02944,45.33,45,0,0,0,2,5,80,87,92,2,6,0,0,0,0,0,0,0,0,0,0,0,0,240
+July,Hamarwaine,Gobanimo - OTP,SNS137,SCI,2.0333,45.34277,46,3,0,1,1,2,53,57,93,9,4,0,0,0,0,24,24,100,0,0,0,233,1,363
+July,Waberi,El-gab - OTP,SNS138,SCI,2.0336111,45.334722,53,0,0,0,1,0,51,52,98,2,0,0,0,0,0,0,0,0,0,0,0,0,0,357
+July,Waberi,Hantiwadag - OTP ,SNS139,SCI,2.313889,45.325,62,0,0,0,0,0,81,81,100,0,0,0,0,0,0,0,0,0,0,0,1,3,1,212
+July,Allula,Dhurbo - OTP and TSFP Mobile,SNS140,SCI,11.757783,51.189658,0,0,0,0,3,5,21,29,72,10,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Allula,Geesaley - OTP and TSFP Mobile,SNS141,SCI,11.744967,50.50374,0,0,0,0,0,3,10,13,77,0,23,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Allula,Horseela - OTP and TSFP Mobile,SNS142,SCI,11.564622,50.869,0,0,0,0,1,2,13,16,81,6,13,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Allula,Murcayo - Fixed Health centre ,SNS143,SCI,11.691681,50.457833,0,0,0,0,2,2,16,20,80,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Allula,Ximistiyo - OTP and TSFP Mobile,SNS144,SCI,11.760526,51.196112,0,0,0,1,3,4,15,23,65,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Armo,Barookhle  - OTP and TSFP Mobile,SNS145,SCI,10.519138,49.231491,0,0,0,0,4,5,15,24,63,17,21,0,0,4,5,0,5,0,0,100,0,0,0,0
+July,Armo,Carta  - OTP and TSFP Mobile,SNS146,SCI,10.496328,49.074932,0,0,0,0,2,6,18,26,69,8,23,0,0,2,1,0,1,0,0,100,0,0,0,0
+July,Armo,Juurile  - OTP and TSFP Mobile,SNS147,SCI,10.385377,49.071735,0,0,0,0,3,9,14,26,54,12,35,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Armo,Jiingadda  - OTP and TSFP Mobile,SNS148,SCI,10.72517,49.149988,0,0,0,0,3,7,7,17,41,18,41,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Armo,Laasa-dawaco  - OTP and TSFP Mobile,SNS149,SCI,10.471521,49.082832,0,0,0,1,4,4,17,26,65,19,15,0,0,2,1,0,1,0,0,100,0,0,0,0
+July,Bargaal,Hoodaa  - OTP and TSFP Mobile,SNS150,SCI,11.02856,50.44246,0,0,0,0,5,13,12,30,40,17,43,0,0,1,0,0,0,0,0,0,0,0,0,0
+July,Bargaal,Qoroxaad/dibir - OTP and TSFP Mobile,SNS151,SCI,11.083367,50.750521,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bargaal,Muudiye - OTP and TSFP Mobile,SNS152,SCI,11.35013,50.67301,0,0,0,0,2,1,2,5,40,40,20,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bargaal,Taageer  - OTP and TSFP Mobile,SNS153,SCI,10.945805,50.919872,0,0,0,0,0,0,7,7,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bargaal,Waadi-khayr  - OTP and TSFP Mobile,SNS154,SCI,11.12964,51.055999,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qandala,Belwacato  - OTP and TSFP Mobile,SNS155,SCI,11.027225,50.440436,0,0,0,0,7,4,39,50,78,14,8,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qandala,Ceel-gaal - OTP and TSFP Mobile,SNS156,SCI,11.375204,50.397188,0,0,0,0,12,9,55,76,72,16,12,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qandala,Qaanlaaye - OTP and TSFP Mobile,SNS157,SCI,11.289972,50.328479,0,0,0,0,0,0,2,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qandala,Unuun - OTP and TSFP Mobile,SNS158,SCI,11.178507,50.434055,0,0,0,0,8,6,39,53,74,15,11,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Qandala,Xamure - OTP and TSFP Mobile,SNS159,SCI,10.66599,50.53527,0,0,0,0,0,0,2,2,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baidoa,Awshin - OTP and TSFP Mobile,SNS160,SCI,3.1024,43.29,201,3,0,0,0,1,90,91,99,3,1,370,0,0,1,60,61,98,0,2,0,0,0,0
+July,Baidoa,Berdale - OTP and TSFP Mobile,SNS161,SCI,3.213889,43.77472,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baidoa,Edkayal - OTP and TSFP Mobile,SNS162,SCI,3.135,43.663889,163,0,0,0,0,0,92,92,100,0,0,203,0,0,3,82,85,96,0,4,0,0,0,0
+July,Baidoa,Horseed - OTP and TSFP Mobile,SNS164,SCI,3.32167,43.70778,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baidoa,Morshi - OTP and TSFP Mobile,SNS165,SCI,3.138056,43.675278,80,0,0,0,0,0,36,36,100,0,0,85,0,0,0,0,0,0,0,0,0,0,0,0
+July,Berdale,Bakalhoobad - OTP and TSFP Mobile,SNS166,SCI,3.122,43.1156,41,0,0,0,0,3,11,14,79,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Berdale,Oktoobar - OTP and TSFP Mobile,SNS167,SCI,3.1245,43.1123,42,0,0,0,0,4,20,24,83,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Belewaine,Banan - OTP and TSFP Mobile,SNS168,SCI,4.848607,45.24758,68,0,0,0,0,0,46,46,100,0,0,158,0,0,0,0,0,0,0,0,0,0,0,0
+July,Belewaine,Gasle - OTP and TSFP Mobile,SNS169,SCI,4.920779,45.162086,35,0,0,0,0,1,25,26,96,0,4,117,0,0,0,0,0,0,0,0,0,0,0,0
+July,Belewaine,Ilkacade - OTP and TSFP Mobile,SNS170,SCI,4.881407,45.22761,82,0,0,0,0,0,23,23,100,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mahas,Gooba - OTP and TSFP Mobile,SNS171,SCI,4.5,46.050189,9,0,0,0,0,0,69,69,100,0,0,149,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mahas,Mahas - OTP and TSFP Mobile,SNS172,SCI,4.38364,46.0878,27,0,0,0,0,0,14,14,100,0,0,154,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Baribax - OTP and TSFP Mobile,SNS173,SCI,5.040856,45.322116,62,0,0,0,0,0,25,25,100,0,0,140,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Gelkudhal - OTP and TSFP Mobile,SNS174,SCI,5.06677,45.470278,27,0,0,0,0,1,63,64,98,0,2,30,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Gerijir - OTP and TSFP Mobile,SNS175,SCI,5.433441,45.5006,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Haja-hababis - OTP and TSFP Mobile,SNS176,SCI,5.37,45.53694,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Ilgule - OTP and TSFP Mobile,SNS177,SCI,5.65444,45.994167,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Mataban,Labile - OTP and TSFP Mobile,SNS178,SCI,5.18401,45.46688,29,0,0,0,0,0,39,39,100,0,0,50,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Aris - OTP and TSFP Mobile,SNS179,SCI,9.59525,50.798117,6,0,0,0,0,0,4,4,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Banderbayla - Fixed Health centre ,SNS180,SCI,9.493291,50.813298,18,0,0,0,0,0,6,6,100,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Dhuudo - Fixed Health centre ,SNS181,SCI,9.324601,50.207289,9,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Dhudhub - Fixed Health centre ,SNS182,SCI,9.228863,49.918871,4,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Qoton - OTP and TSFP Mobile,SNS183,SCI,9.594911,50.468883,3,0,0,0,0,0,3,3,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+July,Banderbeyla,Sarmaan - OTP and TSFP Mobile,SNS184,SCI,9.244875,50.60578,3,0,0,0,0,0,4,4,100,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Baarmadoobe  - OTP and TSFP Mobile,SNS185,SCI,10.05027,50.883559,5,0,0,0,0,0,6,6,100,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Dardaare - OTP and TSFP Mobile,SNS186,SCI,10.41675,50.900522,7,0,0,0,0,0,0,0,0,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Foocaar  - OTP and TSFP Mobile,SNS187,SCI,10.316615,50.897858,4,0,0,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Garan  - OTP and TSFP Mobile,SNS188,SCI,10.17177,50.89948,12,0,0,0,0,0,7,7,100,0,0,33,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Hafun  - Fixed Health centre ,SNS189,SCI,10.418127,51.27293,9,0,0,0,0,0,4,4,100,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hafun,Hurdiya  - Fixed Health centre ,SNS190,SCI,10.564567,51.133278,31,0,0,0,0,0,9,9,100,0,0,39,0,0,0,3,3,100,0,0,0,0,0,0
+July,Hafun,Xandha  - OTP and TSFP Mobile,SNS191,SCI,10.648444,51.138422,39,0,0,0,0,1,8,9,89,0,11,52,0,0,1,4,5,80,0,20,0,0,0,0
+July,Afmadow,Dhobley-Ceel Deeg IDP - OTP and TSFP Mobile,SNS192,SCI,0.60527,42.208,18,0,0,0,0,1,22,23,96,0,4,58,0,0,0,0,0,0,0,0,0,0,0,0
+July,Afmadow,Dhobley-Labi IDP - OTP and TSFP Mobile,SNS193,SCI,1.194167,42.365,52,0,0,0,0,0,35,35,100,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0
+July,Wanlawain,Erebka - OTP and TSFP Mobile,SNS195,SCI,2.6254559,44.89937,282,3,0,0,0,3,341,344,99,1,1,480,4,0,4,306,310,99,1,1,0,0,0,0
+July,Kismayo,Dhudhu-Kismayo - OTP and TSFP Mobile,SNS196,SCI,0.35611,42.523889,23,0,0,0,0,0,15,15,100,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0
+July,Kismayo,Luqmaan-Kismayo - OTP and TSFP Mobile,SNS197,SCI,0.35472,42.53,29,0,0,0,0,0,10,10,100,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0
+July,Kismayo,Wiriri-Kismayo - OTP and TSFP Mobile,SNS198,SCI,0.35889,42.530833,15,0,0,0,0,0,6,6,100,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0
+July,Galdogob,Alaale IDPS - OTP and TSFP Mobile,SNS200,SCI,7.03773,47.003152,47,0,0,0,0,0,5,5,100,0,0,126,0,0,0,13,13,100,0,0,0,0,0,0
+July,Galdogob,Darasalam - OTP and TSFP Mobile,SNS201,SCI,7.25033,47.10482,50,0,0,0,0,0,22,22,100,0,0,148,0,0,1,16,17,94,0,6,0,0,0,0
+July,Galdogob,Xerajale - OTP and TSFP Mobile,SNS202,SCI,6.987531,47.184584,11,0,0,0,0,1,6,7,86,0,14,45,0,0,0,3,3,100,0,0,0,0,0,0
+July,Galdogob,Riiga omane - OTP and TSFP Mobile,SNS203,SCI,7.20018,47.18372,2,0,0,0,0,0,0,0,0,0,0,35,0,0,0,7,7,100,0,0,0,0,0,0
+July,Galdogob,Qansaxeley - OTP and TSFP Mobile,SNS204,SCI,7.115247,47.094991,15,0,0,0,0,1,7,8,88,0,13,79,0,0,0,6,6,100,0,0,0,0,0,0
+July,Galkaio,Beyra - OTP and TSFP Mobile,SNS205,SCI,6.951191,47.31781,25,0,0,0,0,0,8,8,100,0,0,28,0,0,0,5,5,100,0,0,0,0,0,0
+July,Galkaio,Danwadaag IDPS - OTP and TSFP Mobile,SNS206,SCI,6.83343,47.41711,30,0,0,0,0,0,5,5,100,0,0,30,0,0,0,7,7,100,0,0,0,0,0,0
+July,Galkaio,Gobshe village - OTP and TSFP Mobile,SNS207,SCI,6.939201,47.479686,5,0,0,0,0,0,7,7,100,0,0,13,0,0,0,12,12,100,0,0,0,0,0,0
+July,Galkaio,Orshe IDPS - OTP and TSFP Mobile,SNS208,SCI,6.835036,47.42708,28,0,0,0,0,0,20,20,100,0,0,39,0,0,0,5,5,100,0,0,0,0,0,0
+July,Galkaio,Tuulo farxaan - OTP and TSFP Mobile,SNS209,SCI,7.310427,47.577741,16,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+July,Jariban,Qalaanqal/raydable - OTP and TSFP Mobile,SNS210,SCI,7.294333,48.324807,9,0,0,0,0,0,4,4,100,0,0,40,0,0,1,10,11,91,0,9,0,0,0,0
+July,Jariban,Balanbale - OTP and TSFP Mobile,SNS211,SCI,7.43932,48.133772,10,0,0,0,0,0,1,1,100,0,0,34,0,0,0,3,3,100,0,0,0,0,0,0
+July,Jariban,Dhinowda - OTP and TSFP Mobile,SNS212,SCI,6.731452,49.200849,48,0,0,0,0,0,3,3,100,0,0,115,0,0,0,9,9,100,0,0,0,0,0,0
+July,Jariban,Dhoba cantug - OTP and TSFP Mobile,SNS213,SCI,7.619465,49.077075,15,0,0,0,0,1,5,6,83,0,17,26,0,0,0,4,4,100,0,0,0,0,0,0
+July,Jariban,Geelxagar PHU - Fixed Health centre ,SNS214,SCI,7.41773,49.277935,8,0,0,0,0,0,3,3,100,0,0,25,0,0,0,9,9,100,0,0,0,0,0,0
+July,Jariban,Kulub - OTP and TSFP Mobile,SNS215,SCI,7.035518,49.371336,3,0,0,0,0,0,0,0,0,0,0,24,0,0,0,7,7,100,0,0,0,0,0,0
+July,Jariban,Labilamane - OTP and TSFP Mobile,SNS216,SCI,7.518751,49.019754,12,0,0,0,0,0,5,5,100,0,0,46,0,0,0,15,15,100,0,0,0,0,0,0
+July,Jariban,Malasle - OTP and TSFP Mobile,SNS217,SCI,7.521892,47.984223,11,0,0,0,0,0,10,10,100,0,0,33,0,0,0,14,14,100,0,0,0,0,0,0
+July,Jariban,Seemade - OTP and TSFP Mobile,SNS218,SCI,7.156336,48.609739,6,0,0,0,0,0,7,7,100,0,0,32,0,0,0,13,13,100,0,0,0,0,0,0
+July,Lasanod,Dhoon - OTP and TSFP Mobile,SNS219,SCI,8.07168,47.28464,6,0,0,0,0,0,0,0,0,0,0,26,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Gobdheero - OTP and TSFP Mobile,SNS220,SCI,8.359372,47.251839,7,0,0,0,0,0,0,0,0,0,0,23,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Qabribayax  - OTP and TSFP Mobile,SNS221,SCI,9.5679512,44.0592013,9,0,0,0,0,0,0,0,0,0,0,47,0,0,0,12,12,100,0,0,0,0,0,0
+July,Gabiley,Bocda - OTP and TSFP Mobile,SNS222,SCI,9.614664,43.300407,18,0,0,0,0,0,5,5,100,0,0,52,0,0,0,12,12,100,0,0,0,0,0,0
+July,Gabiley,Botor - OTP and TSFP Mobile,SNS223,SCI,9.70975,43.49161,3,0,0,0,0,1,6,7,86,0,14,14,0,0,0,4,4,100,0,0,0,0,0,0
+July,Gabiley,Bus - OTP and TSFP Mobile,SNS224,SCI,9.85706,43.67436,5,0,0,0,0,0,6,6,100,0,0,17,0,0,0,6,6,100,0,0,0,0,0,0
+July,Gabiley,caada - OTP and TSFP Mobile,SNS225,SCI,9.5675,43.67275,4,0,0,0,0,0,0,0,0,0,0,14,0,0,0,3,3,100,0,0,0,0,0,0
+July,Gabiley,Ceel bardaale - OTP and TSFP Mobile,SNS226,SCI,9.82412,43.47594,5,0,0,0,0,2,6,8,75,0,25,19,0,0,0,6,6,100,0,0,0,0,0,0
+July,Gabiley,Duburuha - OTP and TSFP Mobile,SNS227,SCI,9.59836,43.67323,2,0,0,0,0,0,4,4,100,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,Gabiley,Galoolay - OTP and TSFP Mobile,SNS228,SCI,9.75931,43.75077,5,0,0,0,0,0,2,2,100,0,0,16,0,0,0,3,3,100,0,0,0,0,0,0
+July,Gabiley,Gashamo - OTP and TSFP Mobile,SNS229,SCI,9.91472,43.912498,1,0,0,0,0,0,0,0,0,0,0,16,0,0,0,4,4,100,0,0,0,0,0,0
+July,Gabiley,Geed abeera - OTP and TSFP Mobile,SNS230,SCI,9.66386,43.63246,2,0,0,0,0,0,1,1,100,0,0,15,0,0,0,2,2,100,0,0,0,0,0,0
+July,Gabiley,Gogaysa - OTP and TSFP Mobile,SNS231,SCI,9.77864,43.58217,3,0,0,0,0,0,2,2,100,0,0,12,0,0,0,4,4,100,0,0,0,0,0,0
+July,Gabiley,Gogol wanag - OTP and TSFP Mobile,SNS232,SCI,9.67619,43.81598,2,0,0,0,0,0,1,1,100,0,0,16,0,0,0,3,3,100,0,0,0,0,0,0
+July,Gabiley,idhanka - OTP and TSFP Mobile,SNS233,SCI,9.69256,43.30208,3,0,0,0,0,0,1,1,100,0,0,10,0,0,0,3,3,100,0,0,0,0,0,0
+July,Gabiley,Kidiiga dhanaan - OTP and TSFP Mobile,SNS234,SCI,9.7936,43.84354,2,0,0,0,0,0,2,2,100,0,0,10,0,0,0,5,5,100,0,0,0,0,0,0
+July,Gabiley,Laan barwaqo - OTP and TSFP Mobile,SNS235,SCI,9.64754,43.558529,5,0,0,0,0,0,6,6,100,0,0,16,0,0,0,12,12,100,0,0,0,0,0,0
+July,Gabiley,laaye - OTP and TSFP Mobile,SNS236,SCI,9.50853,43.58858,3,0,0,0,0,0,1,1,100,0,0,74,0,0,0,5,5,100,0,0,0,0,0,0
+July,Gabiley,Ijo waqi - OTP and TSFP Mobile,SNS237,SCI,9.59313,43.621,1,0,0,0,0,0,3,3,100,0,0,8,0,0,0,5,5,100,0,0,0,0,0,0
+July,Gabiley,Mashruuca - OTP and TSFP Mobile,SNS238,SCI,9.70251,43.75212,2,0,0,0,0,0,1,1,100,0,0,13,0,0,0,4,4,100,0,0,0,0,0,0
+July,Gabiley,Sh maxamud yare - OTP and TSFP Mobile,SNS239,SCI,9.59062,43.54888,2,0,0,0,0,2,1,3,33,0,67,12,0,0,0,0,0,0,0,0,0,0,0,0
+July,Gabiley,Xidinka - OTP and TSFP Mobile,SNS240,SCI,9.701,43.67872,4,0,0,0,0,0,2,2,100,0,0,22,0,0,0,9,9,100,0,0,0,0,0,0
+July,Gabiley,Xidiinta (Tysa) - OTP and TSFP Mobile,SNS241,SCI,9.5463,43.732,5,0,0,0,0,0,1,1,100,0,0,12,0,0,0,1,1,100,0,0,0,0,0,0
+July,Baidoa ,Horseed  - Health center ,SNS242,SCI,0.206122,40.6023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,207
+July,Baidoa ,Bardaale  - Health center ,SNS243,SCI,0.209122,40.8023,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65,0,138
+July,Dharkenley,Shabelle IDPS - Health center ,SNS244,SCI,0.40627,41.01238,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,8,220
+July,Lasanod,Afweyan  - OTP and TSFP Mobile,SNS548,SCI,8.297325,47.495917,5,0,0,0,0,0,0,0,0,0,0,41,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Caanoxadhigle - OTP and TSFP Mobile,SNS549,SCI,8.121343,47.479558,12,0,0,0,0,0,0,0,0,0,0,38,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Ceeljeex - OTP and TSFP Mobile,SNS550,SCI,8.347597,47.209605,10,0,0,0,0,0,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Geelboob  - OTP and TSFP Mobile,SNS551,SCI,7.993303,47.247875,9,0,0,0,0,0,0,0,0,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Xaawlka gaaska - OTP and TSFP Mobile,SNS552,SCI,8.04339,47.18169,10,0,0,0,0,0,0,0,0,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Waraabalay - OTP and TSFP Mobile,SNS553,SCI,8.081324,47.394297,14,0,0,0,0,0,0,0,0,0,0,46,0,0,0,5,5,100,0,0,0,0,0,0
+July,Baidoa ,Hananno 2 - Mobile clinic ,SNS569,SCI,3.1428,43.6678,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,135
+July,Borama,Cad madooni - Mobile Nutrition Team,SNS571,SCI,9.70392,43.35255,15,0,0,0,0,1,3,4,75,0,25,45,0,0,0,5,5,100,0,0,0,0,0,0
+July,Borama,Degmo-laqas - Mobile Nutrition Team,SNS572,SCI,9.97742,43.08433,18,0,0,0,0,0,5,5,100,0,0,47,0,0,0,7,7,100,0,0,0,0,0,0
+July,Borama,Dababuur - Mobile Nutrition Team,SNS573,SCI,9.94247,43.09511,8,0,0,0,0,0,3,3,100,0,0,22,0,0,0,6,6,100,0,0,0,0,0,0
+July,Borama,Tuli /Sh Nuur - Mobile Nutrition Team,SNS574,SCI,9.81661,43.31158,15,0,0,0,0,0,4,4,100,0,0,58,0,0,0,6,6,100,0,0,0,0,0,0
+July,Borama,Shirwac lagu baanay - Mobile Nutrition Team,SNS575,SCI,9.83972,43.28014,13,0,0,0,0,0,3,3,100,0,0,36,0,0,0,4,4,100,0,0,0,0,0,0
+July,Borama,Haya yaabe  - Mobile Nutrition Team,SNS576,SCI,9.91479,43.17201,35,0,0,0,0,0,8,8,100,0,0,111,0,0,0,11,11,100,0,0,0,0,0,0
+July,Borama,Walaal goo - Mobile Nutrition Team,SNS577,SCI,9.86925,43.26267,15,0,0,0,0,0,6,6,100,0,0,45,0,0,0,8,8,100,0,0,0,0,0,0
+July,Borama,Goryo cawl - Mobile Nutrition Team,SNS578,SCI,9.86789,43.22686,13,0,0,0,0,0,7,7,100,0,0,48,0,0,0,6,6,100,0,0,0,0,0,0
+July,Borama,Daray macne  - Mobile Nutrition Team,SNS579,SCI,9.96558,43.22137,17,0,0,0,0,0,7,7,100,0,0,46,0,0,0,5,5,100,0,0,0,0,0,0
+July,Baidoa ,Takawakal 2 Diinsoor - Mobile clinic ,SNS608,SCI,3.917222222,43.63388889,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,22,0,320
+July,Baidoa ,Galgalwayne - Mobile clinic ,SNS609,SCI,3.143244444,43.66861111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,413
+July,Dharkenley,Kulmiye IDPs - Mobile clinic ,SNS610,SCI,2.049722222,45.25861111,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,0
+July,Dharkenley,Deeq Rabi IDPs - Mobile clinic ,SNS611,SCI,2.053888889,45.26805556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,0
+July,Dharkenley,Alcadada/Malable IDPs - Mobile clinic ,SNS612,SCI,2.065277778,45.25805556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,0,0
+July,Bay,Alletug - OTP and TSFP Mobile,SNS616,SCI,3.193611111,43.79694444,207,0,0,0,0,0,16,16,100,0,0,130,0,0,0,21,21,100,0,0,0,0,0,0
+July,Bay,Galgalweyn - OTP and TSFP Mobile,SNS617,SCI,3.239444444,43.85416667,200,0,0,0,0,0,16,16,100,0,0,200,0,0,0,22,22,100,0,0,0,0,0,0
+July,Jariban,Buubi - OTP and TSFP Mobile,SNS622,SCI,7.1337,48.38056,14,0,0,0,0,0,2,2,100,0,0,39,0,0,0,0,0,0,0,0,0,0,0,0
+July,Lasanod,Dhagax iskura  - OTP and TSFP Mobile,SNS623,SCI,8.14025,47.46388889,9,0,0,0,0,0,0,0,0,0,0,53,0,0,0,6,6,100,0,0,0,0,0,0
+July,Galkaio,Mudug sare IDP - Mobile,SNS632,SCI,6.8226,47.41204,9,0,0,0,0,6,35,41,85,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Galkaio,Mustaqbal IDP - Mobile,SNS633,SCI,6.80639,47.4111,8,0,0,0,0,0,5,5,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Galkaio,Waayo arag IDP - Mobile,SNS634,SCI,6.83758,47.41256,20,0,0,0,0,2,27,29,93,0,7,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Galkaio,Xarfo IDP - Mobile,SNS635,SCI,7.222,47.835,11,0,0,0,0,0,11,11,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Galkaio,Cabdulaahi yare IDP - Mobile,SNS636,SCI,6.84863,47.42406,18,0,0,0,0,0,10,10,100,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Xudun,Lafweyan - OTP and TSFP Mobile,SNS637,SCI,9.16054,47.23823,8,0,0,0,0,0,0,0,0,0,0,82,0,0,0,0,0,0,0,0,0,0,0,0
+July,Xudun,Gorofley - Mobile OTP/TSFP,SNS73,SCI,9.13558,47.753021,9,0,1,0,0,0,3,3,100,0,0,51,2,0,2,6,8,75,25,25,0,0,0,0
+July,Xudun,Qandhicile - Mobile OTP/TSFP,SNS74,SCI,9.1225,47.3623,13,0,0,0,0,0,8,8,100,0,0,47,0,1,0,5,5,100,0,0,0,0,0,0
+July,Baki,boodhka  - OTP and TSFP Mobile,SNS92,SCI,9.901715,43.501047,9,0,0,0,0,0,4,4,100,0,0,27,0,0,0,10,10,100,0,0,0,0,0,0
+July,Baki,Buqdhada - OTP and TSFP Mobile,SNS93,SCI,9.89471,43.58078,5,0,0,0,0,0,3,3,100,0,0,16,0,0,0,7,7,100,0,0,0,0,0,0
+July,Baki,cashuura - OTP and TSFP Mobile,SNS94,SCI,10.292461,43.294688,6,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baki,Galigalool - OTP and TSFP Mobile,SNS95,SCI,9.97025,43.42828,6,0,0,0,0,0,5,5,100,0,0,35,0,0,0,9,9,100,0,0,0,0,0,0
+July,Baki,isha gudnban - OTP and TSFP Mobile,SNS96,SCI,9.94569,43.34772,7,0,0,0,0,0,8,8,100,0,0,19,0,0,0,7,7,100,0,0,0,0,0,0
+July,Baki,Seemal - OTP and TSFP Mobile,SNS98,SCI,9.92675,43.54808,0,0,0,0,0,1,1,2,50,0,50,11,0,0,0,5,5,100,0,0,0,0,0,0
+July,Baki,sh.rooble - OTP and TSFP Mobile,SNS99,SCI,9.94186,43.66359,8,0,0,0,0,0,5,5,100,0,0,18,0,0,0,6,6,100,0,0,0,0,0,0
+July,Baidoa ,BAHAHOW hospital  - CTC,SNS607,SCI,3.137927778,43.65416667,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0
+July,Bulla Hawa ,Bulla Hawa HC - OTP and TSFP static,SNS500,Trocaire,3.923813,41.876282,19,0,0,8,0,11,62,81,77,10,14,136,0,17,42,58,100,58,0,42,0,0,0,0
+July,Bulla Hawa ,Belet Amin PHU  - OTP and TSFP static,SNS501,Trocaire,3.95606,41.89392,0,0,0,2,0,4,10,16,63,13,25,8,0,0,10,13,23,57,0,43,0,0,0,0
+July,Bulla Hawa ,Haroo - TSFP ,SNS502,Trocaire,3.2994,41.720699,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bulla Hawa ,Hudley - TSFP ,SNS503,Trocaire,3.9991,41.9425,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bulla Hawa ,Khalil Hospital - SC,SNS504,Trocaire,4.131675,42.209692,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bulla Hawa ,Malakriye  - TSFP ,SNS505,Trocaire,3.892243,41.85553,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,SC - OTP and TSFP static,SNS506,Trocaire,4.163256,42.076945,30,0,9,7,0,4,10,21,48,33,19,74,0,0,4,10,14,71,0,29,0,0,0,0
+July,Bulla Hawa ,Mirdhisley - OTP/TSFP,SNS507,Trocaire,3.2729,41.6819,3,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bulla Hawa ,Qurac Bilash - OTP and TSFP,SNS508,Trocaire,3.9618,41.96935,1,0,0,0,0,0,0,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bulla Hawa ,Sharmadaq - OTP/TSFP,SNS509,Trocaire,3.8566,41.90096,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Afqoloc - OTP/TSFP mobile site ,SNS510,Trocaire,3.8448,42.10947,5,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Barabaray  - OTP/TSFP mobile site ,SNS511,Trocaire,4.13258,42.1768,6,0,0,0,0,0,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Degrebe Outreach - OTP and TSFP Mobile ,SNS512,Trocaire,4.02795,42.297438,3,0,0,0,0,0,8,8,100,0,0,15,0,0,0,12,12,100,0,0,0,0,0,0
+July,Dolow,Digtaar Outreach - OTP and TSFP Mobile ,SNS513,Trocaire,4.0537,41.95413,4,0,0,0,0,0,3,3,100,0,0,17,0,0,0,17,17,100,0,0,0,0,0,0
+July,Dolow,Dolow - RHC - SC OTP and TSFP static,SNS514,Trocaire,4.033098,42.383145,108,0,0,10,0,4,42,56,75,18,7,250,0,0,2,256,258,99,0,1,0,0,0,0
+July,Luuq,Luuq Hospital - OTP and TSFP static,SNS515,Trocaire,3.80034,42.544504,59,0,0,13,0,3,56,72,78,18,4,52,0,0,6,13,19,68,0,32,0,0,0,0
+July,Dolow,Gubata  - OTP/TSFP mobile site,SNS516,Trocaire,4.1345,42.21043,7,0,0,0,0,0,4,4,100,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Korey PHU - OTP and TSFP static,SNS517,Trocaire,4.13346,42.210976,1,0,0,0,0,0,4,4,100,0,0,25,0,0,0,16,16,100,0,0,0,0,0,0
+July,Dolow,Qurac Bore  - OTP/TSFP mobile site ,SNS518,Trocaire,3.8034,42.21543,10,0,0,0,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Sadhumay PHU - OTP and TSFP static,SNS519,Trocaire,4.1276,42.25621,1,0,0,0,0,0,1,1,100,0,0,2,0,0,0,20,20,100,0,0,0,0,0,0
+July,Dolow,Shidle  - OTP/TSFP mobile site ,SNS521,Trocaire,4.0763,42.32158,0,0,0,0,0,0,3,3,100,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0
+July,Dolow,Surgudud PHU - OTP and TSFP static,SNS522,Trocaire,4.094713,42.027969,0,0,0,0,0,0,0,0,0,0,0,12,0,0,0,1,1,100,0,0,0,0,0,0
+July,Dolow,Wagadey  - OTP/TSFP mobile site ,SNS523,Trocaire,4.1328,42.16582,2,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0
+July,Luuq,Akara HC - OTP and TSFP static,SNS524,Trocaire,3.78591,42.548254,61,0,0,0,0,0,47,47,100,0,0,67,0,0,0,43,43,100,0,0,0,0,0,0
+July,Luuq,Abow  - OTP/TSFP mobile sites ,SNS525,Trocaire,3.94016,42.44429,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0
+July,Luuq,Belet Rahma  - OTP/TSFP mobile sites ,SNS526,Trocaire,3.766686,42.498408,9,0,0,0,0,0,18,18,100,0,0,19,0,0,0,13,13,100,0,0,0,0,0,0
+July,Luuq,Dogob - OTP and TSFP ,SNS527,Trocaire,3.884227,42.482291,7,0,0,0,0,0,9,9,100,0,0,26,0,0,1,29,30,97,0,3,0,0,0,0
+July,Luuq,Garboloow - OTP/TSFP mobile sites ,SNS528,Trocaire,3.90185,42.510385,7,0,0,0,0,3,10,13,77,0,23,18,0,0,0,31,31,100,0,0,0,0,0,0
+July,Luuq,Madhawey - OTP and TSFP,SNS530,Trocaire,3.95101,42.480373,11,0,0,0,0,0,3,3,100,0,0,19,0,0,0,18,18,100,0,0,0,0,0,0
+July,Luuq,Maganey  - OTP/TSFP mobile sites ,SNS531,Trocaire,3.747227,42.526414,3,0,0,0,0,0,0,0,0,0,0,18,0,0,2,27,29,93,0,7,0,0,0,0
+July,Luuq,Muradqabe  - OTP/TSFP mobile sites ,SNS532,Trocaire,3.9247,42.47148,0,0,0,0,0,0,3,3,100,0,0,19,0,0,0,22,22,100,0,0,0,0,0,0
+July,Luuq,Qoney  - TSFP mobile sites ,SNS533,Trocaire,3.64834,42.51026,0,0,0,0,0,0,0,0,0,0,0,17,0,0,0,19,19,100,0,0,0,0,0,0
+July,Luuq,Shatilow - TSFP,SNS534,Trocaire,3.9055,42.424304,0,0,0,0,0,0,0,0,0,0,0,31,0,0,2,15,17,88,0,12,0,0,0,0
+July,Luuq,Shidle - OTP and TSFP,SNS535,Trocaire,3.829595,42.563857,4,0,0,0,0,0,10,10,100,0,0,24,0,0,0,23,23,100,0,0,0,0,0,0
+July,Luuq,Surtag - OTP and TSFP,SNS536,Trocaire,4.0074,42.91823,22,0,0,0,0,0,21,21,100,0,0,29,0,0,0,7,7,100,0,0,0,0,0,0
+July,Luuq,Taganey  - OTP/TSFP mobile sites ,SNS537,Trocaire,3.835908,42.578937,8,0,0,0,0,0,8,8,100,0,0,24,0,0,0,22,22,100,0,0,0,0,0,0
+July,Luuq,Wariryale - OTP and TSFP,SNS538,Trocaire,3.960255,42.459319,12,0,0,0,0,0,5,5,100,0,0,24,0,0,0,21,21,100,0,0,0,0,0,0
+July,Daynunay,Daynunay - CTU,SNS554,SCI/GREDO,3.03985,43.796879,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0
+July,Daynunay,danbala - ORT,SNS555,SCI/GREDO,3.01339,43.51012,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0
+July,Daynunay,Buuloonsiyow - ORT,SNS556,SCI/GREDO,3.05205,43.80739,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0
+July,Hudur ,Hudur CTC - CTC,SNS557,SCI/GREDO,4.113335,43.876109,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hudur ,Wanay - CTU,SNS558,SCI/GREDO,4.07202,43.80566,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hudur ,Banjinaay - ORT,SNS559,SCI/GREDO,4.170805,43.932421,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Hudur ,Mabiwaraaabe - ORT,SNS560,SCI/GREDO,4.134332,43.919581,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bardale,Bardaale  - CTU,SNS562,SCI/GREDO,3.139,43.1122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Baidoa ,Boorama - ORT,SNS563,SCI/GREDO,2.92554,43.70033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bardale,Morowarabe - ORP,SNS564,SCI/GREDO,3.18055,43.41617,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bardale,Duurow - ORP,SNS566,SCI/GREDO,3.90888,43.97918,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bardale,Mooshi - ORP,SNS567,SCI/GREDO,3.17297,43.491482,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+July,Bardale,Masuubiye - ORP,SNS568,SCI/GREDO,3.17368,43.4933,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

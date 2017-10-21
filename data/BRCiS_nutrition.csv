@@ -1,0 +1,21 @@
+district_id,district,period,target,reached,percent_target,output,instalments,partner,irf_code,ratio_instalment
+R1720137,Waajid,March,400,50,13,3,3,CWW,IRF 4b/ IRF 4c,3 out of 3 payments completed
+R1720141,Xudur,March,2086,1962,94,2,2,SCI,IRF 4c,2 out of 2 payments completed
+R1720070,Afgooye,March,2088,1212,58,3,N/A,SCI,IRF 4c,N/A out of 3 payments completed
+R1720079,Matabaan,March,2000,548,27,3,3,SCI/ CWW,IRF 4c,3 out of 3 payments completed
+R1720137,Waajid,April,400,50,13,3,3,CWW,IRF 4b/ IRF 4c,3 out of 3 payments completed
+R1720141,Xudur,April,2086,2086,100,2,2,SCI,IRF 4c,2 out of 2 payments completed
+R1720070,Afgooye,April,2088,1212,58,3,N/A,SCI,IRF 4c,N/A out of 3 payments completed
+R1720079,Matabaan,April,2000,1262,63,3,3,SCI/ CWW,IRF 4c,3 out of 3 payments completed
+R1720137,Waajid,May,400,212,53,3,3,CWW,IRF 4b/ IRF 4c,3 out of 3 payments completed
+R1720141,Xudur,May,2086,2986,143,2,2,SCI,IRF 4c,2 out of 2 payments completed
+R1720070,Afgooye,May,2088,1434,69,3,N/A,SCI,IRF 4c,N/A out of 3 payments completed
+R1720079,Matabaan,May,2000,1262,63,3,3,SCI/ CWW,IRF 4c,3 out of 3 payments completed
+R1720137,Waajid,June,518,518,100,3,3,SCI,IRF 4 b,3 out of 3 payments completed
+R1720141,Xudur,June,2378,2378,100,3,2,ACF/ SCI,IRF 4 b,2 out of 3 payments completed
+R1720070,Afgooye,June,2241,2088,93,3,N/A,CWW,IRF 4 b,N/A out of 3 payments completed
+R1720079,Matabaan,June,2494,2494,100,3,3,SCI,IRF 4 b,3 out of 3 payments completed
+R1720137,Waajid,July,518,518,100,3,3,SCI,IRF 4 b,3 out of 3 payments completed
+R1720141,Xudur,July,2378,2378,100,3,2,ACF,IRF 4 b,2 out of 3 payments completed
+R1720070,Afgooye,July,2241,2241,100,3,N/A,CWW,IRF 4 b,N/A out of 3 payments completed
+R1720079,Matabaan,July,2494,2494,100,3,3,SCI,IRF 4 b,3 out of 3 payments completed

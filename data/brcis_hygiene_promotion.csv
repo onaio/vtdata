@@ -1,0 +1,106 @@
+district_id,district,period,target,reached,percent_target,output,instalments,partner,irf_code,ratio_instalment
+R1720074,Aliyow Munim,March,20111,1600,8,5,4,SCI/ CWW/ NRC,IRF 4 c/ IRF 4 b,4 out of 5 payments completed
+R1720075,Baki,March,15900,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720077,Bandarbeyla,March,8400,0,0,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720079,Belet Weyne,March,56975,67206,118,2,2,Cesvi/ SCI,IRF 4 b,2 out of 2 payments completed
+R1720080,Belet Hawo,March,58079,87339,150,2,2,CWW,IRF 4 b/ IRF 4 c,2 out of 2 payments completed
+R1720083,Bossaso,March,2800,0,0,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720086,Burco,March,9408,9408,100,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720087,Burtinle,March,7700,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720094,Caynabo,March,7000,9474,135,2,2,NRC,IRF 4 c,2 out of 2 payments completed
+R1720095,Ceel Afweyn,March,25851,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720099,Badhan,March,119635,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720103,Ceel Waaq,March,27755,27755,100,2,2,CWW,IRF 4 c,2 out of 2 payments completed
+R1720104,Eyl,March,2800,2798,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720107,Gaalkacyo,March,10850,21175,195,5,3,Cesvi,IRF 4 b,3 out of 5 payments completed
+R1720109,Dangorayo,March,3500,4990,143,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720110,Hargeysa,March,3000,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720112,Iskushuban,March,10848,18136,167,2,N/A,DRC/ SCI,IRF 4 b/ IRF 4 c,N/A out of 2 payments completed
+R1720120,Bo'ame,March,8498,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720129,Qardho,March,25505,9486,37,2,2,SCI/ NRC/ DRC,IRF 4 c,2 out of 2 payments completed
+R1720131,Burdhuhunle,March,4200,4200,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720137,Waajid,March,5600,4800,86,5,1,ACF,IRF 4 c,1 out of 5 payments completed
+R1720074,Aliyow Munim,April,20111,20200,100,5,4,SCI/ CWW/ NRC,IRF 4 c/ IRF 4 b,4 out of 5 payments completed
+R1720075,Baki,April,15900,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720077,Bandarbeyla,April,8400,8436,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720079,Belet Weyne,April,56975,67206,118,2,2,Cesvi/ SCI,IRF 4 b,2 out of 2 payments completed
+R1720080,Belet Hawo,April,58079,58079,100,2,2,CWW,IRF 4 b/ IRF 4 c,2 out of 2 payments completed
+R1720083,Bossaso,April,2800,2800,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720086,Burco,April,9408,9408,100,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720087,Burtinle,April,7700,6136,80,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720094,Caynabo,April,7000,9474,135,2,2,NRC,IRF 4 c,2 out of 2 payments completed
+R1720095,Ceel Afweyn,April,25851,4200,16,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720099,Badhan,April,119635,22380,19,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720103,Ceel Waaq,April,27755,27755,100,2,2,CWW,IRF 4 c,2 out of 2 payments completed
+R1720104,Eyl,April,2800,2798,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720107,Gaalkacyo,April,10850,37954,350,5,3,Cesvi,IRF 4 b,3 out of 5 payments completed
+R1720109,Dangorayo,April,3500,4990,143,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720110,Hargeysa,April,3000,0,0,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720112,Iskushuban,April,10848,25868,238,2,N/A,DRC/ SCI,IRF 4 b IRF 4 c,N/A out of 2 payments completed
+R1720120,Bo'ame,April,8498,11386,134,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720129,Qardho,April,25505,12286,48,2,2,SCI/ NRC/ DRC,IRF 4 c,2 out of 2 payments completed
+R1720131,Burdhuhunle,April,4200,4200,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720137,Waajid,April,5600,4800,86,5,1,ACF,IRF 4 c,1 out of 5 payments completed
+R1720074,Aliyow Munim,May,20111,20200,100,5,4,SCI/ CWW/ NRC,IRF 4 c/ IRF 4 b,4 out of 5 payments completed
+R1720075,Baki,May,15900,15900,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720077,Bandarbeyla,May,8400,8436,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720079,Belet Weyne,May,56975,67206,118,2,2,Cesvi/ SCI,IRF 4 b,2 out of 2 payments completed
+R1720080,Belet Hawo,May,58079,87339,150,2,2,CWW,IRF 4 b/ IRF 4 c,2 out of 2 payments completed
+R1720083,Bossaso,May,2800,2800,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720086,Burco,May,9408,9408,100,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720087,Burtinle,May,7700,6136,80,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720094,Caynabo,May,7000,9474,135,2,2,NRC,IRF 4 c,2 out of 2 payments completed
+R1720095,Ceel Afweyn,May,25851,47520,184,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720099,Badhan,May,119635,36840,31,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720103,Ceel Waaq,May,27755,27755,100,2,2,CWW,IRF 4 c,2 out of 2 payments completed
+R1720104,Eyl,May,2800,2798,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720107,Gaalkacyo,May,10850,37954,350,5,3,Cesvi,IRF 4 b,3 out of 5 payments completed
+R1720109,Dangorayo,May,3500,4990,143,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720110,Hargeysa,May,3000,3000,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720112,Iskushuban,May,10848,34936,322,2,N/A,DRC/ SCI,IRF 4 b IRF 4 c,N/A out of 2 payments completed
+R1720120,Bo'ame,May,8498,11386,134,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720129,Qardho,May,25505,12286,48,2,2,SCI/ NRC/ DRC,IRF 4 c,2 out of 2 payments completed
+R1720131,Burdhuhunle,May,4200,4200,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720137,Waajid,May,5600,4800,86,5,1,ACF,IRF 4 c,1 out of 5 payments completed
+R1720074,Baidoa,June,20200,20200,100,2,4,"CWW, DRC",IRF 4 c,4 out of 2 payments completed
+R1720075,Baki,June,15900,15900,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720077,Bandar Bayla ,June,8436,8437,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720079,Mataban,June,57339,67206,117,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720080,Belet Hawa ,June,61649,87339,142,2,2,CWW,IRF 4 c/  IRF 4b,2 out of 2 payments completed
+R1720083,Bosaso,June,2800,2800,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720086,Burao ,June,9408,9408,100,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720087,Burtinle,June,7866,7866,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720094,Caynabo,June,9474,9474,100,2,2,NRC,IRF 4 c,2 out of 2 payments completed
+R1720095,Elafweyn,June,50820,47520,94,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720099,Erigravo,June,42960,58320,136,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720103,Elwaaq,June,27755,27755,100,2,2,CWW,IRF 4 c,2 out of 2 payments completed
+R1720104,Eyl,June,2798,2798,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720107,Galcackyo,June,37954,37954,100,2,3,"Cesvi,DRC",IRF 4 b,3 out of 2 payments completed
+R1720109,Dangoriyo,June,4990,4990,100,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720110,Hargeisa,June,3000,3000,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720112,Iskushuban,June,25868,34936,135,2,N/A,SCI,IRF 4 b,N/A out of 2 payments completed
+R1720120,Bocame,June,12626,11386,90,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720129,Raho Raho,June,11381,12286,108,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720131,Yeed,June,4200,4200,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720137,Wajid,June,4800,4800,100,2,1,ACF,IRF 4 b,1 out of 2 payments completed
+R1720074,Baidoa,July,20200,20200,100,2,4,"CWW, DRC",IRF 4 c,4 out of 2 payments completed
+R1720075,Baki,July,15900,15900,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720077,Bandar Bayla ,July,8436,8437,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720079,Mataban,July,57339,67206,117,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720080,Belex Hawa ,July,61649,87339,142,2,2,CWW,IRF 4 c/  IRF 4b,2 out of 2 payments completed
+R1720083,Bosaso,July,2800,2800,100,2,N/A,DRC,IRF 4 c,N/A out of 2 payments completed
+R1720086,Burao ,July,9408,9408,100,2,2,SCI,IRF 4 b,2 out of 2 payments completed
+R1720087,Burtinle,July,7866,7866,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720094,Caynabo,July,9474,9474,100,2,2,NRC,IRF 4 c,2 out of 2 payments completed
+R1720095,Elafweyn,July,50820,50820,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720099,Erigravo,July,42960,61020,142,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720103,Elwaaq,July,27755,27755,100,2,2,CWW,IRF 4 c,2 out of 2 payments completed
+R1720104,Eyl,July,2798,2798,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720107,Galcackyo,July,37954,37954,100,2,3,"Cesvi,DRC",IRF 4 b,3 out of 2 payments completed
+R1720109,Dangoriyo,July,4990,4990,100,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720110,Hargeisa,July,3000,3000,100,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720112,Iskushuban,July,25868,34936,135,2,N/A,SCI,IRF 4 b,N/A out of 2 payments completed
+R1720120,Bocame,July,12626,11386,90,2,2,SCI,IRF 4 c,2 out of 2 payments completed
+R1720129,Raho Raho,July,11381,12286,108,2,2,NRC,IRF 4 b,2 out of 2 payments completed
+R1720131,Yeed,July,4200,4200,100,2,2,ACF,IRF 4 b,2 out of 2 payments completed
+R1720137,Wajid,July,4800,4800,100,2,1,ACF,IRF 4 b,1 out of 2 payments completed

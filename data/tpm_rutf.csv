@@ -1,0 +1,113 @@
+period,latitude,longitude,geometry,region,district,type_of_site,visit_date,dfid_partner,ngo,site_name,site_id,rutf
+Phase 1,8.483298633,47.357697,Point,Sool,Laas Caanood,Fixed,6/7/1948,UNICEF,MOH SL,Dhakhtarka Wan,tpm001,1
+Phase 1,10.65359452,49.7565345,Point,Bari,Bossaso,Fixed,5/7/2000,UNICEF,SRCS,Ufayn,tpm002,1
+Phase 1,4.163353599,42.08318622,Point,Gedo,Doolow,Fixed,41339,UNICEF,CEDA,Doolow Town,tpm003,67
+Phase 1,4.02868221,42.29726156,Point,Gedo,Doolow,Fixed,2/1/2014,UNICEF,TROCAIRE,Gedoweyne,tpm008,7
+Phase 1,10.28197207,50.23000389,Point,Bari,Iskushuban,Fixed,3/10/1993,UNICEF,SRCS,Iskushuban,tpm009,1
+Phase 1,8.482417835,47.36076359,Point,Sool,Laas Caanood,Mobile Headquarters,40218,UNICEF,SRCS,Laas Caanood,tpm010,45
+Phase 1,8.479091464,47.35675093,Point,Sool,Laas Caanood,Fixed,8/12/1974,UNICEF,MOH SL,Jaamalaye,tpm013,30
+Phase 1,3.800314433,42.54442994,Point,Gedo,Luuq,Fixed,40806,UNICEF,TROCAIRE,Waaberi,tpm014,14
+Phase 1,3.128909808,43.65348988,Point,Bay,Baidoa,MCH Mother and Child Health Clinic,42537,UNICEF,SCI,Horseed,tpm015,44
+Phase 1,3.126388482,43.66655232,Point,Bay,Baidoa,Fixed,40806,UNICEF,SOS CVI,Berdale,tpm017,3
+Phase 1,8.474026503,47.36668965,Point,Sool,Laas Caanood,Fixed,8/8/2005,UNICEF,MOH SL,Sayid Maxamed,tpm019,30
+Phase 1,3.126617532,43.66444251,Point,Bay,Baidoa,Mobile Headquarters,4/15/2012,UNICEF,GREDO,Baidoa Town Horseed Village,tpm021,1
+Phase 1,11.28920948,51.07495259,Point,Bari,Iskushuban,Fixed,1/7/2007,UNICEF,HADO,Baargaal,tpm022,1
+Phase 1,9.157713439,47.47831493,Point,Sool,Xudun,Fixed,3/4/1992,UNICEF,SRCS,Xudun,tpm024,30
+Phase 1,3.121217077,43.65787482,Point,Bay,Baidoa,Mobile Headquarters,42693,UNICEF,WVI,Baidoa Town,tpm025,4
+Phase 1,3.112606751,43.6670423,Point,Bay,Baidoa,Fixed,5/19/2015,UNICEF,WVI,Darusalam,tpm026,1
+Phase 1,8.24116243,47.22573675,Point,Sool,Laas Caanood,Fixed,8/5/1999,UNICEF,WORLD CONCERN,Kalabaydh,tpm028,30
+Phase 1,3.91706936,42.53760026,Point,Gedo,Luuq,Fixed,6/15/2013,UNICEF,EDRO,Miradhubow,tpm029,30
+Phase 1,11.96315891,50.75338805,Point,Bari,Caluula,Fixed,10/18/2015,UNICEF,HADO,Caluula Town,tpm032,1
+Phase 1,11.79029945,50.52400476,Point,Bari,Caluula,Fixed,6/19/2002,UNICEF,HADO,Xaabo ,tpm033,2
+Phase 1,8.938538417,46.62087944,Point,Sool,Laas Caanood,Fixed,5/5/2001,UNICEF,SRCS,Oog,tpm034,30
+Phase 1,3.803069028,42.55075364,Point,Gedo,Luuq,Fixed,41640,UNICEF,SRDA,Luuq Town,tpm035,75
+Phase 1,3.128808739,43.64212004,Point,Bay,Baidoa,Fixed,8/10/2015,UNICEF,WVI,Howlwadag,tpm039,2
+Phase 2,4.1632149,42.0769776,Point,Gedo,Dolow,Fixed,2/8/2017,SNS+,Trocaire,Dolow Rhc,tpm036,0
+Phase 2,3.930162009,41.87561204,Point,Gedo,Bulla Hawa,Fixed,2/8/2017,SNS+,Trocaire,Health Centre,tpm038,0
+Phase 2,4.7347171,45.2086912,Point,Hiraan,Belet Weyne,Fixed,2/8/2017,UNICEF,WARDI,Howl Wadaag Mch,tpm039,0
+Phase 2,4.1633401,42.0771714,Point,Gedo,Dolow,Fixed,3/8/2017,SNS+,Trocaire,Stabilization Center,tpm040,0
+Phase 2,7.35413312,47.61837079,Point,Mudug,Gaalkacyo,Fixed,3/8/2017,UNICEF,SRCS,Xarfo,tpm043,0
+Phase 2,3.923655739,41.87632397,Point,Gedo,Bulla Hawa ,Fixed,4/8/2017,SNS+,Trocaire,Khalil Hospital Sc,tpm044,0
+Phase 2,4.7431476,45.2076973,Point,Hiraan,Belet Weyne,Mobile headquarters,3/8/2017,UNICEF,SCI,Hoodley,tpm045,0
+Phase 2,9.484978642,46.87100079,Point,Sanaag,Ceel Afweyn,Fixed,3/8/2017,UNICEF,HEAL ,Gar Adag Mch,tpm046,31
+Phase 2,10.01062314,49.04428817,Point,Sanaag,Lasqoray,Fixed,3/8/2017,UNICEF,SRCS,Srcs Waciye,tpm047,0
+Phase 2,6.756131999,47.44337751,Point,Mudug,Gaalkacyo,Fixed,5/8/2017,UNICEF,SDRO,"Bulo Bisharo Bsfp, Howlwadaag, Galkayo",tpm048,6
+Phase 2,3.956328496,41.89405177,Point,Gedo,Bulla Hawa ,Fixed,5/8/2017,SNS+,Trocaire,Primary Healthy Unit,tpm049,6
+Phase 2,4.094517287,42.02683115,Point,Gedo,Dolow,Mobile headquarters,5/8/2017,SNS+,Trocaire,Surgudud Phu,tpm050,0
+Phase 2,9.973754224,46.69859375,Point,Sanaag,Ceel Afweyn,Fixed,5/8/2017,UNICEF,HEAL ,Huluul,tpm051,28
+Phase 2,4.735189131,45.20699398,Point,Hiraan,Belet Weyne,Fixed,5/8/2017,UNICEF,WARDI,Hospital,tpm052,0
+Phase 2,10.37320808,47.19485551,Point,Sanaag,Ceerigaabo,Fixed,6/8/2017,UNICEF,SRCS,Yufle Mch,tpm053,0
+Phase 2,4.111421658,42.26782319,Point,Gedo,Dolow,Mobile headquarters,6/8/2017,SNS+,Trocaire,Sadhumay Phu,tpm054,0
+Phase 2,5.236419209,45.68346621,Point,Hiraan,Belet Weyne,Mobile headquarters,6/8/2017,UNICEF,SCI,Sci Office In Mataban,tpm056,0
+Phase 2,7.05741351,47.49030434,Point,Mudug,Gaalkacyo,Fixed,6/8/2017,UNICEF,MOH,Cagaaran,tpm057,31
+Phase 2,10.43847508,45.01350915,Point,Sahil,Berbera,Fixed,6/8/2017,UNICEF,HPA,Berbera Stabilization Center,tpm058,0
+Phase 2,9.77687156,43.35056034,Point,Awdal,Baki,Fixed,5/8/2017,UNICEF,SRCS,Dilla MCH,tpm059,0
+Phase 2,9.77703446,43.35070927,Point,Awdal,Baki,Mobile headquarters,6/8/2017,UNICEF,SRCS,Dila Mhc Mobile Team,tpm060,0
+Phase 2,6.761330942,47.44286141,Point,Mudug,Gaalkacyo,Fixed,7/8/2017,UNICEF,SDRO,"Horumar Mch, Galkayo",tpm061,0
+Phase 2,4.028398111,42.29716966,Point,Gedo,Luuq,Fixed,7/8/2017,SNS+,Trocaire,Gedweine Health Center,tpm062,0
+Phase 2,3.835923288,41.89452593,Point,Gedo,Bulla Hawa ,Mobile headquarters,7/8/2017,SNS+,Trocaire,Sharmadaq,tpm063,6
+Phase 2,5.199422421,45.52604034,Point,Hiraan,Belet Weyne,Fixed,7/8/2017,UNICEF,HIRDO,Mataban Mch,tpm064,0
+Phase 2,10.62615665,47.36550806,Point,Sanaag,Ceerigaabo,Fixed,7/8/2017,UNICEF,MOH SL,Cerigabo Sc,tpm065,31
+Phase 2,7.19253327,47.52196685,Point,Mudug,Gaalkacyo,Fixed,7/8/2017,UNICEF,SRCS,Ba'Aadweyn,tpm066,0
+Phase 2,9.935802182,43.18164862,Point,Awdal,Borama,Fixed,8/8/2017,UNICEF,SCI,Borama Central Health Center,tpm069,0
+Phase 2,4.071371038,42.35476959,Point,Gedo,Dolow,Mobile headquarters,8/8/2017,SNS+,Trocaire,Koreey Phu,tpm072,0
+Phase 2,10.62262159,47.36771648,Point,Sanaag,Ceerigaabo,Fixed,8/8/2017,UNICEF,SRCS,Barwaaqo Mch,tpm073,0
+Phase 2,3.957212778,41.91382967,Point,Gedo,Bulla Hawa ,Mobile headquarters,8/8/2017,SNS+,Trocaire,Qurac Bilaash,tpm074,6
+Phase 2,10.44131373,45.02329723,Point,Sahil,Berbera,Fixed,8/8/2017,UNICEF,HPA,Jaamalaye Mch ,tpm075,0
+Phase 2,9.928779855,43.17926937,Point,Awdal,Borama,Fixed,9/8/2017,UNICEF,SCI,Shed Dheer Hc,tpm076,0
+Phase 2,7.03719177,47.02855998,Point,Mudug,Gaalkacyo,Fixed,9/8/2017,UNICEF,SRCS,Galdogob,tpm077,31
+Phase 2,3.800238348,42.54454192,Point,Gedo,Luuq,Fixed,10/8/2017,SNS+,Trocaire,Luuq Stabilzation Center,tpm078,0
+Phase 2,10.80041307,47.30479309,Point,Sanaag,Ceerigaabo,Fixed,10/8/2017,UNICEF,SRCS,Maydh Mch,tpm079,0
+Phase 2,3.892273155,41.93394617,Point,Gedo,Bulla Hawa ,Mobile headquarters,10/8/2017,SNS+,Trocaire,Malmaley Primary Health Unit,tpm080,0
+Phase 2,3.786116014,42.54824068,Point,Gedo,Luuq,Fixed,12/8/2017,SNS+,Trocaire,Akara Health Center,tpm081,0
+Phase 2,6.476172692,46.96368529,Point,Mudug,Gaalkacyo,Fixed,12/8/2017,UNICEF,CESVI,Bandiradley Mch,tpm082,0
+Phase 2,10.4419377,45.01086896,Point,Sahil,Berbera,Fixed,7/8/2017,UNICEF,HPA,Berbera Central,tpm086,0
+Phase 2,10.61779715,47.37253126,Point,Sanaag,Ceerigaabo,Mobile headquarters,14/8/2017,UNICEF,SRCS,Kulmiye Mch Hq,tpm087,0
+Phase 2,10.61802974,47.37218913,Point,Sanaag,Ceerigaabo,Fixed,13/8/2017,UNICEF,SRCS,Kulmiye Mch,tpm088,0
+Phase 2,10.17558724,45.98711502,Point,Sahil,Berbera,Fixed,9/8/2017,UNICEF,HPA,Laas Iidle Hc,tpm089,0
+Phase 2,10.05226215,44.98209898,Point,Sahil,Berbera,Fixed,13/8/2017,UNICEF,SRCS,Laso Dawaco Mch,tpm090,3
+Phase 2,7.17658597,47.24403819,Point,Mudug,Galdogob,Fixed,12/8/2017,UNICEF,MOH,Bursalax Hc,tpm091,3
+Phase 2,9.936540475,43.17944386,Point,Awdal,Borama,Fixed,10/8/2017,UNICEF,SCI,Sc Borama Hospital,tpm092,0
+Phase 2,10.38348227,44.40427115,Point,Sahil,Berbera,Fixed,10/8/2017,UNICEF,HPA,Bulahaar Health Centre,tpm093,3
+Phase 2,9.942455929,45.33166286,Point,Sahil,Sheikh,Fixed,15/8/2017,UNICEF,HPA,Suuqsade Mch,tpm094,14
+Phase 2,9.95416311,44.6971623,Point,Sahil,Berbera,Fixed,12/8/2017,UNICEF,HPA,Abdaal Mch,tpm095,12
+Phase 2,9.931441415,43.18483935,Point,Awdal,Borama,Fixed,13/8/2017,UNICEF,SCI,Shifo,tpm096,0
+Phase 2,6.95133977,47.31770314,Point,Mudug,Gaalkacyo,Fixed,13/8/2017,UNICEF,MOH,Beyra Hc,tpm097,6
+Phase 2,6.77091481,47.41207132,Point,Mudug,Gaalkacyo,Fixed,14/8/2017,UNICEF,MOH,Doonyaale Hc,tpm098,0
+Phase 2,9.4932283,50.8131045,Point,Bari,Banderbeyla,Fixed,15/8/2017,SNS+,SCI,Bandar Bayla Health Referral  Centre,tpm099,14
+Phase 2,9.933825824,43.19499113,Point,Awdal,Borama,Fixed,12/8/2017,UNICEF,SCI,Qorgab Hc,tpm100,0
+Phase 2,10.01287768,43.36772317,Point,Awdal,Baki,Fixed,14/8/2017,UNICEF,WVI,Baki MCH,tpm101,0
+Phase 2,10.08951454,43.01098336,Point,Awdal,Borama,Fixed,15/8/2017,UNICEF,SCI,Quljed Hc,tpm102,0
+Phase 2,3.796959138,42.51997397,Point,Gedo,Luuq,Mobile headquarters,16/8/2017,SNS+,Trocaire,Dogob Village,tpm103,0
+Phase 2,6.77164385,47.42834559,Point,Mudug,Gaalkacyo,Fixed,15/8/2017,UNICEF,MOH,Galkacyo North Central Hc,tpm104,0
+Phase 2,10.19465236,43.08788285,Point,Awdal,Borama,Fixed,17/8/2017,UNICEF,SCI,Boon Hc,tpm106,6
+Phase 2,6.434551731,47.48843644,Point,Mudug,Gaalkacyo,Fixed,13/8/2017,UNICEF,CESVI,Docol Mch/Phc,tpm107,0
+Phase 2,6.265845421,47.52035264,Point,Mudug,Galkacyo,Fixed,14/8/2017,UNICEF,CESVI,Wargalo Mch/Phc,tpm108,0
+Phase 2,6.013735774,47.85131623,Point,Mudug,Hobyo,Fixed,14/8/2017,UNICEF,Mercy USA,Ceel Guula Mch/Phc,tpm109,14
+Phase 2,5.7898468,47.70563566,Point,Mudug,Hobyo,Fixed,15/8/2017,UNICEF,Mercy USA,Bajelo Mch/Phc,tpm110,0
+Phase 2,9.787876019,44.90681976,Point,Sahil,Sheikh,Fixed,17/8/2017,UNICEF,HPA,Go'Da Wayn Mch,tpm112,0
+Phase 2,10.58806315,46.95534508,Point,Sanaag,Ceerigaabo,Fixed,16/8/2017,UNICEF,SRCS,Gudmo Biyo Cas Mch,tpm113,0
+Phase 2,9.925118837,47.21729315,Point,Sanaag,Ceel Afweyn,Fixed,19/8/2017,UNICEF,SRCS,Ceel Afweyn Mch,tpm114,0
+Phase 2,5.425990735,48.12859535,Point,Mudug,Hobyo,Fixed,16/8/2017,UNICEF,Mercy USA,Wisil Phc,tpm116,31
+Phase 2,5.324849265,47.90974193,Point,Mudug,Hobyo,Fixed,17/8/2017,UNICEF,Mercy USA,Bacaadweyne Phc,tpm118,0
+Phase 2,7.09381544,48.15886194,Point,Mudug,Jariiban,Fixed,21/8/2017,UNICEF,SRCS,Srcs Balibusle Hc,tpm119,0
+Phase 2,10.32634443,42.83816846,Point,Awdal,Zeylac,Fixed,19/8/2017,UNICEF,SRCS,Xariirad Mch,tpm121,0
+Phase 2,10.32635485,42.83790595,Point,Awdal,Zeylac,Mobile headquarters,20/8/2017,UNICEF,SRCS,Xariirad Mobile Team,tpm122,6
+Phase 2,10.50975161,42.89175692,Point,Awdal,Zeylac,Fixed,21/8/2017,UNICEF,SRCS,Abdiqadir Mch,tpm123,0
+Phase 2,10.36933018,43.19143168,Point,Awdal,Zeylac,Fixed,22/8/2017,UNICEF,SRCS,Fiqi Adan Mch,tpm124,6
+Phase 2,10.62058985,43.07087351,Point,Awdal,Zeylac,Fixed,23/8/2017,UNICEF,SRCS,Jidhi Mch,tpm125,0
+Phase 2,10.60699744,43.43447701,Point,Awdal,Lughaye,Fixed,24/8/2017,UNICEF,WVI,Geerisa Mch,tpm126,0
+Phase 2,5.310633901,48.29817594,Point,Mudug,Hobyo,Fixed,26/8/2017,UNICEF,Mercy USA,Gawaan Mch/Phc,tpm128,0
+Phase 2,5.001297952,48.26315919,Point,Mudug,Xarardheere,Fixed,22/8/2017,UNICEF,DEH,Ceel Huur Mch/Phc,tpm129,0
+Phase 2,5.886964867,48.34973572,Point,Mudug,Hobyo,Fixed,31/8/2017,UNICEF,Mercy USA,Ceel Dibir Mch/Phc,tpm130,0
+Phase 2,5.228203283,48.25187409,Point,Mudug,Hobyo,Fixed,27/8/2017,UNICEF,Mercy USA,Qararow Mch/Phc,tpm131,0
+Phase 2,5.576623353,48.23978699,Point,Mudug,Hobyo,Fixed,28/8/2017,UNICEF,Mercy USA,Hero Dhagahley Mch/Phc,tpm132,31
+Phase 2,10.60706003,43.43424727,Point,Awdal,Lughaye,Mobile headquarters,24/8/2017,UNICEF,WVI,Geerisa Mobile Team,tpm134,0
+Phase 2,10.68264914,43.94122096,Point,Awdal,Lughaye,Fixed,29/8/2017,UNICEF,WVI,Lughaya Mch,tpm135,0
+Phase 2,10.2869453,43.29464299,Point,Awdal,Borama,Fixed,30/8/2017,UNICEF,WVI,Fadhi Xun Mch,tpm136,0
+Phase 2,10.31116762,43.80532217,Point,Awdal,Lughaye,Fixed,31/8/2017,UNICEF,WVI,Gargaara Mch,tpm137,0
+Phase 2,10.04294457,43.78459223,Point,Awdal,Baki,Fixed,5/9/2017,UNICEF,WVI,Alixaydh Mch,tpm138,0
+Phase 2,6.765669589,47.43508411,Point,Mudug,Gaalkacyo,Fixed,9/9/2017,UNICEF,SRCS,"Srcs Mch, Horumar Village.",tpm139,0
+Phase 2,10.01274489,43.36745768,Point,Awdal,Baki,Mobile headquarters,16/8/2017,UNICEF,WVI,Baki,tpm140,0
+Phase 2,5.350389078,48.52496788,Point,Mudug,Hobyo,Fixed,24/8/2017,UNICEF,Mercy USA,Hobyo Town Mch/Phc,tpm141,0
+Phase 2,10.23850628,43.6236838,Point,Awdal,Lughaye,Fixed,4/9/2017,UNICEF,WVI,Garbo Dadar Mch,tpm142,0

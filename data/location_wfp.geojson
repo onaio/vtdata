@@ -1,0 +1,8519 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "100 Bush IDP",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.169534,
+          11.284088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "100 Bush IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.169534,
+          11.284088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "55 Bush IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.169422,
+          11.287213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Aawdiinle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.40989,
+          3.17055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Abdi Kheyr",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.527602,
+          3.874028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Afgooye",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.118698,
+          2.14158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Afgooye/Baalguri",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.1133,
+          2.14242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Afmadow",
+        "Town_Village": "Afmadow ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.073009,
+          0.51486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Airport area",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.547561,
+          3.806398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Ala Amin IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.236583,
+          6.225164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Alingo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89715,
+          3.95131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Allamin 1 IDP ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42054,
+          6.76574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Aroosow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.47148,
+          3.92472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Ashagoow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.8554,
+          2.53115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Aw Cusman",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.92598,
+          2.65502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Aw Duurow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.78148,
+          2.5054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Awil barwaaqo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.647554,
+          3.129843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Awr Culus",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.990002,
+          7.76667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Baaley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.649179,
+          7.915271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Baamudule",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.555508,
+          3.757402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Baargaal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07728,
+          11.28261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Baargaal",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.07728,
+          11.28261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Baarweyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.3531,
+          8.52195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Bacaad Buko",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17015,
+          4.82618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Bacaad Buko",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.17015,
+          4.82618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Galdogob",
+        "Town_Village": "Bacaadweyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.52673,
+          7.19168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Bacadwayn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.248491,
+          5.221703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Badhan",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.332528,
+          10.713436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Badhan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.332528,
+          10.713436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Badhan",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.333218,
+          10.706332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Badhi Galis Satellite",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.29558,
+          9.97234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Bajeelo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42169,
+          6.2102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Bakaro weyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6423,
+          3.115933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Balan Baal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.676068,
+          9.597465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Balanbal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.768628,
+          5.763569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Baley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.60205,
+          8.50515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Bali Busle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.892608,
+          10.048338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Owdweyne",
+        "Town_Village": "Bali Cabdule",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.79637,
+          8.96122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Bali Cad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.09062,
+          5.48048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Bali Cad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.75012,
+          8.08616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Bali-Caraale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.32145,
+          9.65104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Balidacar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.882647,
+          8.820793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qandala",
+        "Town_Village": "Balidhidin",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.39222,
+          10.87986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Bali-Hadhac",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.84215,
+          8.44057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Balli Dacar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.813061,
+          7.97611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Balli Hiille",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.580224,
+          9.179665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Ballibusle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.158126,
+          7.094637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Baloow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.82593,
+          2.64477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Ban Munduli",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.55694,
+          3.75773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bandarbayla",
+        "Town_Village": "Bandarbayla",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81277,
+          9.49563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bandarbayla",
+        "Town_Village": "Bandarbayla",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.81277,
+          9.49563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Bandiidley",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.386698,
+          5.537643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Bandiidley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.945358,
+          6.47979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Bandiidley",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.94945,
+          6.480331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Bandiidley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.946404,
+          6.474181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Bandunbuto",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.421,
+          8.51544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Bangeele",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.3072,
+          6.24178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Banyaal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.53861,
+          8.36836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Baqbaq",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.488331,
+          7.82861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Baraagaha Qol",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4924,
+          9.55739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Baraagaha Qol",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4924,
+          9.55739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Caluula",
+        "Town_Village": "Bareeda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.05796,
+          11.8702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cadaado",
+        "Town_Village": "Baxdo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.04234,
+          6.36934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Bayle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42054,
+          6.76574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Bedey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83521,
+          7.98566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Bedey",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.83521,
+          7.98566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Beer Weyso",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.535593,
+          9.753127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Beer-Gadiid",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.31428,
+          5.083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Belet Xaawo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89431,
+          3.78074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Belet Xaawo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89431,
+          3.78074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Belet Xaawo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.89431,
+          3.78074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Berdale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.198048,
+          3.214367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Berdale/Horseed",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.199331,
+          3.209721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Berkeda Cali Xirsi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.49952,
+          9.28393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Bilcilweyso",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.578504,
+          8.935065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Birta Dheer",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.305828,
+          8.25639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Bisiqa",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.475798,
+          8.705489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Bixin",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.086639,
+          10.113809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Biyo Kulule IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.195311,
+          11.27766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Bocorey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90674,
+          2.55362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Bohol",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.22785,
+          5.74731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Bonkay IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6325,
+          3.15408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Booca",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.882199,
+          3.92148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Laas Caanood",
+        "Town_Village": "Boocame",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.935664,
+          8.396344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Boondheere",
+        "Town_Village": "Boondheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.34,
+          2.04555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Budbud",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.5262,
+          5.34743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Bufow Ba'ad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.7447,
+          1.751345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Bula aday",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.027317,
+          2.796994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Bula Elay IDP",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.196246,
+          11.28228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Bula Elay IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.196246,
+          11.28228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Bula Mingis IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.197919,
+          11.280179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Buniyo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.85122,
+          3.5444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Buraan",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.771055,
+          10.220947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Buraan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.77067,
+          10.21618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Cadale",
+        "Town_Village": "Bur-Dheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.12087,
+          2.80787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Galdogob",
+        "Town_Village": "Bursaalax",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.24316,
+          7.17457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Burtinle",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83103,
+          7.64157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Burtinle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.83103,
+          7.64157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Buuhoodle",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.315717,
+          8.251603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Buulo Qalooc",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.12894,
+          4.14908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Caad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.982327,
+          5.018489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Caanoole",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.04023,
+          2.13043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Cabdulcasiis",
+        "Town_Village": "Cabdulcasiis",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.366582,
+          2.045214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Cabudwaaq",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2258,
+          5.78938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Cadaadkulaale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.821563,
+          9.44617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cadaado",
+        "Town_Village": "Cadaado",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.625464,
+          6.131423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Cadale",
+        "Town_Village": "Cadale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.319,
+          2.7568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Cadow Yuurura",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.419693,
+          9.268959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Sheikh",
+        "Town_Village": "Cali Ciise",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.09706,
+          9.92845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Cali Saahid",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.39495,
+          9.115507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Cali-Xassan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.69497,
+          5.530568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Caluula",
+        "Town_Village": "Caluula",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.75858,
+          11.96039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Caluula",
+        "Town_Village": "Caluula",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.75858,
+          11.96039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Camaara",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.42506,
+          6.77396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Carfuuda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.58737,
+          6.62902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Carmo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0609,
+          10.5665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Carmo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.0609,
+          10.5665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Cawsane ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.80722,
+          10.58288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Ceegaag",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.49813,
+          8.62001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Ceegaag",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.49813,
+          8.62001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Ceel Ahmed",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.63636,
+          1.62205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Ceel Buh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.23222,
+          8.56194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Ceel Dheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.791039,
+          4.67996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Ceel Dheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.19675,
+          5.36098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Ceel Dibir",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.284019,
+          10.906645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Ceel Macaan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.691669,
+          2.24444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Ceel Waaq",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.998291,
+          2.78767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Ceel Waregow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.79943,
+          1.80873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Ceel-Buh",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30988,
+          10.22551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Ceel-Buh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30988,
+          10.22551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Ceel-Caddow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.70452,
+          1.67215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Ceelcade",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.603849,
+          9.808085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Ceel-Dhaab",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.4979,
+          8.93733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Ceel-Dibir",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.70297,
+          5.78645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Ceelguula",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.68535,
+          6.17852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Ceel-Huur",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.83336667,
+          5.668716667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Ceel-Jaale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.72268,
+          1.6804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Ceelow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.63871,
+          2.29702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Ceelweyne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.62122,
+          7.74121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Cel Akhwan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.380367,
+          6.693168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Cel Akhwan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.377357,
+          6.691801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Celaya",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2976,
+          10.7691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Jaribani",
+        "Town_Village": "Cel-Xagar ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.27849,
+          7.4174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Cirshiida Satellite",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.29122,
+          10.88058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Coomaad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.475515,
+          5.004259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Coomaad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.574916,
+          4.833464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Cumar-Beere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05582,
+          2.19852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Cuun",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89346,
+          8.81879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Dabagalo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.66523,
+          4.9217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Dabare",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.91851,
+          5.18907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Damala Xagarre",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.941937,
+          9.928091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Dameerale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.131199,
+          2.25019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Darar Weyne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.528218,
+          9.756344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Darusalam",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.662952,
+          3.117954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Dawanle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.88197,
+          2.54202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Dayaan IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.241311,
+          6.222766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Dharkenley",
+        "Town_Village": "Daynile",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.282212,
+          2.044172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Daynile",
+        "Town_Village": "Daynile",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28548333,
+          2.056752778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Daynile",
+        "Town_Village": "Daynile",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28548333,
+          2.056752778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Daynuunay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.796879,
+          3.03985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Deeqlo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.668085,
+          6.607286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qandala",
+        "Town_Village": "Dhaadaar",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.875561,
+          11.12806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Dhabad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.43626,
+          6.15527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Dhagaxow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.48444,
+          2.5265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Dhahar",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.81988,
+          9.74799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Dhahar ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.81988,
+          9.74799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Dhallaamo Cune",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.621676,
+          8.375667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Dhalwo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.56813,
+          4.5612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Dhanaane",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.747431,
+          7.596085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Dharkendoka",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.017622,
+          2.768298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Dharkenley",
+        "Town_Village": "Dharkenley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27461111,
+          2.037852778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Dhiganle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.51149,
+          7.83003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Dhiganle",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.51149,
+          7.83003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Dhilaalo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.464777,
+          8.440799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Afmadow",
+        "Town_Village": "Dhobley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.01238,
+          0.40627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Dhoomo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.712569,
+          9.815154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qardho",
+        "Town_Village": "Dhudhub",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.91697,
+          9.22973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Dhuray ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.890291,
+          3.929268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bandarbayla",
+        "Town_Village": "Dhuudo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.20782,
+          9.32518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bandarbayla",
+        "Town_Village": "Dhuudo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.20782,
+          9.32518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Dhuusamarreeb",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.12112,
+          5.42775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Dhuusamarreeb",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.386698,
+          5.537643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Dhuusamarreeb",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.386698,
+          5.537643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Afmadow",
+        "Town_Village": "Dibi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.1217,
+          0.5804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Afmadow",
+        "Town_Village": "Dif",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.06157,
+          0.96249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Dihlil",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.39727,
+          7.98095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Diiriye Xassan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.670616,
+          5.541207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Dilin Mahato",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5762,
+          8.25548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Docol",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.491112,
+          6.432393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Docol",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.490921,
+          6.431061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Docol",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.485873,
+          6.434838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Docolle Farale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.552374,
+          6.67026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Docolle Farale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.551763,
+          6.66717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Xudun",
+        "Town_Village": "Dogoble",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.46013,
+          9.46057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Doolow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.07617,
+          4.16358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Doolow",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.078279,
+          4.165309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Doolow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.076443,
+          4.162568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Doonka Weynow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.112932,
+          2.252142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Dudumaale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.776269,
+          8.143998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Dudumay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.79823,
+          2.57837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Dumaaye",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.992194,
+          5.010299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Dur-Duri",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.58537,
+          11.29662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "El Banda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.9951,
+          2.77299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Waajid",
+        "Town_Village": "EX ACF Compound",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.546912,
+          3.805045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Fadhi Gaab",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.014348,
+          9.666649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Fadhiyar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.7799,
+          9.0193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Kismayo",
+        "Town_Village": "Far Janne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.535579,
+          -0.363901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Faragoo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.524527,
+          5.466401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Faratooyo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.81277,
+          7.53474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Farlibaax",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.86873,
+          4.87458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Gaalkacyo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.26205,
+          5.00277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Gaalkacyo/Garsoor, Horumar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.668085,
+          6.607286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Gaalkacyo/Garsoor, Horumar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.84985,
+          47.41385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Gaarcad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.364967,
+          6.639777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Gadoon",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.683252,
+          5.68118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Galdogob",
+        "Town_Village": "Galdogob",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.13494,
+          7.05755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cadaado",
+        "Town_Village": "Galinsoor",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.70553,
+          6.42639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Laas Caanood",
+        "Town_Village": "Gambade",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.483103,
+          8.542969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Ganuribad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.209487,
+          4.732469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Cadale",
+        "Town_Village": "Garas-Weyne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.19258,
+          2.90082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Jaribani",
+        "Town_Village": "Garcad",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.32653,
+          6.94468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Jaribani",
+        "Town_Village": "Garcad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.32653,
+          6.94468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Gargaar MCH",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49917,
+          8.417471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Garowe/Waberi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49092,
+          8.40088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Garowe/Waberi",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.49092,
+          8.40088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Garsoow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.48916,
+          3.82905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Gawaan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.85248,
+          6.01175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Gawiido",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.925,
+          3.987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Geed Weyne Sectin",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.29415,
+          4.0302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Geer Boolow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.51267,
+          3.91147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Gendershe",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90675,
+          1.83308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Godob Addon",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.528099,
+          7.6693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Godob Jiraan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.783699,
+          7.6415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Godobyar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.66395,
+          7.72006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Boondheere",
+        "Town_Village": "Gololey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35333,
+          2.44949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Gololey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35333,
+          2.44949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Goobo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.05642,
+          4.49898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Goodwiil",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.948984,
+          5.436598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Goof-Gaduud-Shabelow 2",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4752,
+          2.95999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Goof-Mareere Weyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.4913,
+          3.23801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Gooraan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.52977,
+          10.07071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Goraya Xun Hoose",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33088,
+          8.61124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Goroyo Ood",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28821,
+          9.03494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Gubataay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.21043,
+          4.1345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Gumbax",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.11405,
+          10.88443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Guri-Ceel",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.87737,
+          5.30825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Haakow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.85708,
+          2.58283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Habari Heshay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.402417,
+          8.840441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Hadaaftimo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.106833,
+          10.766271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Hadaaftimo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.104239,
+          10.764754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Halabokhad IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.451092,
+          6.802736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Taleex",
+        "Town_Village": "Halin",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.62008,
+          9.0857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Hananley MCH ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.71228,
+          3.63088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Hanano 2 (2) IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6589,
+          3.12948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Harada Gubatoxil",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.465326,
+          8.779055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Hawaay ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.642454,
+          2.206823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Hawanley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.52802,
+          3.241831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Haween",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.5443,
+          3.25131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Hayanle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.06493,
+          7.90862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Heero",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.92908,
+          2.64827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Heliwa",
+        "Town_Village": "Heliwa",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35321667,
+          2.093388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Heliwa",
+        "Town_Village": "Heliwa",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35321667,
+          2.093388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Taleex",
+        "Town_Village": "Higlo Ceelcowsle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85525,
+          9.51979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Hobyo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.526654,
+          5.353681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Hodan",
+        "Town_Village": "Hodan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.29537222,
+          2.041611111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Horseed",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.199554,
+          3.209623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Horufadhi",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.401865,
+          8.579943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Howlwadag",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.54367,
+          3.11651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Hujub",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28351,
+          4.68502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Hujub",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28351,
+          4.68502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Huurshe",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.36417,
+          5.98116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Idale ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.34179,
+          2.71534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "IDP F",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.561513,
+          3.777534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Isku Dhoonka",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.543828,
+          9.264903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Iskushuban",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.23009,
+          10.28178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "J. Cisiley ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.63377,
+          2.30598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Jalam",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.04045,
+          7.87079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Jambaluul",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.15408,
+          2.18488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Jameeco-Misr",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.49561,
+          2.57246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Jilab MCH",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.479611,
+          8.390941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Jilib-Marca",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90755,
+          1.79767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Jaribani",
+        "Town_Village": "Jiribani",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.85104,
+          7.21345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Jowhar",
+        "Town_Village": "Jowhar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.50269,
+          8.16935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Kabaalwaq",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.959598,
+          8.073611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Kahda",
+        "Town_Village": "Kahda",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.264364,
+          2.059241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Kalabayr",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.486389,
+          8.41278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Owdweyne",
+        "Town_Village": "Kaladhac",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.27784,
+          9.51395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Kalagubta",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.884086,
+          3.933108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Kalkal HC",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.490217,
+          8.403638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Kalkal MCH",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.832373,
+          7.63865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Kalsheekh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.204693,
+          10.062975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Km 60",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.90641,
+          1.91405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Kora Mari",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.62884,
+          3.31591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Laanle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.89961,
+          5.4798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Laas Doomaare",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.71377,
+          9.81422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Laasa Surad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.343604,
+          11.147119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Lamadhucdh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.99768,
+          6.756582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Lamagaras",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.99248,
+          2.44493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Lebbi-Guun",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.57821,
+          9.09283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Lebi Raar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.97727,
+          3.73163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Libaaxo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.19365,
+          8.59308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Lo'Aneba",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.12841,
+          10.80156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Luufoow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.74444,
+          2.42488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Luuq/Gudey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.55408,
+          3.79704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Macruuf",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.068947,
+          4.885401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Madar Moge",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30673,
+          10.79941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Madar Moge",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30673,
+          10.79941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Xudur",
+        "Town_Village": "Madax Waraabe",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.911861,
+          4.12423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Magacley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.585602,
+          9.0875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Maganey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.52007,
+          3.7095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Maguurto-Baalgure",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.08088,
+          2.20207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Jowhar",
+        "Town_Village": "Mahadaay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.84215,
+          8.44057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Maraya",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.16414,
+          8.3206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Maraya",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.16414,
+          8.3206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Mareer Guur",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.51312,
+          5.75047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Mareerey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.05613,
+          2.13468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Mareerey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.41921,
+          2.38894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Marka",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.76388,
+          1.71305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Mashruuca",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.48713,
+          9.01834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Matabaan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0695,
+          4.88673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Matabaan",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.524443,
+          5.19807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Matabaan",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.52517,
+          5.19938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Bulo Burto",
+        "Town_Village": "Maxaas",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.0884,
+          4.39202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Meygaagle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.60571,
+          8.02709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Meygaago",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.74712,
+          8.06537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Meyraaley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.11818,
+          2.53395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Miliqo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.93026,
+          5.11431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Luuq",
+        "Town_Village": "Mira Dhuubow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.53777,
+          3.91996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Mirig",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.42292,
+          5.66243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Mirjicle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.96932,
+          5.68895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Moordiinle",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.012249,
+          2.10584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Muki-Dheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.38597,
+          2.36124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Mustaqbal 1 IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.377357,
+          6.691801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Muudiye",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.67907,
+          11.35455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "New Shabelle IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.195698,
+          11.269973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Oda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.937835,
+          3.984213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Oda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.943933,
+          3.996106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Dhuusamarreeb",
+        "Town_Village": "Olal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.23917,
+          5.92195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Ooman",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.292,
+          8.25783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Q/saxley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.069259,
+          4.151208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Qabanawa",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.002759,
+          2.794041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Qalanqal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.86113889,
+          6.349166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qandala",
+        "Town_Village": "Qandala",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.873322,
+          11.469416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qandala",
+        "Town_Village": "Qandala",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.873445,
+          11.474763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Qararo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.50269,
+          8.16935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Qararow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29483,
+          5.31033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qardho",
+        "Town_Village": "Qardho",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.086079,
+          9.50694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Qarqoora",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.692397,
+          6.747925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Qarqoora",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.691494,
+          6.748034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Qarxis",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.10305,
+          7.98389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Qarxis",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.56847,
+          8.48552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Xudur",
+        "Town_Village": "Qaydar Edi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.70475,
+          4.28994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Qaydarrey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4884,
+          5.78739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Qeylo-Weyne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.6688,
+          2.35418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Qod Qod",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.68207,
+          5.08187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Caynabo",
+        "Town_Village": "Qori Dheere",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.671091,
+          9.182895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Laas Caanood",
+        "Town_Village": "Qoriiley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.562959,
+          8.003256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Xarardheere",
+        "Town_Village": "Qosol Tire",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.213612,
+          4.92361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Qoyon",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.30385,
+          10.01666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Raad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.584866,
+          10.722594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Rabbaable",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.29833,
+          8.28125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qardho",
+        "Town_Village": "Rako",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.72944,
+          9.78144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Reebanti",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.481392,
+          8.40861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Riyo Xidho",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.59901,
+          8.47091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Ruun-Shiikhow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.70332,
+          2.40222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Saadhuumaay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.25621,
+          4.1276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Sabiid",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.03595,
+          2.12943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Sadax-Higlo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.475515,
+          5.004259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Sadax-Higlo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.1122,
+          6.49897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Afgooye",
+        "Town_Village": "Sagaalaad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.09993,
+          2.14223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Laas Caanood",
+        "Town_Village": "Sahdheer",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.10488,
+          8.00224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Salamey 1 IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.6466,
+          3.11872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Sandacaar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.09326,
+          2.65851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Sarmaan Tuke",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.48082,
+          8.32738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Xudun",
+        "Town_Village": "Sarmaanyo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.99372,
+          9.48895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Jaribani",
+        "Town_Village": "Semade",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.60975,
+          7.15579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Shaafici HC",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.832109,
+          7.633968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Shabele I IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47724,
+          8.40485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Shabele IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.47725,
+          8.40465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Shabelle IDP",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.193607,
+          11.275044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Shabelle IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.193607,
+          11.275044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Marka",
+        "Town_Village": "Shalaambood",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.69605,
+          1.70698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Shangaani",
+        "Town_Village": "Shangaani",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33919444,
+          2.038972222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Shanlow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.48367,
+          2.53883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Taleex",
+        "Town_Village": "Shaxda",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.90337,
+          9.17797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Qardho",
+        "Town_Village": "Sheerbi",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.09214,
+          9.8638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Shabelle",
+        "district": "Wanla Weyn",
+        "Town_Village": "Sherey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.98488,
+          2.45814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Shibis",
+        "Town_Village": "Shibis",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35,
+          2.037711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Shoodhe",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.367295,
+          10.009707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Shumox Shumox",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.30152,
+          10.80072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Siigaalow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.18898,
+          4.75727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Sincaro",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0754,
+          9.47695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Sinujif",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.9852,
+          8.53713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "South Gaalkacyo MCH",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.428538,
+          6.750904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Sur Gaduud",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.02514,
+          4.09584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Suryo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.52043,
+          9.333288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Suubanlaged",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.41792,
+          7.78119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Lower Juba",
+        "district": "Afmadow",
+        "Town_Village": "Tabta",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.43938,
+          0.30463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Hiraan",
+        "district": "Belet Weyne",
+        "Town_Village": "Takaraale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.28825,
+          5.20198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Taleex",
+        "Town_Village": "Taleex",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.42077,
+          9.14839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Tawakal IDP",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.165584,
+          11.282417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Tawakal IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.165584,
+          11.282417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Gaalkacyo",
+        "Town_Village": "Tawakal IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.78051,
+          47.43653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Towfiiq",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.675404,
+          3.126929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Laas Caanood",
+        "Town_Village": "Tuko Raq",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.643818,
+          8.567305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Tuulo Ooman",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.14205,
+          8.084319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Tuur Jale IDP",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.186485,
+          11.273061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Tuur Jale IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.186485,
+          11.273061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Bossaso",
+        "Town_Village": "Ufeyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.75337,
+          10.65233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Uunsi Weyn",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.95507,
+          4.02341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Waaberi",
+        "Town_Village": "Waaberi",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35,
+          2.047638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Waaberi",
+        "Town_Village": "Waaberi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.35,
+          2.047638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Waajid",
+        "Town_Village": "Waajid",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.247089,
+          3.80925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Wabeeri IDP",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.492517,
+          8.414933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Wadajir",
+        "Town_Village": "Wadajir",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.30275,
+          2.043861111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bay",
+        "district": "Baidoa",
+        "Town_Village": "Wadajir 4",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.667816,
+          3.149063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Waraabeeye",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.576911,
+          8.876295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Ceel Waaq",
+        "Town_Village": "Warcaday",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.890722,
+          3.89256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Wardhiigleey",
+        "Town_Village": "Wardhiigleey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33110556,
+          2.043133333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Wardhiigleey",
+        "Town_Village": "Wardhiigleey",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33110556,
+          2.043133333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Eyl",
+        "Town_Village": "Wargaduud",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.06849,
+          7.72972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Belet Xaawo",
+        "Town_Village": "Wariryal ",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.87649,
+          3.92835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Warshiikh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.79799,
+          2.298294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Xudur",
+        "Town_Village": "Weerow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.83483,
+          4.17074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Widhwidh",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.706793,
+          8.454123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Widhwidh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.706793,
+          8.454123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Wisil",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90805,
+          5.32453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Wisil",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.90805,
+          5.32453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Caluula",
+        "Town_Village": "Xaabbo",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.52195,
+          11.52195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Xaadh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.01047,
+          10.94739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Xaafuun",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26094,
+          10.42312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Xaafuun",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.26094,
+          10.42312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Caluula",
+        "Town_Village": "Xabaalo Ambiyaad",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.11089,
+          11.60879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Laasqoray",
+        "Town_Village": "Xabaasha-Waale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.32212,
+          11.00855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Xamar Jaabjab",
+        "Town_Village": "Xamar Jaabjab",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33,
+          2.054921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Xamar Jaabjab",
+        "Town_Village": "Xamar Jaabjab",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33,
+          2.054921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Xamar Lagu Xidh",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.502336,
+          8.173037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Xamar Lagu Xidh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.502336,
+          8.173037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Xamar Weyne",
+        "Town_Village": "Xamar Weyne",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33,
+          2.027641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Xamar Weyne",
+        "Town_Village": "Xamar Weyne",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.33,
+          2.027641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Gedo",
+        "district": "Doolow",
+        "Town_Village": "Xamare",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.35178333,
+          4.070666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Xamaroow",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.77211,
+          2.41933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Xamilka",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.40549,
+          9.87699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Xamilka",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.40549,
+          9.87699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Xamur",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.74333,
+          8.72209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Xamxamaa",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.05728,
+          8.15768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Xangay",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.46942,
+          8.97383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Owdweyne",
+        "Town_Village": "Xaqayo-Malaas",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.12823,
+          9.62043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Xareed",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06149,
+          10.34166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceel Afweyn",
+        "Town_Village": "Xareed",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.06149,
+          10.34166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Xas Bahale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.160595,
+          7.960774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Garowe",
+        "Town_Village": "Xasbahale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.616112,
+          8.57917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Galgaduud",
+        "district": "Cabudwaaq",
+        "Town_Village": "Xerale",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.96333,
+          6.02351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Xeri-Mooli",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.2736,
+          10.77807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Xero Dhagaxleey",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.245909,
+          5.589097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Buuhoodle",
+        "Town_Village": "Xidh Xidh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.986236,
+          8.37355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Xin Barwaqo",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.34835,
+          5.1152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Xin-Galool",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31057,
+          9.75403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sanaag",
+        "district": "Ceerigaabo",
+        "Town_Village": "Xin-Galool",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.31057,
+          9.75403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Xingod",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.12112,
+          5.42775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Xinlabi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.61589,
+          4.87728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Mudug",
+        "district": "Hobyo",
+        "Town_Village": "Xinlabi",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.64737,
+          5.3993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bari",
+        "district": "Iskushuban",
+        "Town_Village": "Xiriiro",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.25085,
+          9.97824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Xudun",
+        "Town_Village": "Xudun",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.475393,
+          9.154231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Xudun",
+        "Town_Village": "Xudun",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.475393,
+          9.154231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Bakool",
+        "district": "Xudur",
+        "Town_Village": "Xudur",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.890121,
+          4.12303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Xuseen Xamar",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.541093,
+          8.805202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Yaaqshiid",
+        "Town_Village": "Yaaqshiid",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.386705,
+          2.054181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Banadir",
+        "district": "Mogadishu/Yaaqshiid",
+        "Town_Village": "Yaaqshiid",
+        "site_type": "MCHN",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.386705,
+          2.054181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Middle Shabelle",
+        "district": "Balcad",
+        "Town_Village": "Yaq-Goley",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.61615,
+          2.33455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Sool",
+        "district": "Taleex",
+        "Town_Village": "Yibaal",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.89067,
+          8.99713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Nugaal",
+        "district": "Burtinle",
+        "Town_Village": "Yoonbays",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.00603,
+          8.01889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "partner": "WFP",
+        "region": "Togdheer",
+        "district": "Burco",
+        "Town_Village": "Yucub Yabooh",
+        "site_type": "TSFP",
+        "": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.52818,
+          8.49405
+        ]
+      }
+    }
+  ]
+}

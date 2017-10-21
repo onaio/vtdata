@@ -1,0 +1,155 @@
+district_id,district,indicator,period,output,instalments,partner,irf_code,target,reached,percent_target,ratio_instalment
+R1720070,Afgooye,persons provided with UCTs,March,5,3,NRC/ ACF,IRF 4b/ IRF 4c,9800,9800,100,3 out of 5 payments completed
+R1720074,Aliyow Munim,persons provided with UCTs,March,5,3,DRC/ SCI,IRF 4b/ IRF 4c,116625,84125,72,3 out of 5 payments completed
+R1720079,Belet Weyne,persons provided with UCTs,March,5,4,SCI,IRF 4c,29680,24114,81,4 out of 5 payments completed
+R1720080,Belet Xaawo,persons provided with UCTs,March,5,3,NRC/ CWW,IRF 4b/ IRF 4c,15932,15932,100,3 out of 5 payments completed
+R1720083,Bossaso,persons provided with UCTs,March,5,2,DRC,IRF 4c,7000,0,0,2 out of 5 payments completed
+R1720086,Burco,persons provided with UCTs,March,5,5,ACF/ CWW,IRF 4b/ IRF 4c,6300,6729,107,5 out of 5 payments completed
+R1720094,Caynabo,persons provided with UCTs,March,5,3,DRC/ NRC,IRF 4b/ IRF 4c,11550,3567,31,3 out of 5 payments completed
+R1720095,Ceel Afweyn,persons provided with UCTs,March,5,3,SCI/ ACF,IRF 4b/ IRF 4c,9597,9615,100,3 out of 5 payments completed
+R1720096,Ceel Barde,persons provided with UCTs,March,5,2,Cesvi,IRF 4b,11900,11900,100,2 out of 5 payments completed
+R1720098,Ceel Dheer,persons provided with UCTs,March,5,4,NRC,IRF 4c,1890,1890,100,4 out of 5 payments completed
+R1720099,Badhan,persons provided with UCTs,March,5,4,SCI/ DRC/ NRC,IRF 4b/ IRF 4c,20762,5085,24,4 out of 5 payments completed
+R1720102,Doolow,persons provided with UCTs,March,5,4,NRC,IRF 4b,2100,2100,100,4 out of 5 payments completed
+R1720103,Ceel Waaq,persons provided with UCTs,March,5,3,SCI,IRF 4c,3080,3080,100,3 out of 5 payments completed
+R1720104,Eyl,persons provided with UCTs,March,5,3,ACF,IRF 4b,8694,3170,36,3 out of 5 payments completed
+R1720107,Gaalkacyo,persons provided with UCTs,March,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,27160,0,0,3 out of 5 payments completed
+R1720109,Dangorayo,persons provided with UCTs,March,5,3,Cesvi/ ACF,IRF 4c,1812,1710,94,3 out of 5 payments completed
+R1720111,Hobyo,persons provided with UCTs,March,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,17570,0,0,3 out of 5 payments completed
+R1720112,Iskushuban,persons provided with UCTs,March,5,5,SCI,IRF 4c,1350,1380,102,5 out of 5 payments completed
+R1720115,Jariiban,persons provided with UCTs,March,5,3,SCI,IRF 4c,3150,0,0,3 out of 5 payments completed
+R1720120,Bo'ame,persons provided with UCTs,March,5,4,SCI/ ACF,IRF 4b,13951,7352,53,4 out of 5 payments completed
+R1720121,Laasqoray,persons provided with UCTs,March,5,3,DRC,IRF 4c,4193,0,0,3 out of 5 payments completed
+R1720125,Banadir,persons provided with UCTs,March,5,2,SCI,IRF 4c,10262,0,0,2 out of 5 payments completed
+R1720129,Qardho,persons provided with UCTs,March,5,3,SCI/ CWW,IRF 4b/ IRF 4c,17682,13492,76,3 out of 5 payments completed
+R1720131,Rab Dhuure,persons provided with UCTs,March,5,3,SCI,IRF 4c,7000,0,0,3 out of 5 payments completed
+R1720137,Waajid,persons provided with UCTs,March,5,1,SCI/ IRC,IRF 4b/ IRF 4c,14000,7000,50,1 out of 5 payments completed
+R1720140,Xudun,persons provided with UCTs,March,5,1,NRC,IRF 4c,2100,2100,100,1 out of 5 payments completed
+R1720141,Aboore,persons provided with UCTs,March,5,3,SCI,IRF 4b/ IRF 4c,24500,24500,100,3 out of 5 payments completed
+R1720144,Cabdlcasiis,persons provided with UCTs,March,5,2,SCI,IRF 4c,1540,0,0,2 out of 5 payments completed
+R1720145,Daynile,persons provided with UCTs,March,5,3,CWW,IRF 4c,23520,23520,100,3 out of 5 payments completed
+R1720149,Hodan,persons provided with UCTs,March,5,2,NRC,IRF 4b,7000,0,0,2 out of 5 payments completed
+R1720070,Afgooye,persons provided with UCTs,April,5,3,NRC/ ACF,IRF 4b/ IRF 4c,9800,9800,100,3 out of 5 payments completed
+R1720074,Aliyow Munim,persons provided with UCTs,April,5,3,DRC/ SCI,IRF 4b/ IRF 4c,116625,115936,99,3 out of 5 payments completed
+R1720079,Belet Weyne,persons provided with UCTs,April,5,4,SCI,IRF 4c,29680,31954,108,4 out of 5 payments completed
+R1720080,Belet Xaawo,persons provided with UCTs,April,5,3,NRC/ CWW,IRF 4b/ IRF 4c,15932,15932,100,3 out of 5 payments completed
+R1720083,Bossaso,persons provided with UCTs,April,5,2,DRC,IRF 4c,7000,6300,90,2 out of 5 payments completed
+R1720086,Burco,persons provided with UCTs,April,5,5,ACF/ CWW,IRF 4b/ IRF 4c,6300,6729,107,5 out of 5 payments completed
+R1720094,Caynabo,persons provided with UCTs,April,5,3,DRC/ NRC,IRF 4b/ IRF 4c,11550,11367,98,3 out of 5 payments completed
+R1720095,Ceel Afweyn,persons provided with UCTs,April,5,3,SCI/ ACF,IRF 4b/ IRF 4c,9597,9615,100,3 out of 5 payments completed
+R1720096,Ceel Barde,persons provided with UCTs,April,5,2,Cesvi,IRF 4b,11900,11900,100,2 out of 5 payments completed
+R1720098,Ceel Dheer,persons provided with UCTs,April,5,4,NRC,IRF 4c,1890,1890,100,4 out of 5 payments completed
+R1720099,Badhan,persons provided with UCTs,April,5,4,SCI/ DRC/ NRC,IRF 4b/ IRF 4c,20762,20692,100,4 out of 5 payments completed
+R1720102,Doolow,persons provided with UCTs,April,5,4,NRC,IRF 4b,2100,2100,100,4 out of 5 payments completed
+R1720103,Ceel Waaq,persons provided with UCTs,April,5,3,SCI,IRF 4c,3080,3080,100,3 out of 5 payments completed
+R1720104,Eyl,persons provided with UCTs,April,5,3,ACF,IRF 4b,8694,8694,100,3 out of 5 payments completed
+R1720107,Gaalkacyo,persons provided with UCTs,April,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,27160,20510,76,3 out of 5 payments completed
+R1720109,Dangorayo,persons provided with UCTs,April,5,3,Cesvi/ ACF,IRF 4c,1812,1710,94,3 out of 5 payments completed
+R1720111,Hobyo,persons provided with UCTs,April,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,17570,15830,90,3 out of 5 payments completed
+R1720112,Iskushuban,persons provided with UCTs,April,5,5,SCI,IRF 4c,1350,1380,102,5 out of 5 payments completed
+R1720115,Jariiban,persons provided with UCTs,April,5,3,SCI,IRF 4c,3150,3194,101,3 out of 5 payments completed
+R1720120,Bo'ame,persons provided with UCTs,April,5,4,SCI/ ACF,IRF 4b,13951,14690,105,4 out of 5 payments completed
+R1720121,Laasqoray,persons provided with UCTs,April,5,3,DRC,IRF 4c,4193,1750,42,3 out of 5 payments completed
+R1720125,Banadir,persons provided with UCTs,April,5,2,SCI,IRF 4c,10262,10262,100,2 out of 5 payments completed
+R1720129,Qardho,persons provided with UCTs,April,5,3,SCI/ CWW,IRF 4b/ IRF 4c,17682,17682,100,3 out of 5 payments completed
+R1720131,Rab Dhuure,persons provided with UCTs,April,5,3,SCI,IRF 4c,7000,7000,100,3 out of 5 payments completed
+R1720137,Waajid,persons provided with UCTs,April,5,1,SCI/ IRC,IRF 4b/ IRF 4c,14000,14000,100,1 out of 5 payments completed
+R1720140,Xudun,persons provided with UCTs,April,5,1,NRC,IRF 4c,2100,2100,100,1 out of 5 payments completed
+R1720141,Aboore,persons provided with UCTs,April,5,3,SCI,IRF 4b/ IRF 4c,24500,24500,100,3 out of 5 payments completed
+R1720144,Cabdlcasiis,persons provided with UCTs,April,5,2,SCI,IRF 4c,1540,1540,100,2 out of 5 payments completed
+R1720145,Daynile,persons provided with UCTs,April,5,3,CWW,IRF 4c,23520,23520,100,3 out of 5 payments completed
+R1720149,Hodan,persons provided with UCTs,April,5,2,NRC,IRF 4b,7000,7000,100,2 out of 5 payments completed
+R1720070,Afgooye,persons provided with UCTs,May,5,3,NRC/ ACF,IRF 4b/ IRF 4c,9800,9800,100,3 out of 5 payments completed
+R1720074,Aliyow Munim,persons provided with UCTs,May,5,3,DRC/ SCI,IRF 4b/ IRF 4c,116625,119125,102,3 out of 5 payments completed
+R1720079,Belet Weyne,persons provided with UCTs,May,5,4,SCI,IRF 4c,29680,31954,108,4 out of 5 payments completed
+R1720080,Belet Xaawo,persons provided with UCTs,May,5,3,NRC/ CWW,IRF 4b/ IRF 4c,15932,15931,100,3 out of 5 payments completed
+R1720083,Bossaso,persons provided with UCTs,May,5,2,DRC,IRF 4c,7000,6300,90,2 out of 5 payments completed
+R1720086,Burco,persons provided with UCTs,May,5,5,ACF/ CWW,IRF 4b/ IRF 4c,6300,6729,107,5 out of 5 payments completed
+R1720094,Caynabo,persons provided with UCTs,May,5,3,DRC/ NRC,IRF 4b/ IRF 4c,11550,11367,98,3 out of 5 payments completed
+R1720095,Ceel Afweyn,persons provided with UCTs,May,5,3,SCI/ ACF,IRF 4b/ IRF 4c,9597,9615,100,3 out of 5 payments completed
+R1720096,Ceel Barde,persons provided with UCTs,May,5,2,Cesvi,IRF 4b,11900,11900,100,2 out of 5 payments completed
+R1720098,Ceel Dheer,persons provided with UCTs,May,5,4,NRC,IRF 4c,1890,1890,100,4 out of 5 payments completed
+R1720099,Badhan,persons provided with UCTs,May,5,4,SCI/ DRC/ NRC,IRF 4b/ IRF 4c,20762,20692,100,4 out of 5 payments completed
+R1720102,Doolow,persons provided with UCTs,May,5,4,NRC,IRF 4b,2100,2100,100,4 out of 5 payments completed
+R1720103,Ceel Waaq,persons provided with UCTs,May,5,3,SCI,IRF 4c,3080,3080,100,3 out of 5 payments completed
+R1720104,Eyl,persons provided with UCTs,May,5,3,ACF,IRF 4b,8694,8694,100,3 out of 5 payments completed
+R1720107,Gaalkacyo,persons provided with UCTs,May,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,27160,27160,100,3 out of 5 payments completed
+R1720109,Dangorayo,persons provided with UCTs,May,5,3,Cesvi/ ACF,IRF 4c,1812,1710,94,3 out of 5 payments completed
+R1720111,Hobyo,persons provided with UCTs,May,5,3,DRC/ SCI/ Cesvi,IRF 4b/ IRF 4c,17570,17580,100,3 out of 5 payments completed
+R1720112,Iskushuban,persons provided with UCTs,May,5,5,SCI,IRF 4c,1350,1380,102,5 out of 5 payments completed
+R1720115,Jariiban,persons provided with UCTs,May,5,3,SCI,IRF 4c,3150,3194,101,3 out of 5 payments completed
+R1720120,Bo'ame,persons provided with UCTs,May,5,4,SCI/ ACF,IRF 4b,13951,14690,105,4 out of 5 payments completed
+R1720121,Laasqoray,persons provided with UCTs,May,5,3,DRC,IRF 4c,4193,4193,100,3 out of 5 payments completed
+R1720125,Banadir,persons provided with UCTs,May,5,2,SCI,IRF 4c,10262,10262,100,2 out of 5 payments completed
+R1720129,Qardho,persons provided with UCTs,May,5,3,SCI/ CWW,IRF 4b/ IRF 4c,17682,17682,100,3 out of 5 payments completed
+R1720131,Rab Dhuure,persons provided with UCTs,May,5,3,SCI,IRF 4c,7000,7000,100,3 out of 5 payments completed
+R1720137,Waajid,persons provided with UCTs,May,5,1,SCI/ IRC,IRF 4b/ IRF 4c,14000,14010,100,1 out of 5 payments completed
+R1720140,Xudun,persons provided with UCTs,May,5,1,NRC,IRF 4c,2100,2100,100,1 out of 5 payments completed
+R1720141,Aboore,persons provided with UCTs,May,5,3,SCI,IRF 4b/ IRF 4c,24500,24500,100,3 out of 5 payments completed
+R1720144,Cabdlcasiis,persons provided with UCTs,May,5,2,SCI,IRF 4c,1540,1540,100,2 out of 5 payments completed
+R1720145,Daynile,persons provided with UCTs,May,5,3,CWW,IRF 4c,23520,23520,100,3 out of 5 payments completed
+R1720149,Hodan,persons provided with UCTs,May,5,2,NRC,IRF 4b,7000,7000,100,2 out of 5 payments completed
+R1720070,Afgooye,persons provided with UCTs,June,5,3,CWW,IRF 4c/ 4b,9800,9800,100,3 out of 5 payments completed
+R1720074,Baidoa,persons provided with UCTs,June,5,4,DRC/ CWW/ NRC/ SCI,IRF 4c/ 4b,116625,119125,102,4 out of 5 payments completed
+R1720079,Belet Weyne,persons provided with UCTs,June,5,4,Cesvi/ SCI,IRF 4c/ 4b,29680,31954,108,4 out of 5 payments completed
+R1720080,Belet Xaawo,persons provided with UCTs,June,5,3,CWW,IRF 4c/ 4b,15932,15838,99,3 out of 5 payments completed
+R1720083,Bossaso,persons provided with UCTs,June,5,3,DRC,IRF 4c,7000,6300,90,3 out of 5 payments completed
+R1720086,Burco,persons provided with UCTs,June,5,3,CWW/ SCI,IRF 4b,6300,6729,107,3 out of 5 payments completed
+R1720094,Caynabo,persons provided with UCTs,June,5,3,NRC/ SCI,IRF 4c/ 4b,11550,11367,98,3 out of 5 payments completed
+R1720095,Hingalol,persons provided with UCTs,June,5,4,IRC/ NRC/ SCI,IRF 4c/ 4b,9597,9615,100,4 out of 5 payments completed
+R1720096,Ceel Barde,persons provided with UCTs,June,5,2,ACF,IRF 4c,11900,11900,100,2 out of 5 payments completed
+R1720098,Guriceel,persons provided with UCTs,June,5,4,NRC,IRF 4b,1890,1890,100,4 out of 5 payments completed
+R1720099,Badhan,persons provided with UCTs,June,5,4,ACF/ DRC/ IRC/ NRC/ SCI,IRF 4c/ 4b,20762,20692,100,4 out of 5 payments completed
+R1720102,Doolow,persons provided with UCTs,June,5,4,NRC,IRF 4b,2100,2100,100,4 out of 5 payments completed
+R1720103,Ceel waaq,persons provided with UCTs,June,5,3,CWW,IRF 4c,3080,3080,100,3 out of 5 payments completed
+R1720104,Eyl,persons provided with UCTs,June,5,4,ACF/ CWW/ NRC,IRF 4c/ 4b,8694,8694,100,4 out of 5 payments completed
+R1720107,Gaalkacyo,persons provided with UCTs,June,5,4,Cesvi/ IRC,IRF 4c/ 4b,27160,27160,100,4 out of 5 payments completed
+R1720109,Dangorayo,persons provided with UCTs,June,5,N/A,NRC/ SCI,IRF 4b,1812,1710,94,N/A out of 5 payments completed
+R1720111,Hobyo,persons provided with UCTs,June,5,4,IRC/ Cesvi,IRF 4c/ 4b,17570,17580,100,4 out of 5 payments completed
+R1720112,Iskushuban,persons provided with UCTs,June,5,N/A,SCI,IRF 4b,1350,1380,102,N/A out of 5 payments completed
+R1720115,Jariiban,persons provided with UCTs,June,5,3,IRC,IRF 4c,3150,3194,101,3 out of 5 payments completed
+R1720120,Laas Caanood,persons provided with UCTs,June,5,4,IRC/ NRC/ SCI,IRF 4c,13951,14690,105,4 out of 5 payments completed
+R1720121,Laasqoray,persons provided with UCTs,June,5,3,DRC,IRF 4c,4193,4193,100,3 out of 5 payments completed
+R1720125,Kaxda,persons provided with UCTs,June,5,2,ACF,IRF 4c,10262,10262,100,2 out of 5 payments completed
+R1720129,Rako Raaxo,persons provided with UCTs,June,5,3,ACF/ DRC/ IRC/ NRC,IRF 4c/ 4b,17682,17682,100,3 out of 5 payments completed
+R1720131,Rab Dhuure,persons provided with UCTs,June,5,3,ACF,IRF 4c,7000,7000,100,3 out of 5 payments completed
+R1720137,Waajid,persons provided with UCTs,June,5,1,ACF,IRF 4c/ 4b,14000,14010,100,1 out of 5 payments completed
+R1720138,Wanla Weyn,persons provided with UCTs,June,5,3,CWW,IRF 4b,1400,1512,108,3 out of 5 payments completed
+R1720140,Xudun,persons provided with UCTs,June,5,1,IRC,IRF 4b,2100,2100,100,1 out of 5 payments completed
+R1720141,Xudur,persons provided with UCTs,June,5,3,ACF/ CWW/ IRC/ NRC,IRF 4c,24500,24500,100,3 out of 5 payments completed
+R1720142,Zeylac,persons provided with UCTs,June,5,3,CWW,IRF 4b,2800,2800,100,3 out of 5 payments completed
+R1720144,Cabdlcasiis,persons provided with UCTs,June,5,2,ACF,IRF 4c,1540,1540,100,2 out of 5 payments completed
+R1720145,Daynile,persons provided with UCTs,June,5,3,CWW,IRF 4c,23520,23520,100,3 out of 5 payments completed
+R1720149,Hodan,persons provided with UCTs,June,5,2,ACF,IRF 4c,7000,7000,100,2 out of 5 payments completed
+R1720070,Afgooye,persons provided with UCTs,July,5,3,CWW,IRF 4c/ 4b,9800,9800,100,3 out of 5 payments completed
+R1720074,Baidoa,persons provided with UCTs,July,5,4,DRC/ CWW/ NRC/ SCI,IRF 4c/ 4b,116625,119125,102,4 out of 5 payments completed
+R1720079,Belet weyne,persons provided with UCTs,July,5,4,Cesvi/ SCI,IRF 4c/ 4b,29680,31954,108,4 out of 5 payments completed
+R1720080,Belet Xaawo,persons provided with UCTs,July,5,3,CWW,IRF 4c/ 4b,15932,15838,99,3 out of 5 payments completed
+R1720083,Bossaso,persons provided with UCTs,July,5,3,DRC,IRF 4c,7000,7000,100,3 out of 5 payments completed
+R1720086,Burco,persons provided with UCTs,July,5,3,CWW/ SCI,IRF 4b,6300,6729,107,3 out of 5 payments completed
+R1720094,Caynabo,persons provided with UCTs,July,5,3,NRC/ SCI,IRF 4c/ 4b,11550,11367,98,3 out of 5 payments completed
+R1720095,Hingalol,persons provided with UCTs,July,5,4,IRC/ NRC/ SCI,IRF 4c/ 4b,9597,9615,100,4 out of 5 payments completed
+R1720096,Ceel Barde,persons provided with UCTs,July,5,2,ACF,IRF 4c,11900,11900,100,2 out of 5 payments completed
+R1720098,Guriceel,persons provided with UCTs,July,5,4,NRC,IRF 4b,1890,1890,100,4 out of 5 payments completed
+R1720099,Badhan,persons provided with UCTs,July,5,4,ACF/ DRC/ IRC/ NRC/ SCI,IRF 4c/ 4b,20762,20692,100,4 out of 5 payments completed
+R1720102,Doolow,persons provided with UCTs,July,5,4,NRC,IRF 4b,2100,2100,100,4 out of 5 payments completed
+R1720103,Ceel waaq,persons provided with UCTs,July,5,3,CWW,IRF 4c,3080,3080,100,3 out of 5 payments completed
+R1720104,Eyl,persons provided with UCTs,July,5,4,ACF/ CWW/ NRC,IRF 4c/ 4b,8694,8694,100,4 out of 5 payments completed
+R1720107,Gaalkacyo,persons provided with UCTs,July,5,4,Cesvi/ IRC,IRF 4c/ 4b,27160,27160,100,4 out of 5 payments completed
+R1720109,Dangorayo,persons provided with UCTs,July,5,N/A,NRC/ SCI,IRF 4b,1812,1710,94,N/A out of 5 payments completed
+R1720111,Hobyo,persons provided with UCTs,July,5,4,IRC/ Cesvi,IRF 4c/ 4b,17570,17580,100,4 out of 5 payments completed
+R1720112,Iskushuban,persons provided with UCTs,July,5,N/A,SCI,IRF 4b,1350,1380,102,N/A out of 5 payments completed
+R1720115,Jariiban,persons provided with UCTs,July,5,3,IRC,IRF 4c,3150,3194,101,3 out of 5 payments completed
+R1720120,Laas Caanood,persons provided with UCTs,July,5,4,IRC/ NRC/ SCI,IRF 4c,13951,14690,105,4 out of 5 payments completed
+R1720121,Laasqoray,persons provided with UCTs,July,5,3,DRC,IRF 4c,4193,4193,100,3 out of 5 payments completed
+R1720125,Kaxda,persons provided with UCTs,July,5,2,ACF,IRF 4c,10262,10262,100,2 out of 5 payments completed
+R1720129,Rako Raaxo,persons provided with UCTs,July,5,3,ACF/ DRC/ IRC/ NRC,IRF 4c/ 4b,17682,17682,100,3 out of 5 payments completed
+R1720131,Rab Dhuure,persons provided with UCTs,July,5,3,ACF,IRF 4c,7000,7000,100,3 out of 5 payments completed
+R1720137,Waajid,persons provided with UCTs,July,5,1,ACF,IRF 4c/ 4b,14000,14010,100,1 out of 5 payments completed
+R1720138,Wanla Weyn,persons provided with UCTs,July,5,3,CWW,IRF 4b,1400,1512,108,3 out of 5 payments completed
+R1720140,Xudun,persons provided with UCTs,July,5,1,IRC,IRF 4b,2100,2100,100,1 out of 5 payments completed
+R1720141,Xudur,persons provided with UCTs,July,5,3,ACF/ CWW/ IRC/ NRC,IRF 4c,24500,24500,100,3 out of 5 payments completed
+R1720142,Zeylac,persons provided with UCTs,July,5,3,CWW,IRF 4b,2800,2800,100,3 out of 5 payments completed
+R1720144,Cabdlcasiis,persons provided with UCTs,July,5,2,ACF,IRF 4c,1540,1540,100,2 out of 5 payments completed
+R1720145,Daynile,persons provided with UCTs,July,5,3,CWW,IRF 4c,23520,23520,100,3 out of 5 payments completed
+R1720149,Hodan,persons provided with UCTs,July,5,2,ACF,IRF 4c,7000,7000,100,2 out of 5 payments completed

@@ -1,0 +1,73 @@
+region_id,region,period,value,endyear_target,percent_target
+R1720056,Galgaduud,January,0,10506,0
+R1720063,Mudug,January,0,13772,0
+R1720058,Hiraan,January,0,21426,0
+R1720062,Shabelle Dhexe,January,0,7824,0
+R1720057,Gedo,January,0,20045,0
+R1720059,Juba Hoose,January,0,10074,0
+R1720061,Juba Dhexe,January,0,0,0
+R1720053,Banadir,January,0,14781,0
+R1720054,Bari,January,0,16228,0
+R1720064,Nugaal,January,0,11374,0
+R1720065,Sanaag,January,0,15649,0
+R1720066,Sool,January,0,13586,0
+R1720051,Awdal,January,0,12233,0
+R1720067,Togdheer,January,0,14131,0
+R1720068,Woqooyi Galbeed,January,0,2989,0
+R1720052,Bakool,January,0,9667,0
+R1720055,Bay,January,0,20264,0
+R1720060,Shabelle Hoose,January,0,9374,0
+R1720056,Galgaduud,February,0,10506,0
+R1720063,Mudug,February,0,13772,0
+R1720058,Hiraan,February,0,21426,0
+R1720062,Shabelle Dhexe,February,0,7824,0
+R1720057,Gedo,February,0,20045,0
+R1720059,Juba Hoose,February,0,10074,0
+R1720061,Juba Dhexe,February,0,0,0
+R1720053,Banadir,February,0,14781,0
+R1720054,Bari,February,0,16228,0
+R1720064,Nugaal,February,0,11374,0
+R1720065,Sanaag,February,0,15649,0
+R1720066,Sool,February,0,13586,0
+R1720051,Awdal,February,0,12233,0
+R1720067,Togdheer,February,0,14131,0
+R1720068,Woqooyi Galbeed,February,0,2989,0
+R1720052,Bakool,February,0,9667,0
+R1720055,Bay,February,0,20264,0
+R1720060,Shabelle Hoose,February,0,9374,0
+R1720056,Galgaduud,March,0,10506,0
+R1720063,Mudug,March,10500,13335,79
+R1720058,Hiraan,March,9071,21426,42
+R1720062,Shabelle Dhexe,March,4120,7824,53
+R1720057,Gedo,March,24323,20045,121
+R1720059,Juba Hoose,March,2000,10074,20
+R1720061,Juba Dhexe,March,0,0,0
+R1720053,Banadir,March,0,14781,0
+R1720054,Bari,March,1153,16228,7
+R1720064,Nugaal,March,4612,11374,41
+R1720065,Sanaag,March,0,15649,0
+R1720066,Sool,March,0,9604,0
+R1720051,Awdal,March,0,12233,0
+R1720067,Togdheer,March,0,14131,0
+R1720068,Woqooyi Galbeed,March,0,2989,0
+R1720052,Bakool,March,410,9667,4
+R1720055,Bay,March,7584,20264,37
+R1720060,Shabelle Hoose,March,0,9374,0
+R1720056,Galgaduud,April,0,10506,0
+R1720063,Mudug,April,10500,6485,162
+R1720058,Hiraan,April,9071,21426,42
+R1720062,Shabelle Dhexe,April,4120,7824,53
+R1720057,Gedo,April,24323,20045,121
+R1720059,Juba Hoose,April,3287,10074,33
+R1720061,Juba Dhexe,April,0,0,0
+R1720053,Banadir,April,410,14781,3
+R1720054,Bari,April,1153,16228,7
+R1720064,Nugaal,April,1176,11374,10
+R1720065,Sanaag,April,0,12587,0
+R1720066,Sool,April,1989,11818,17
+R1720051,Awdal,April,1646,12233,13
+R1720067,Togdheer,April,596,14131,4
+R1720068,Woqooyi Galbeed,April,2116,2989,71
+R1720052,Bakool,April,760,9667,8
+R1720055,Bay,April,7421,20264,37
+R1720060,Shabelle Hoose,April,1319,9374,14

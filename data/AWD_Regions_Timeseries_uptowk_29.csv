@@ -1,0 +1,347 @@
+region,region_id,Live,Dead,CFR,period
+Banadir,R1720053,155,6,3.7,Week 1
+Bay,R1720055,261,4,1.5,Week 1
+Hiraan,R1720058,91,2,2.2,Week 1
+Lower Shabelle,R1720060,52,0,0,Week 1
+Middle Shabelle,R1720062,70,2,2.8,Week 1
+Banadir,R1720053,145,7,4.6,Week 2
+Bay,R1720055,327,4,1.2,Week 2
+Hiraan,R1720058,64,0,0,Week 2
+Lower Shabelle,R1720060,77,1,1.3,Week 2
+Middle Shabelle,R1720062,64,0,0,Week 2
+Banadir,R1720053,144,7,4.6,Week 3
+Bay,R1720055,463,4,0.9,Week 3
+Hiraan,R1720058,37,0,0,Week 3
+Lower Shabelle,R1720060,198,1,0.5,Week 3
+Middle Shabelle,R1720062,88,1,1.1,Week 3
+Banadir,R1720053,130,4,3,Week 4
+Bari,R1720054,31,0,0,Week 4
+Bay,R1720055,392,11,2.7,Week 4
+Hiraan,R1720058,28,0,0,Week 4
+Lower Jubba,R1720059,0,0,0,Week 4
+Lower Shebelle,R1720060,125,0,0,Week 4
+Middle Shabelle,R1720062,95,0,0,Week 4
+Mudug,R1720063,76,0,0,Week 4
+Banadir,R1720053,109,3,2.7,Week 5
+Bari,R1720054,28,0,0,Week 5
+Bay,R1720055,460,3,0.6,Week 5
+Hiraan,R1720058,35,1,2.8,Week 5
+Lower Jubba,R1720059,33,0,0,Week 5
+Lower Shebelle,R1720060,99,1,1,Week 5
+Middle Shabelle,R1720062,106,2,1.9,Week 5
+Mudug,R1720063,43,0,0,Week 5
+Banadir,R1720053,109,0,0,Week 6
+Bari,R1720054,31,0,0,Week 6
+Bay,R1720055,423,4,0.9,Week 6
+Hiraan,R1720058,18,0,0,Week 6
+Lower Jubba,R1720059,72,1,1.4,Week 6
+Lower Shebelle,R1720060,74,1,1.3,Week 6
+Middle Shabelle,R1720062,107,3,2.7,Week 6
+Mudug,R1720063,20,0,0,Week 6
+Bakool,R1720052,212,36,14.5,Week 7
+Banadir,R1720053,169,1,0.6,Week 7
+Bari,R1720054,74,3,3.9,Week 7
+Bay,R1720055,657,21,3.1,Week 7
+Hiraan,R1720058,14,0,0,Week 7
+Juba Hoose,R1720059,72,1,1.4,Week 7
+Shabelle Hoose,R1720060,67,1,1.5,Week 7
+Shabelle Dhexe,R1720062,83,0,0,Week 7
+Mudug,R1720063,5,0,0,Week 7
+Nugaal,R1720064,149,16,9.7,Week 7
+Bakool,R1720052,167,18,9.7,Week 8
+Banadir,R1720053,191,1,0.5,Week 8
+Bari,R1720054,18,0,0,Week 8
+Bay,R1720055,429,9,2.1,Week 8
+Gedo,R1720057,39,1,2.5,Week 8
+Hiraan,R1720058,8,0,0,Week 8
+Juba Hoose,R1720059,52,1,1.9,Week 8
+Shabelle Hoose,R1720060,80,1,1.2,Week 8
+Shabelle Dhexe,R1720062,76,0,0,Week 8
+Mudug,R1720063,4,0,0,Week 8
+Nugaal,R1720064,288,7,2.4,Week 8
+Bakool,R1720052,235,17,6.7,Week 9
+Banadir,R1720053,198,5,2.5,Week 9
+Bari,R1720054,19,1,5,Week 9
+Bay,R1720055,694,14,2,Week 9
+Gedo,R1720057,131,3,2.2,Week 9
+Hiraan,R1720058,0,0,0,Week 9
+Juba Hoose,R1720059,74,0,0,Week 9
+Shabelle Hoose,R1720060,250,5,2,Week 9
+Shabelle Dhexe,R1720062,68,2,2.9,Week 9
+Mudug,R1720063,0,0,0,Week 9
+Nugaal,R1720064,170,1,0.6,Week 9
+Bakool,R1720052,52,1,1.9,Week 10
+Banadir,R1720053,26,0,0,Week 10
+Bay,R1720055,153,3,1.9,Week 10
+Galgadud,R1720056,14,0,0,Week 10
+Gedo,R1720057,56,3,5.1,Week 10
+Hiran,R1720058,0,0,0,Week 10
+Lower Juba,R1720059,7,0,0,Week 10
+Lower Shabelle,R1720060,30,1,3.2,Week 10
+Middle Shabelle,R1720062,17,0,0,Week 10
+Bakool,R1720052,190,5,2.6,Week 11
+Banadir,R1720053,63,1,1.6,Week 11
+Bay,R1720055,451,14,3,Week 11
+Galgadud,R1720056,4,0,0,Week 11
+Gedo,R1720057,197,9,4.4,Week 11
+Hiran,R1720058,0,0,0,Week 11
+Lower Juba,R1720059,17,0,0,Week 11
+Lower Shabelle,R1720060,55,0,0,Week 11
+Middle Juba,R1720061,168,24,12.5,Week 11
+Middle Shabelle,R1720062,27,2,6.9,Week 11
+Bakool,R1720052,581,11,1.9,Week 12
+Banadir,R1720053,153,5,3.2,Week 12
+Bari,R1720054,33,0,0,Week 12
+Bay,R1720055,1479,35,2.3,Week 12
+Galgadud,R1720056,0,0,0,Week 12
+Gedo,R1720057,526,12,2.2,Week 12
+Hiran,R1720058,0,0,0,Week 12
+Lower Juba,R1720059,96,2,2,Week 12
+Lower Shabelle,R1720060,330,1,0.3,Week 12
+Middle Shabelle,R1720062,113,3,2.6,Week 12
+Mudug,R1720063,31,1,3.1,Week 12
+Nugaal,R1720064,57,0,0,Week 12
+Ayn,R1720067,0,0,0,Week 12
+Bakool,R1720052,323,128,28.4,Week 13
+Banadir,R1720053,2026,45,2.2,Week 13
+Bari,R1720054,17,4,19,Week 13
+Bay,R1720055,1329,172,11.5,Week 13
+Galgadud,R1720056,0,5,100,Week 13
+Gedo,R1720057,593,39,6.2,Week 13
+Hiran,R1720058,0,3,100,Week 13
+Lower Juba,R1720059,66,6,8.3,Week 13
+Lower Shabelle,R1720060,417,33,7.3,Week 13
+Middle Shabelle,R1720062,142,15,9.6,Week 13
+Mudug,R1720063,22,4,15.4,Week 13
+Nugaal,R1720064,126,25,16.6,Week 13
+Ayn,R1720067,88,13,12.9,Week 13
+Bakool,R1720052,290,6,2,Week 14
+Banadir,R1720053,167,4,2.3,Week 14
+Bari,R1720054,12,0,0,Week 14
+Bay,R1720055,1041,8,0.8,Week 14
+Galgadud,R1720056,0,0,0,Week 14
+Gedo,R1720057,728,7,1,Week 14
+Hiran,R1720058,0,0,0,Week 14
+Lower Juba,R1720059,61,0,0,Week 14
+Lower Shabelle,R1720060,460,3,0.6,Week 14
+Middle Shabelle,R1720062,114,0,0,Week 14
+Mudug,R1720063,41,0,0,Week 14
+Nugaal,R1720064,101,0,0,Week 14
+Ayn,R1720067,113,4,3.4,Week 14
+Bakool,R1720052,215,3,1.4,Week 15
+Banadir,R1720053,160,2,1.2,Week 15
+Bari,R1720054,26,0,0,Week 15
+Bay,R1720055,1094,13,1.2,Week 15
+Galgadud,R1720056,285,0,0,Week 15
+Gedo,R1720057,460,3,0.6,Week 15
+Hiran,R1720058,4,0,0,Week 15
+Lower Juba,R1720059,61,1,1.6,Week 15
+Lower Shabelle,R1720060,344,6,1.7,Week 15
+Middle Shabelle,R1720062,122,0,0,Week 15
+Mudug,R1720063,16,0,0,Week 15
+Nugaal,R1720064,63,4,6,Week 15
+Ayn,R1720067,134,2,1.5,Week 15
+Bakool,R1720052,175,12,6.4,Week 16
+Banadir,R1720053,176,4,2.2,Week 16
+Bari,R1720054,37,4,9.8,Week 16
+Bay,R1720055,926,12,1.3,Week 16
+Galgadud,R1720056,221,1,0.5,Week 16
+Gedo,R1720057,348,1,0.3,Week 16
+Hiran,R1720058,6,0,0,Week 16
+Lower Juba,R1720059,72,1,1.4,Week 16
+Lower Shabelle,R1720060,292,6,2,Week 16
+Middle Shabelle,R1720062,71,1,1.4,Week 16
+Mudug,R1720063,163,0,0,Week 16
+Nugaal,R1720064,89,0,0,Week 16
+Ayn,R1720067,780,18,2.3,Week 16
+Bakool,R1720052,131,2,1.5,Week 17
+Banadir,R1720053,209,2,0.9,Week 17
+Bari,R1720054,94,1,1.1,Week 17
+Bay,R1720055,512,4,0.8,Week 17
+Galgaduud,R1720056,696,9,1.3,Week 17
+Gedo,R1720057,235,2,0.8,Week 17
+Hiraan,R1720058,4,0,0,Week 17
+Juba Hoose,R1720059,105,0,0,Week 17
+Shabelle Hoose,R1720060,291,1,0.3,Week 17
+Shabelle Dhexe,R1720062,114,0,0,Week 17
+Mudug,R1720063,86,0,0,Week 17
+Nugaal,R1720064,101,1,1,Week 17
+Ayn,R1720067,897,21,2.3,Week 17
+Bakool,R1720052,85,1,1.2,Week 18
+Banadir,R1720053,309,6,1.9,Week 18
+Karkaar,R1720054,96,0,0,Week 18
+Bay,R1720055,480,1,0.2,Week 18
+Galgaduud,R1720056,302,0,0,Week 18
+Gedo,R1720057,228,0,0,Week 18
+Hiraan,R1720058,1,0,0,Week 18
+Juba Hoose,R1720059,189,2,1,Week 18
+Shabelle Hoose,R1720060,223,3,1.3,Week 18
+Shabelle Dhexe,R1720062,84,1,1.2,Week 18
+Mudug,R1720063,58,0,0,Week 18
+Nugaal,R1720064,77,0,0,Week 18
+Sanaag,R1720065,39,2,4.9,Week 18
+Ayn,R1720067,520,6,1.1,Week 18
+Bakool,R1720052,55,0,0,Week 19
+Banadir,R1720053,327,0,0,Week 19
+Karkaar,R1720054,148,0,0,Week 19
+Bay,R1720055,528,1,0.2,Week 19
+Galgaduud,R1720056,172,0,0,Week 19
+Gedo,R1720057,274,0,0,Week 19
+Hiraan,R1720058,3,0,0,Week 19
+Juba Hoose,R1720059,105,1,0.9,Week 19
+Shabelle Hoose,R1720060,298,4,1.3,Week 19
+Shabelle Dhexe,R1720062,67,1,1.5,Week 19
+Mudug,R1720063,56,0,0,Week 19
+Nugaal,R1720064,91,2,2.2,Week 19
+Sanaag,R1720065,85,0,0,Week 19
+Ayn,R1720067,263,1,0.4,Week 19
+Bakol,R1720052,104,2,1.9,Week 20
+Banadir,R1720053,305,7,2.2,Week 20
+Bari,R1720054,102,1,1,Week 20
+Bay,R1720055,383,2,0.5,Week 20
+Galgaduud,R1720056,181,1,0.5,Week 20
+Gedo,R1720057,303,0,0,Week 20
+Hiraan,R1720058,0,0,0,Week 20
+Lower Juba,R1720059,134,0,0,Week 20
+Lower Shabelle,R1720060,127,0,0,Week 20
+Middle Shabelle,R1720062,0,0,0,Week 20
+Mudug,R1720063,99,0,0,Week 20
+Nugaal,R1720064,106,0,0,Week 20
+Sanaag,R1720065,107,3,2.7,Week 20
+Sool,R1720066,110,4,3.5,Week 20
+Ayn,R1720067,258,2,0.8,Week 20
+Bakol,R1720052,54,0,0,Week 21
+Banadir,R1720053,431,9,2,Week 21
+Bari,R1720054,111,0,0,Week 21
+Bay,R1720055,247,1,0.4,Week 21
+Galgaduud,R1720056,278,2,0.7,Week 21
+Gedo,R1720057,321,1,0.3,Week 21
+Hiraan,R1720058,8,0,0,Week 21
+Lower Juba,R1720059,215,1,0.5,Week 21
+Lower Shabelle,R1720060,263,2,0.8,Week 21
+Middle Shabelle,R1720062,187,3,1.6,Week 21
+Mudug,R1720063,120,0,0,Week 21
+Nugaal,R1720064,109,0,0,Week 21
+Sanaag,R1720065,103,2,1.9,Week 21
+Sool,R1720066,90,1,1.1,Week 21
+Ayn,R1720067,142,1,0.7,Week 21
+Bakol,R1720052,65,2,3,Week 22
+Banadir,R1720053,576,10,1.7,Week 22
+Bari,R1720054,168,0,0,Week 22
+Bay,R1720055,166,0,0,Week 22
+Galgaduud,R1720056,613,3,0.5,Week 22
+Gedo,R1720057,234,0,0,Week 22
+Hiraan,R1720058,8,0,0,Week 22
+Lower Juba,R1720059,224,0,0,Week 22
+Lower Shabelle,R1720060,272,0,0,Week 22
+Middle Shabelle,R1720062,73,1,1.4,Week 22
+Mudug,R1720063,184,4,2.1,Week 22
+Nugaal,R1720064,162,0,0,Week 22
+Sanaag,R1720065,149,3,2,Week 22
+Sool,R1720066,115,1,0.9,Week 22
+Ayn,R1720067,198,1,0.5,Week 22
+Bakol,R1720052,60,0,0,Week 23
+Banadir,R1720053,460,11,2.3,Week 23
+Bari,R1720054,178,0,0,Week 23
+Bay,R1720055,81,0,0,Week 23
+Galgaduud,R1720056,331,0,0,Week 23
+Gedo,R1720057,144,0,0,Week 23
+Hiraan,R1720058,7,0,0,Week 23
+Lower Juba,R1720059,178,3,1.7,Week 23
+Lower Shabelle,R1720060,201,2,1,Week 23
+Middle Shabelle,R1720062,63,0,0,Week 23
+Mudug,R1720063,205,1,0.5,Week 23
+Nugaal,R1720064,182,0,0,Week 23
+Sanaag,R1720065,127,1,0.8,Week 23
+Sool,R1720066,85,1,1.2,Week 23
+Ayn,R1720067,127,0,0,Week 23
+Bakol,R1720052,27,0,0,Week 24
+Banadir,R1720053,337,4,1.2,Week 24
+Bari,R1720054,159,0,0,Week 24
+Bay,R1720055,21,0,0,Week 24
+Galgaduud,R1720056,215,0,0,Week 24
+Gedo,R1720057,96,0,0,Week 24
+Hiraan,R1720058,3,0,0,Week 24
+Lower Juba,R1720059,130,0,0,Week 24
+Lower Shabelle,R1720060,153,1,0.6,Week 24
+Middle Shabelle,R1720062,45,0,0,Week 24
+Mudug,R1720063,349,7,2,Week 24
+Nugaal,R1720064,131,0,0,Week 24
+Sanaag,R1720065,96,1,1,Week 24
+Sool,R1720066,136,0,0,Week 24
+Ayn,R1720067,81,0,0,Week 24
+Bakol,R1720052,27,0,0,Week 25
+Banadir,R1720053,251,1.2,1.6,Week 25
+Karkaar,R1720054,111,0,0,Week 25
+Bay,R1720055,0,0,0,Week 25
+Galgaduud,R1720056,116,0,0,Week 25
+Gedo,R1720057,52,0,0,Week 25
+Hiraan,R1720058,4,0,0,Week 25
+Lower Juba,R1720059,134,0,0,Week 25
+Lower shabelle,R1720060,36,1,2.8,Week 25
+Middle Shabelle,R1720062,0,0,0,Week 25
+Mudug,R1720063,272,1,0.4,Week 25
+Nugaal,R1720064,88,0,0,Week 25
+Sanaag,R1720065,71,2,2.8,Week 25
+Sool,R1720066,167,0,0,Week 25
+Ayn,R1720067,42,0,0,Week 25
+Bakool,R1720052,18,0,0,Week 26
+Banadir,R1720053,227,2,0.9,Week 26
+Karkaar,R1720054,66,0,0,Week 26
+Bay,R1720055,2,0,0,Week 26
+Galgaduud,R1720056,96,1,1,Week 26
+Gedo,R1720057,19,0,0,Week 26
+Hiraan,R1720058,8,0,0,Week 26
+Lower Juba,R1720059,144,0,0,Week 26
+Lower shabelle,R1720060,32,0,0,Week 26
+Middle shabelle,R1720062,0,0,0,Week 26
+Mudug,R1720063,194,0,0,Week 26
+Nugaal,R1720064,66,0,0,Week 26
+Sanaag,R1720065,54,0,0,Week 26
+Sool,R1720066,167,0,0,Week 26
+Ayn,R1720067,28,0,0,Week 26
+Bakol,R1720052,21,0,0,Week 27
+Banadir,R1720053,193,3,1.6,Week 27
+Karkaar,R1720054,39,0,0,Week 27
+Bay,R1720055,0,0,0,Week 27
+Galgaduud,R1720056,0,0,0,Week 27
+Gedo,R1720057,9,0,0,Week 27
+Hiraan,R1720058,3,0,0,Week 27
+Lower Juba,R1720059,132,0,0,Week 27
+Lower Shabelle,R1720060,27,0,0,Week 27
+Middle shabelle,R1720062,0,0,0,Week 27
+Mudug,R1720063,152,0,0,Week 27
+Nugaal,R1720064,66,0,0,Week 27
+Sanaag,R1720065,119,0,0,Week 27
+Ayn,R1720067,24,0,0,Week 27
+Sool,R1720066,143,0,0,Week 27
+Bakool,R1720052,10,0,0,Week 28
+Banadir,R1720053,134,2,1.5,Week 28
+Karkaar,R1720054,21,0,0,Week 28
+Bay,R1720055,0,0,0,Week 28
+Galgaduud,R1720056,0,0,0,Week 28
+Gedo,R1720057,0,0,0,Week 28
+Hiraan,R1720058,4,0,0,Week 28
+Juba Hoose,R1720059,107,0,0,Week 28
+Shabelle Hoose,R1720060,69,0,0,Week 28
+Shabelle Dhexe,R1720062,286,1,0.3,Week 28
+Mudug,R1720063,185,0,0,Week 28
+Nugaal,R1720064,39,0,0,Week 28
+Sanaag,R1720065,57,0,0,Week 28
+Sool,R1720066,135,0,0,Week 28
+Ayn,R1720067,21,0,0,Week 28
+Bakool,R1720052,0,0,0,Week 29
+Banadir,R1720053,104,4,3.8,Week 29
+Karkaar,R1720054,38,0,0,Week 29
+Bay,R1720055,0,0,0,Week 29
+Galgaduud,R1720056,212,0,0,Week 29
+Gedo,R1720057,0,0,0,Week 29
+Hiraan,R1720058,1,0,0,Week 29
+Juba Hoose,R1720059,137,0,0,Week 29
+Shabelle Hoose,R1720060,39,0,0,Week 29
+Shabelle Dhexe,R1720062,13,0,0,Week 29
+Mudug,R1720063,99,0,0,Week 29
+Nugaal,R1720064,27,0,0,Week 29
+Sanaag,R1720065,70,0,0,Week 29
+Sool,R1720066,102,0,0,Week 29
+Ayn,R1720067,22,0,0,Week 29

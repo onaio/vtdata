@@ -1,0 +1,71 @@
+period,partner,district,site,site_id,latitude,longitude,program,MUAC ,OTP_discharges,other_SFP_returned_defaulters,old_cases_SC_OTP,cured,died,defaulter,non_cured,transfer_SC_OTP,total_beginning_month,total_admissions,total_discharges,total_endmonth,perc_recovered,perc_defaulted
+January,DHO,Diinsoor,Biilile - Settlement,WFP1639,2.4165,42.9134,TSFP_PLW,29,0,0,0,22,0,3,2,0,30,29,27,32,81,11
+January,DHO,Diinsoor,Raahole - Settlement,WFP2490,2.42142,42.928669,TSFP_PLW,20,0,0,0,9,0,3,1,0,20,20,13,27,69,23
+January,DHO,Diinsoor,Howlwadag - Settlement,WFP5751,2.723,43.16499,TSFP_PLW,39,0,0,0,30,0,0,1,0,78,39,31,86,97,0
+January,DHO,Diinsoor,Lama warood - Settlement,WFP7022,2.51773,42.9721,TSFP_PLW,18,0,0,0,10,0,0,0,0,21,18,10,29,100,0
+January,GEWDO,Garbahaarey,Buraa - Settlement,WFP2098,3.16962,42.1483,TSFP_PLW,0,0,0,0,64,0,0,3,0,67,0,67,0,96,0
+January,GEWDO,Garbahaarey,Garbahaarey - Regional Capital,WFP4990,3.328,42.219879,TSFP_PLW,0,0,0,0,65,0,0,3,2,70,0,70,0,93,0
+January,HEAL ,Hargeisa  ,Abaarso  - Settlement,WFP479,9.62462,43.88653,TSFP_PLW,34,0,0,0,4,0,0,0,0,71,34,4,101,100,0
+January,HEAL ,Ceel Afweyn,GAR-ADAG - Settlement,WFP4876,9.48711,46.866926,TSFP_PLW,12,0,0,0,6,0,0,0,0,67,12,6,73,100,0
+January,HEAL ,Ceel Afweyn,HULUL - Settlement,WFP5944,9.97111,46.773,TSFP_PLW,18,0,0,0,3,0,0,0,0,79,18,3,94,100,0
+January,HEAL ,Ceerigaabo,MAYDH  - Settlement,WFP7577,1.988259,47.19128,TSFP_PLW,45,0,0,0,6,0,0,0,0,98,45,6,137,100,0
+January,Mercy USA,Hargeisa  ,Daraweine - Settlement,WFP3527,9.719863,44.22455,TSFP_PLW,36,0,0,0,0,0,0,0,0,10,36,0,46,0,0
+January,Mercy USA,Hargeisa  ,Darasalam - TSFP,WFP139,3.117954,43.662952,TSFP_PLW,35,0,0,0,15,0,0,0,0,5,35,15,25,100,0
+January,Mercy USA,Laas Caanood,Lasanod - Regional Capital,WFP6912,8.473575,47.35449,TSFP_PLW,33,0,0,0,13,0,0,1,0,40,33,14,59,93,0
+January,Mercy USA,Laas Caanood,Bocame - MCHN,WFP75,8.396344,47.935664,TSFP_PLW,38,0,0,0,4,0,0,0,0,36,38,4,70,100,0
+January,Mercy USA,Hargeisa  ,Sabawanag - Settlement,WFP8569,9.4489,44.5818,TSFP_PLW,34,0,0,0,0,0,0,0,0,35,34,0,69,0,0
+January,RAAS,Garbahaarey,DHUBAA - Settlement,WFP3909,3.8896,42.2837,TSFP_PLW,0,0,0,0,27,0,0,6,5,38,0,38,0,71,0
+January,RAAS,Garbahaarey,HILLAMARER - Settlement,WFP5803,3.22728,42.4946,TSFP_PLW,0,0,0,0,4,0,0,5,7,25,0,16,9,25,0
+January,RAAS,Garbahaarey,MALKADIDA - Settlement,WFP7401,3.339,42.47833,TSFP_PLW,0,0,0,0,19,0,0,6,10,35,0,35,0,54,0
+January,SCI,Borama,Boon - Settlement,WFP1794,1.18513,43.841,TSFP_PLW,0,0,0,0,0,0,0,0,0,326,0,0,326,0,0
+January,SCI,Borama,Idhanka - Settlement,WFP6002,9.69256,43.328,TSFP_PLW,0,0,0,0,0,0,0,0,0,223,0,0,223,0,0
+January,SCI,Borama,Quljed - Settlement,WFP8291,1.9149,43.922,TSFP_PLW,0,0,0,0,0,0,0,0,0,193,0,0,193,0,0
+January,SCODO , Buhodle ,Widh Widh MCH - MCHN,WFP392,8.454123,46.76793,TSFP_PLW,49,0,0,0,10,0,0,0,0,25,49,10,64,100,0
+January,SCODO ,Laas Caanood,KALABAID MCH - Settlement,WFP6482,8.242749,47.22691,TSFP_PLW,47,0,0,0,17,0,0,0,0,60,47,17,90,100,0
+January,SCODO , Buhodle ,CENTRAL MCH BUHODLE - MCHN,WFP88,8.25163,46.315717,TSFP_PLW,41,0,0,0,15,0,3,0,0,53,41,18,76,83,17
+January,SDO,Jariiban,CEELXAGAR - TSFP,WFP128,7.4174,49.27849,TSFP_PLW,82,0,0,0,0,0,0,0,0,14,82,0,96,0,0
+January,SDO,Galdogob,GALDOGOB - TSFP,WFP195,7.5755,47.13494,TSFP_PLW,78,0,0,0,0,0,0,0,0,80,78,0,158,0,0
+January,SDO,Jariiban,jariiban - TSFP,WFP257,7.21345,48.8514,TSFP_PLW,83,0,0,0,0,0,0,0,0,83,83,0,166,0,0
+January,SDO,Jariiban,SEEMADE - TSFP,WFP349,7.15579,48.6975,TSFP_PLW,80,0,0,0,0,0,0,0,0,27,80,0,107,0,0
+January,SDO,Galdogob,DAARUSALAAM - Settlement,WFP3565,2.11698,44.95887,TSFP_PLW,77,0,0,0,0,0,0,0,0,60,77,0,137,0,0
+January,SDO,Galdogob,XEROJAALE - Settlement,WFP5827,6.985543,47.18765,TSFP_PLW,79,0,0,0,0,0,0,0,0,7,79,0,86,0,0
+January,SHARDO ,Balcad,Balad - Settlement,WFP1164,2.62667,45.54799,TSFP_PLW,0,0,0,0,0,0,0,0,0,130,0,0,130,0,0
+January,SHARDO ,Shibis,SHIBIS - TSFP,WFP360,2.47638,45.35,TSFP_PLW,0,0,0,0,0,0,0,0,0,25,0,0,25,0,0
+January,SHARDO ,Balcad,WARSHEIKH - TSFP,WFP390,2.298294,45.79799,TSFP_PLW,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+January,SHARDO ,Cadale,CADALE - TSFP,WFP96,2.7568,46.319,TSFP_PLW,0,0,0,0,39,0,0,0,0,102,0,39,63,100,0
+January,SRCS,Zeylac,Zailac HC - District Capital,WFP10061,11.35215,43.473756,TSFP_PLW,54,0,0,0,0,0,0,0,0,18,54,0,72,0,0
+January,SRCS,Caynabo,CAYNABO HC  - District Capital,WFP2994,8.954321,46.418,TSFP_PLW,68,0,0,0,2,0,0,0,0,132,68,2,198,100,0
+January,SRCS,Caynabo,Dhanano HC  - Settlement,WFP3755,9.4717,46.62836,TSFP_PLW,67,7,0,0,16,2,2,0,3,243,74,23,294,70,9
+January,SRCS,Caynabo,G/ weine  HC - Settlement,WFP5411,9.88695,46.7745,TSFP_PLW,66,0,0,0,8,0,0,0,0,49,66,8,107,100,0
+January,SRCS,Zeylac,Jidhi HC - Settlement,WFP6323,1.622736,43.7572,TSFP_PLW,51,3,0,0,1,14,0,0,4,7,54,19,42,5,0
+January,SRCS,Ceerigaabo,kulmiye HC - Settlement,WFP6775,1.75636,47.58565,TSFP_PLW,60,0,0,0,3,0,5,0,1,19,60,9,70,33,56
+January,SRCS,Berbera,Lasodawaco HC - Settlement,WFP6937,1.5142,44.9845,TSFP_PLW,57,0,0,0,5,0,0,0,0,15,57,5,67,100,0
+January,SRCS,Gebiley,Allaybaday HC - Settlement,WFP711,9.38695,43.51775,TSFP_PLW,59,0,0,0,10,0,0,0,0,76,59,10,125,100,0
+January,SRCS,Odweyne,Odweyne HC  - District Capital,WFP7962,9.471,45.6358,TSFP_PLW,70,0,0,0,39,0,0,0,0,201,70,39,232,100,0
+January,SRCS,Caynabo,OOG HC  - Settlement,WFP7990,8.93469,46.617513,TSFP_PLW,65,0,0,0,10,0,0,0,0,107,65,10,162,100,0
+January,SRCS,Caynabo,wadamagoo HC  - Settlement,WFP9410,8.9245,46.26745,TSFP_PLW,64,0,0,0,9,0,0,0,0,96,64,9,151,100,0
+January,SRCS,Caynabo,waridaad HC  - Settlement,WFP9589,9.28387,46.25364,TSFP_PLW,63,0,0,0,6,0,0,0,0,72,63,6,129,100,0
+January,SRCS,Caynabo,WIRIIR HC  - Settlement,WFP9696,9.4662,46.18599,TSFP_PLW,62,0,0,0,16,0,0,0,0,160,62,16,206,100,0
+January,WARDI,Wanla Weyn,Wanle weyn - District Capital,WFP9461,2.61945,44.89357,TSFP_PLW,97,0,0,0,0,0,0,0,0,790,97,0,887,0,0
+January,WOCCA,Jowhar,JOWHAR - Regional Capital,WFP6401,2.78875,45.496818,TSFP_PLW,39,0,0,0,0,0,0,0,0,331,39,0,370,0,0
+January,WRRS,Afmadow,Dhobley - TSFP,WFP158,0.4627,41.1238,TSFP_PLW,88,0,0,0,0,0,0,0,0,35,88,0,123,0,0
+January,WRRS,Afmadow,Dibi - TSFP,WFP165,0.584,41.1217,TSFP_PLW,25,0,0,0,0,0,0,0,0,0,25,0,25,0,0
+January,WRRS,Afmadow,Tabta - TSFP,WFP370,0.3463,41.43938,TSFP_PLW,26,0,0,0,0,0,0,0,0,3,26,0,29,0,0
+January,WRRS,Afmadow,Afmadow - TSFP,WFP7,0.51486,42.739,TSFP_PLW,100,0,0,0,0,0,0,0,0,30,100,0,130,0,0
+January,WVI,Dollow,Dollow town - TSFP,WFP176,4.16358,42.7617,TSFP_PLW,0,0,0,0,0,0,0,0,0,70,0,0,70,0,0
+January,WVI,Luuq,Garsow - TSFP,WFP203,3.8295,42.48916,TSFP_PLW,8,0,0,0,0,0,0,0,0,40,8,0,48,0,0
+January,WVI,Dollow,Gedweyne - TSFP,WFP206,4.32,42.29415,TSFP_PLW,20,0,0,0,0,0,0,0,0,29,20,0,49,0,0
+January,WVI,Luuq,Garbolow - TSFP,WFP207,3.91147,42.51267,TSFP_PLW,10,0,0,0,17,0,0,0,0,17,10,17,10,100,0
+January,WVI,Belethawa,Lebiraar - TSFP,WFP275,3.73163,41.97727,TSFP_PLW,9,2,0,0,8,0,0,0,0,12,11,8,15,100,0
+January,WVI,Luuq,Maganey - TSFP,WFP284,3.795,42.527,TSFP_PLW,0,0,0,0,23,0,0,0,0,34,0,23,11,100,0
+January,WVI,Luuq,Miradhubow - TSFP,WFP301,3.91996,42.53777,TSFP_PLW,25,0,0,0,42,2,0,0,0,44,25,44,25,95,0
+January,WVI,Dollow,Sadhumey - TSFP,WFP339,4.1276,42.25621,TSFP_PLW,2,0,0,0,0,0,0,0,0,30,2,0,32,0,0
+January,WVI,Luuq,Ban-Mudule - TSFP,WFP45,3.75773,42.55694,TSFP_PLW,8,0,0,0,17,0,0,0,0,37,8,17,28,100,0
+January,WVI,Luuq,Abdikhier - Settlement,WFP513,3.87355,42.52765,TSFP_PLW,2,0,0,0,0,0,0,0,0,35,2,0,37,0,0
+January,WVI,Dollow,Gubatta - Settlement,WFP5422,4.1345,42.2143,TSFP_PLW,30,0,0,0,0,0,0,0,0,10,30,0,40,0,0
+January,WVI,Belethawa,Belethawa Township - TSFP,WFP62,3.7874,41.89431,TSFP_PLW,6,2,0,0,10,0,0,0,2,67,8,12,63,83,0
+January,WVI,Baidoa,Kormeri - Settlement,WFP6715,3.158,43.216412,TSFP_PLW,28,0,0,0,0,0,0,0,0,24,28,0,52,0,0
+January,WVI,Luuq,Luq godey - Part of town,WFP7184,3.7974,42.5548,TSFP_PLW,0,0,0,0,0,0,0,0,0,38,0,0,38,0,0
+January,WVI,Belethawa,Buniyo - TSFP,WFP82,3.5444,41.85122,TSFP_PLW,6,2,0,0,7,0,0,0,2,15,8,9,14,78,0
+January,WVI,Dollow,Bulaqaloc - TSFP,WFP89,4.1498,42.12894,TSFP_PLW,2,0,0,0,0,0,0,0,0,25,2,0,27,0,0
+January,WVI,Dollow,Unsi - Settlement,WFP9355,4.373,41.95665,TSFP_PLW,4,0,0,0,0,0,0,0,0,40,4,0,44,0,0

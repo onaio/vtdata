@@ -1,0 +1,33 @@
+district,district_id,planned_HHs,intervention_type,payments_to_beneficiaries,payments_with_DFID_funds,total_cash_transferes,cash_transfer_USD,Cash_transfers_with_DFID,No.HH_fund_payment_dfid,money_in_pocket_DFID,payments_made,ratio_instalment,HHs_reached,perc_HHs_reached,percentage_complete,status,period
+Baydhaba,R1720074,900, CFW first contribution ,3,1,"247,356",92,"82,452",900,"82,452",1,1 out of 1 payments completed,900,100,100,Payments complete,June
+Baraawe,R1720078,1200, CFW Second contributuion,3.5,3.5,"338,160",81,"338,160","1,200","51,600",1,1 out of 3.5 payments completed,1200,100,15,Two weeks UCT payment complete,June
+Belet Weyne,R1720079,1400, CFW first contribution,3,1,"435,120",104,"145,040","1,400","145,040",1,1 out of 1 payments completed,1400,100,100,Payments complete,June
+Bulo Burto,R1720085,850, CFW first contribution,3,1,"264,162",104,"88,054",850,"88,054",1,1 out of 1 payments completed,850,100,100,Payments complete,June
+Buur Hakaba,R1720089,2450, CFW Second contribution,7,5,"751,642",185,"595,934","2,450","156,254",1.5,1.5 out of 4.5 payments completed,2450,100,34,On going,June
+Cabudwaaq,R1720090,1040, CFW Second contribution,3.5,3.5,"293,072",81,"293,072","1,040","45,032",1,0.5 out of 3.5 payments completed,1040,100,15,Two weeks UCT payment complete,June
+Cadale,R1720092,750, CFW Second contributuion,3.5,3.5,"211,368",81,"211,368",750,"32,250",1,0.5 out of 3.5 payments completed,750,100,15,Two weeks UCT payment complete,June
+Ceel Barde,R1720096,1420, CFW Second contributuion,3.5,3.5,"519,436",105,"519,436","1,420","78,100",1,0.5 out of 3.5 payments completed,1420,100,15,Two weeks UCT payment complete,June
+Dhuusamarreeb,R1720100,1600, CFW Second contributuion,3.5,3.5,"450,880",81,"450,880","1,600","68,800",1,0.5 out of 3.5 payments completed,1600,100,15,Two weeks UCT payment complete,June
+Hobyo,R1720111,1600, CFW Second contributuion,3.5,3.5,"585,280",105,"585,280","1,600","88,000",1,0.5 out of 3.5 payments completed,1600,100,15,Two weeks UCT payment complete,June
+Jalalaqsi,R1720113,700, CFW first contribution,3,1,"217,524",104,"72,508",700,"72,508",1,1 out of 1 payments completed,700,100,100,Payments complete,June
+Marka,R1720124,1600, CFW Second contributuion,3.5,3.5,"450,880",81,"450,880","1,600","68,800",1,0.5 out of 3.5 payments completed,1600,100,15,Two weeks UCT payment complete,June
+Tayeeglow,R1720136,1420, CFW Second contributuion,3.5,3.5,"519,472",105,"519,472","1,420","92,744",1,0.6 out of 3.6 payments completed,1420,100,18,Two weeks UCT payment complete,June
+Waajid,R1720137,800, CFW first contribution,3,1,"191,184",80,"63,728",800,"63,728",1,1 out of 1 payments completed,800,100,100,Payments complete,June
+Wanla Weyn,R1720138,670, CFW Second contributuion,3.5,3.5,"188,806",81,"188,806",670,"28,810",1,0.5 out of 3.5 payments completed,670,100,15,Two weeks UCT payment complete,June
+Xudur,R1720141,750, CFW first contribution,3,1,"179,046",80,"59,682",750,"59,682",1,1 out of 1 payments completed,750,100,100,Payments complete,June
+Baydhaba,R1720074,900,CFW first contribution ,3,3,"247,356",92,"82,452",300,"82,452",3,3 out of 3 payments completed,300,33,100,Payments complete,July
+Baraawe,R1720078,1200,CFW Second contributuion,3.5,3.5,"338,160",81,"338,160",1200,"147,120",1.5,1.5 out of 3.5 payments completed,1200,100,44,1st 24 days UCT payment Ongoing,July
+Belet Weyne,R1720079,1400,CFW first contribution ,3,3,"435,120",104,"145,040",467,"145,040",3,3 out of 3 payments completed,467,33,100,Payments complete,July
+Bulo Burto,R1720085,850,CFW first contribution ,3,3,"264,162",104,"88,054",283,"88,054",3,3 out of 3 payments completed,283,33,100,Payments complete,July
+Buur Hakaba,R1720089,2450,CFW Second contributuion,6.5,6.5,751642,185,595934,1883,302814,4.5,4.5 out of 6.5 payments completed,750,33,100,Payments complete,July
+Cabudwaaq,R1720090,1040,CFW second contribution,3.5,3.5,"293,072",81,"293,072",1040,"44,720",0.5,0.5 out of 3.5 payments completed,1040,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Cadale,R1720092,750,CFW Second contributuion,3.5,3.5,"211,368",81,"211,368",750,"32,250",0.5,0.5 out of 3.5 payments completed,750,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Ceel Barde,R1720096,1420,CFW Second contributuion,3.5,3.5,"519,436",105,"519,436",1420,"78,100",0.5,0.5 out of 3.5 payments completed,1420,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Dhuusamarreeb,R1720100,1600,CFW Second contributuion,3.5,3.5,"450,880",81,"450,880",1600,"196,160",1.5,1.5 out of 3.5 payments completed,1600,100,44,1st 24 days UCT payment Ongoing,July
+Hobyo,R1720111,1600,CFW Second contributuion,3.5,3.5,"585,280",105,"585,280",1600,"88,000",0.5,0.5 out of 3.5 payments completed,1600,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Jalalaqsi,R1720113,700,CFW first contribution ,3,3,"217,524",104,"72,508",233,"72,508",3,3 out of 3 payments completed,233,33,100,Payments complete,July
+Marka,R1720124,1600,CFW Second contributuion,3.5,3.5,"450,880",81,"450,880",1600,"68,800",0.5,0.5 out of 3.5 payments completed,1600,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Tayeeglow,R1720136,1420,CFW Second contributuion,3.5,3.5,"519,472",105,"519,472",1420,"239,868",1.6,1.6 out of 3.5 payments completed,1420,100,46,1st 24 days UCT payment Ongoing,July
+Waajid,R1720137,800,CFW first contribution ,3,3,"191,184",80,"63,728",267,"63,728",3,3 out of 3 payments completed,267,33,100,Payments complete,July
+Wanla Weyn,R1720138,670,CFW Second contributuion,3.5,3.5,"188,806",81,"188,806",670,"28,810",0.5,0.5 out of 3.5 payments completed,670,100,15,1st 24 days UCT payment processed awaiting MV notification,July
+Xudur,R1720141,750,CFW first contribution ,3,3,"179,046",80,"59,682",250,"59,682",3,3 out of 3 payments completed,250,33,15,Payments complete,July

@@ -1,0 +1,33 @@
+district,district_id,planned_HHs,intervention_type,payments_to_beneficiaries,payments_with_DFID_funds,total_cash_transferes,cash_transfer_USD,Cash_transfers_with_DFID,No.HH_fund_payment_dfid,money_in_pocket_DFID,payments_made,percentage_complete,ratio_instalment,HHs_reached,perc_HHs_reached,status,period
+Baraawe,R1720078,240,UCT second contribution,3.5,3.5,"67,200",80,"67,200",240,"10,320",1,15,0.5 out of 3.5 payments completed,240,100,Two weeks UCT payment complete,June
+Baydhaba,R1720074,150,UCT first contribution,3,3,"41,769",93,"41,769",150,"27,846",2,67,2 out of 3 payments completed,150,100,Last payment ongoing,June
+Belet Weyne,R1720079,238,UCT first contribution,3,3,"73,542",103,"73,542",238,"49,028",2,67,2 out of 3 payments completed,238,100,Last payment being made,June
+Bulo Burto,R1720085,142,UCT first contribution,3,3,"44,805",105,"44,805",142,"29,870",2,67,2 out of 3 payments completed,142,100,Last payment ongoing,June
+Buur Hakaba,R1720089,462,UCT second contribution,6.5,6.5,"142,625",185,"142,625",462,"42,070",2.5,38,2.5 out of 6.5 payments completed,462,100,Ongoing,June
+Cabudwaaq,R1720090,208,UCT second contribution,3.5,3.5,"58,240",80,"58,240",208,"8,944",1,15,0.5 out of 3.5 payments completed,208,100,Two weeks UCT payment complete,June
+Cadale,R1720092,150,UCT second contribution,3.5,3.5,"42,000",80,"42,000",150,"6,450",1,15,0.5 out of 3.5 payments completed,150,100,Two weeks UCT payment complete,June
+Ceel Barde,R1720096,284,UCT second contribution,3.5,3.5,"103,376",104,"103,376",284,"15,620",1,15,0.5 out of 3.5 payments completed,284,100,Two weeks UCT payment complete,June
+Dhuusamarreeb,R1720100,320,UCT second contribution,3.5,3.5,"89,600",80,"89,600",320,"13,760",1,15,0.5 out of 3.5 payments completed,320,100,Two weeks UCT payment complete,June
+Hobyo,R1720111,320,UCT second contribution,3.5,3.5,"116,480",104,"116,480",320,"17,600",1,15,0.5 out of 3.5 payments completed,320,100,Two weeks UCT payment complete,June
+Jalalaqsi,R1720113,118,UCT first contribution,3,3,"36,771",104,"36,771",118,"24,514",2,67,2 out of 3 payments completed,118,100,Last payment ongoing,June
+Marka,R1720124,320,UCT second contribution,3.5,3.5,"89,600",80,"89,600",320,"13,760",1,15,0.5 out of 3.5 payments completed,320,100,Two weeks UCT payment complete,June
+Tayeeglow,R1720136,284,UCT second contribution,3.5,3.5,"103,376",104,"103,376",284,"18,460",1,18,0.6 out of 3.5 payments completed,284,100,Two weeks UCT payment complete,June
+Waajid,R1720137,136,UCT first contribution,3,3,"32,232",79,"32,232",136,"21,488",2,67,2 out of 3 payments completed,136,100,Last payment ongoing,June
+Wanla Weyn,R1720138,134,UCT second contribution,3.5,3.5,"37,520",80,"37,520",134,"5,762",1,15,0.5 out of 3.5 payments completed,134,100,Two weeks UCT payment complete,June
+Xudur,R1720141,128,UCT first contribution,3,3,"30,336",79,"30,336",128,"20,224",2,67,2 out of 3 payments completed,128,100,Last payment ongoing,June
+Baydhaba,R1720074,150,UCT first contribution,3,3,41769,93,41769,150,41769,3,100,3 out of 3 payments completed,150,100,Payments complete,July
+Baraawe,R1720078,240,UCT second contribution,3.5,3.5,67200,80,67200,240,29280,2,44,1.525 out of 3.5 payments completed,240,100,1st 24 days UCT payment Ongoing,July
+Belet Weyne,R1720079,238,UCT first contribution,3,3,73542,103,73542,238,73542,3,100,3 out of 3 payments completed,238,100,Payments complete,July
+Bulo Burto,R1720085,142,UCT first contribution,3,3,44805,105,44805,142,44805,3,100,3 out of 3 payments completed,142,100,Payments complete,July
+Buur Hakaba,R1720089,462,UCT second contribution,6.5,6.5,142625,47,142625,462,84385,4,59,3.8 out of 6.5 payments completed,462,100,Payments complete,July
+Cabudwaaq,R1720090,208,UCT second contribution,3.5,3.5,58240,80,58240,208,8944,1,15,0.5 out of 3.5 payments completed,208,100,1st 24 days UCT payment processed awaiting MV notification,July
+Cadale,R1720092,150,UCT second contribution,3.5,3.5,42000,80,42000,150,6450,1,15,0.5 out of 3.5 payments completed,150,100,1st 24 days UCT payment processed awaiting MV notification,July
+Ceel Barde,R1720096,284,UCT second contribution,3.5,3.5,103376,104,103376,284,15620,1,15,0.5 out of 3.5 payments completed,284,100,1st 24 days UCT payment processed awaiting MV notification,July
+Dhuusamarreeb,R1720100,320,UCT second contribution,3.5,3.5,89600,80,89600,320,39040,2,44,1.5 out of 3.5 payments completed,320,100,1st 24 days UCT payment Ongoing,July
+Hobyo,R1720111,320,UCT second contribution,3.5,3.5,116480,104,116480,320,17600,1,15,0.5 out of 3.5 payments completed,320,100,1st 24 days UCT payment processed awaiting MV notification,July
+Jalalaqsi,R1720113,118,UCT first contribution,3,3,36771,104,36771,118,36771,3,100,3 out of 3 payments completed,118,100,Payments complete,July
+Marka,R1720124,320,UCT second contribution,3.5,3.5,89600,80,89600,320,13760,1,15,0.5 out of 3.5 payments completed,320,100,1st 24 days UCT payment processed awaiting MV notification,July
+Tayeeglow,R1720136,284,UCT second contribution,3.5,3.5,103376,104,103376,284,47712,2,46,1.6 out of 3.5 payments completed,284,100,1st 24 days UCT payment Ongoing,July
+Waajid,R1720137,136,UCT first contribution,3,3,32232,79,32232,136,32232,3,100,3 out of 3 payments completed,136,100,Payments complete,July
+Wanla Weyn,R1720138,134,UCT second contribution,3.5,3.5,37520,80,37520,134,5762,1,15,0.5 out of 3.5 payments completed,134,100,1st 24 days UCT payment processed awaiting MV notification,July
+Xudur,R1720141,128,UCT first contribution,3,3,30336,79,30336,128,30336,3,100,3 out of 3 payments completed,128,100,Payments complete,July

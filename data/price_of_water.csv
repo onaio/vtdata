@@ -1,0 +1,439 @@
+Indicator,Region,RegionID,District,DistrictID,Date,Value,period
+Price of water,Awdal,R1720051,Borama,R1720082,10/1/2016,0,October 2016
+Price of water,Awdal,R1720051,Baki,R1720075,10/1/2016,0,October 2016
+Price of water,Awdal,R1720051,Lughaye,R1720122,10/1/2016,0,October 2016
+Price of water,Awdal,R1720051,Zeylac,R1720142,10/1/2016,0,October 2016
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,10/1/2016,0,October 2016
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,10/1/2016,0,October 2016
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,10/1/2016,0,October 2016
+Price of water,Togdheer,R1720067,Burco,R1720086,10/1/2016,0,October 2016
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,10/1/2016,0,October 2016
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,10/1/2016,0,October 2016
+Price of water,Togdheer,R1720067,Sheikh,R1720134,10/1/2016,0,October 2016
+Price of water,Sool,R1720066,Laas Caanood,R1720120,10/1/2016,0,October 2016
+Price of water,Sool,R1720066,Caynabo,R1720094,10/1/2016,0,October 2016
+Price of water,Sool,R1720066,Taleex,R1720135,10/1/2016,0,October 2016
+Price of water,Sool,R1720066,Xudun,R1720140,10/1/2016,0,October 2016
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,10/1/2016,0,October 2016
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,10/1/2016,0,October 2016
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Bossaso,R1720083,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Caluula,R1720093,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Iskushuban,R1720112,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Qandala,R1720127,10/1/2016,0,October 2016
+Price of water,Bari,R1720054,Qardho,R1720129,10/1/2016,0,October 2016
+Price of water,Nugaal,R1720064,Garoowe,R1720109,10/1/2016,0,October 2016
+Price of water,Nugaal,R1720064,Burtinle,R1720087,10/1/2016,0,October 2016
+Price of water,Nugaal,R1720064,Eyl,R1720104,10/1/2016,0,October 2016
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,10/1/2016,0,October 2016
+Price of water,Mudug,R1720063,Galdogob,R1720106,10/1/2016,0,October 2016
+Price of water,Mudug,R1720063,Hobyo,R1720111,10/1/2016,0,October 2016
+Price of water,Mudug,R1720063,Jariiban,R1720115,10/1/2016,0,October 2016
+Price of water,Mudug,R1720063,Xarardheere,R1720139,10/1/2016,0,October 2016
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,10/1/2016,0,October 2016
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,10/1/2016,0,October 2016
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,10/1/2016,0,October 2016
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,10/1/2016,0,October 2016
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,10/1/2016,0,October 2016
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,10/1/2016,0,October 2016
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,10/1/2016,0,October 2016
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,10/1/2016,0,October 2016
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,10/1/2016,0,October 2016
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,10/1/2016,0,October 2016
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,10/1/2016,0,October 2016
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,10/1/2016,0,October 2016
+Price of water,Banadir,R1720053,Mogadishu,R1720125,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,10/1/2016,0,October 2016
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,10/1/2016,0,October 2016
+Price of water,Bay,R1720055,Baydhaba,R1720074,10/1/2016,0,October 2016
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,10/1/2016,0,October 2016
+Price of water,Bay,R1720055,Diinsoor,R1720101,10/1/2016,0,October 2016
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,10/1/2016,0,October 2016
+Price of water,Bakool,R1720052,Xudur,R1720141,10/1/2016,0,October 2016
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,10/1/2016,0,October 2016
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,10/1/2016,0,October 2016
+Price of water,Bakool,R1720052,Waajid,R1720137,10/1/2016,0,October 2016
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Baardheere,R1720072,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Doolow,R1720102,10/1/2016,0,October 2016
+Price of water,Gedo,R1720057,Luuq,R1720123,10/1/2016,0,October 2016
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,10/1/2016,0,October 2016
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,10/1/2016,0,October 2016
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,10/1/2016,0,October 2016
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,10/1/2016,0,October 2016
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,10/1/2016,0,October 2016
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,10/1/2016,0,October 2016
+Price of water,Awdal,R1720051,Borama,R1720082,11/1/2016,4000,November 2016
+Price of water,Awdal,R1720051,Baki,R1720075,11/1/2016,0,November 2016
+Price of water,Awdal,R1720051,Lughaye,R1720122,11/1/2016,0,November 2016
+Price of water,Awdal,R1720051,Zeylac,R1720142,11/1/2016,4500,November 2016
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,11/1/2016,9000,November 2016
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,11/1/2016,0,November 2016
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,11/1/2016,12000,November 2016
+Price of water,Togdheer,R1720067,Burco,R1720086,11/1/2016,5000,November 2016
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,11/1/2016,0,November 2016
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,11/1/2016,0,November 2016
+Price of water,Togdheer,R1720067,Sheikh,R1720134,11/1/2016,0,November 2016
+Price of water,Sool,R1720066,Laas Caanood,R1720120,11/1/2016,90000,November 2016
+Price of water,Sool,R1720066,Caynabo,R1720094,11/1/2016,0,November 2016
+Price of water,Sool,R1720066,Taleex,R1720135,11/1/2016,0,November 2016
+Price of water,Sool,R1720066,Xudun,R1720140,11/1/2016,0,November 2016
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,11/1/2016,43750,November 2016
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,11/1/2016,0,November 2016
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,11/1/2016,0,November 2016
+Price of water,Bari,R1720054,Bossaso,R1720083,11/1/2016,10000,November 2016
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,11/1/2016,30000,November 2016
+Price of water,Bari,R1720054,Caluula,R1720093,11/1/2016,20000,November 2016
+Price of water,Bari,R1720054,Iskushuban,R1720112,11/1/2016,30000,November 2016
+Price of water,Bari,R1720054,Qandala,R1720127,11/1/2016,0,November 2016
+Price of water,Bari,R1720054,Qardho,R1720129,11/1/2016,0,November 2016
+Price of water,Nugaal,R1720064,Garoowe,R1720109,11/1/2016,4000,November 2016
+Price of water,Nugaal,R1720064,Burtinle,R1720087,11/1/2016,0,November 2016
+Price of water,Nugaal,R1720064,Eyl,R1720104,11/1/2016,0,November 2016
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,11/1/2016,20000,November 2016
+Price of water,Mudug,R1720063,Galdogob,R1720106,11/1/2016,0,November 2016
+Price of water,Mudug,R1720063,Hobyo,R1720111,11/1/2016,0,November 2016
+Price of water,Mudug,R1720063,Jariiban,R1720115,11/1/2016,0,November 2016
+Price of water,Mudug,R1720063,Xarardheere,R1720139,11/1/2016,16000,November 2016
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,11/1/2016,25000,November 2016
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,11/1/2016,15000,November 2016
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,11/1/2016,0,November 2016
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,11/1/2016,0,November 2016
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,11/1/2016,39500,November 2016
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,11/1/2016,20000,November 2016
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,11/1/2016,30000,November 2016
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,11/1/2016,0,November 2016
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,11/1/2016,16000,November 2016
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,11/1/2016,9000,November 2016
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,11/1/2016,0,November 2016
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,11/1/2016,0,November 2016
+Price of water,Banadir,R1720053,Mogadishu,R1720125,11/1/2016,0,November 2016
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,11/1/2016,0,November 2016
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,11/1/2016,22500,November 2016
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,11/1/2016,22500,November 2016
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,11/1/2016,0,November 2016
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,11/1/2016,15000,November 2016
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,11/1/2016,0,November 2016
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,11/1/2016,0,November 2016
+Price of water,Bay,R1720055,Baydhaba,R1720074,11/1/2016,20000,November 2016
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,11/1/2016,0,November 2016
+Price of water,Bay,R1720055,Diinsoor,R1720101,11/1/2016,32500,November 2016
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,11/1/2016,20000,November 2016
+Price of water,Bakool,R1720052,Xudur,R1720141,11/1/2016,27500,November 2016
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,11/1/2016,37500,November 2016
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,11/1/2016,0,November 2016
+Price of water,Bakool,R1720052,Waajid,R1720137,11/1/2016,0,November 2016
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,11/1/2016,0,November 2016
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,11/1/2016,0,November 2016
+Price of water,Gedo,R1720057,Baardheere,R1720072,11/1/2016,8000,November 2016
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,11/1/2016,22000,November 2016
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,11/1/2016,15000,November 2016
+Price of water,Gedo,R1720057,Doolow,R1720102,11/1/2016,0,November 2016
+Price of water,Gedo,R1720057,Luuq,R1720123,11/1/2016,15000,November 2016
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,11/1/2016,30000,November 2016
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,11/1/2016,30000,November 2016
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,11/1/2016,30000,November 2016
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,11/1/2016,70000,November 2016
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,11/1/2016,25000,November 2016
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,11/1/2016,0,November 2016
+Price of water,Awdal,R1720051,Borama,R1720082,12/1/2016,4000,December 2016
+Price of water,Awdal,R1720051,Baki,R1720075,12/1/2016,0,December 2016
+Price of water,Awdal,R1720051,Lughaye,R1720122,12/1/2016,5000,December 2016
+Price of water,Awdal,R1720051,Zeylac,R1720142,12/1/2016,4500,December 2016
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,12/1/2016,9000,December 2016
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,12/1/2016,0,December 2016
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,12/1/2016,10375,December 2016
+Price of water,Togdheer,R1720067,Burco,R1720086,12/1/2016,5000,December 2016
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,12/1/2016,0,December 2016
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,12/1/2016,0,December 2016
+Price of water,Togdheer,R1720067,Sheikh,R1720134,12/1/2016,0,December 2016
+Price of water,Sool,R1720066,Laas Caanood,R1720120,12/1/2016,165000,December 2016
+Price of water,Sool,R1720066,Caynabo,R1720094,12/1/2016,0,December 2016
+Price of water,Sool,R1720066,Taleex,R1720135,12/1/2016,0,December 2016
+Price of water,Sool,R1720066,Xudun,R1720140,12/1/2016,185000,December 2016
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,12/1/2016,40000,December 2016
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,12/1/2016,45000,December 2016
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,12/1/2016,0,December 2016
+Price of water,Bari,R1720054,Bossaso,R1720083,12/1/2016,10000,December 2016
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,12/1/2016,30000,December 2016
+Price of water,Bari,R1720054,Caluula,R1720093,12/1/2016,20000,December 2016
+Price of water,Bari,R1720054,Iskushuban,R1720112,12/1/2016,30000,December 2016
+Price of water,Bari,R1720054,Qandala,R1720127,12/1/2016,0,December 2016
+Price of water,Bari,R1720054,Qardho,R1720129,12/1/2016,0,December 2016
+Price of water,Nugaal,R1720064,Garoowe,R1720109,12/1/2016,4000,December 2016
+Price of water,Nugaal,R1720064,Burtinle,R1720087,12/1/2016,70000,December 2016
+Price of water,Nugaal,R1720064,Eyl,R1720104,12/1/2016,62500,December 2016
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,12/1/2016,20000,December 2016
+Price of water,Mudug,R1720063,Galdogob,R1720106,12/1/2016,0,December 2016
+Price of water,Mudug,R1720063,Hobyo,R1720111,12/1/2016,20000,December 2016
+Price of water,Mudug,R1720063,Jariiban,R1720115,12/1/2016,50000,December 2016
+Price of water,Mudug,R1720063,Xarardheere,R1720139,12/1/2016,16000,December 2016
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,12/1/2016,25000,December 2016
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,12/1/2016,15000,December 2016
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,12/1/2016,0,December 2016
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,12/1/2016,0,December 2016
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,12/1/2016,40000,December 2016
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,12/1/2016,20000,December 2016
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,12/1/2016,30000,December 2016
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,12/1/2016,10000,December 2016
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,12/1/2016,18000,December 2016
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,12/1/2016,9000,December 2016
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,12/1/2016,0,December 2016
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,12/1/2016,30000,December 2016
+Price of water,Banadir,R1720053,Mogadishu,R1720125,12/1/2016,0,December 2016
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,12/1/2016,29750,December 2016
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,12/1/2016,22500,December 2016
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,12/1/2016,12000,December 2016
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,12/1/2016,20000,December 2016
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,12/1/2016,15000,December 2016
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,12/1/2016,0,December 2016
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,12/1/2016,10000,December 2016
+Price of water,Bay,R1720055,Baydhaba,R1720074,12/1/2016,26250,December 2016
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,12/1/2016,60000,December 2016
+Price of water,Bay,R1720055,Diinsoor,R1720101,12/1/2016,40000,December 2016
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,12/1/2016,20000,December 2016
+Price of water,Bakool,R1720052,Xudur,R1720141,12/1/2016,30000,December 2016
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,12/1/2016,45000,December 2016
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,12/1/2016,70000,December 2016
+Price of water,Bakool,R1720052,Waajid,R1720137,12/1/2016,0,December 2016
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,12/1/2016,0,December 2016
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,12/1/2016,0,December 2016
+Price of water,Gedo,R1720057,Baardheere,R1720072,12/1/2016,8000,December 2016
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,12/1/2016,22000,December 2016
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,12/1/2016,15000,December 2016
+Price of water,Gedo,R1720057,Doolow,R1720102,12/1/2016,0,December 2016
+Price of water,Gedo,R1720057,Luuq,R1720123,12/1/2016,15000,December 2016
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,12/1/2016,30000,December 2016
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,12/1/2016,30000,December 2016
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,12/1/2016,30000,December 2016
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,12/1/2016,70000,December 2016
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,12/1/2016,25000,December 2016
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,12/1/2016,0,December 2016
+Price of water,Awdal,R1720051,Borama,R1720082,1/1/2017,4000,January 2017
+Price of water,Awdal,R1720051,Baki,R1720075,1/1/2017,0,January 2017
+Price of water,Awdal,R1720051,Lughaye,R1720122,1/1/2017,5000,January 2017
+Price of water,Awdal,R1720051,Zeylac,R1720142,1/1/2017,5000,January 2017
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,1/1/2017,10000,January 2017
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,1/1/2017,0,January 2017
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,1/1/2017,10000,January 2017
+Price of water,Togdheer,R1720067,Burco,R1720086,1/1/2017,5000,January 2017
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,1/1/2017,0,January 2017
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,1/1/2017,0,January 2017
+Price of water,Togdheer,R1720067,Sheikh,R1720134,1/1/2017,0,January 2017
+Price of water,Sool,R1720066,Laas Caanood,R1720120,1/1/2017,180000,January 2017
+Price of water,Sool,R1720066,Caynabo,R1720094,1/1/2017,0,January 2017
+Price of water,Sool,R1720066,Taleex,R1720135,1/1/2017,0,January 2017
+Price of water,Sool,R1720066,Xudun,R1720140,1/1/2017,185000,January 2017
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,1/1/2017,44000,January 2017
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,1/1/2017,45000,January 2017
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,1/1/2017,0,January 2017
+Price of water,Bari,R1720054,Bossaso,R1720083,1/1/2017,10000,January 2017
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,1/1/2017,30000,January 2017
+Price of water,Bari,R1720054,Caluula,R1720093,1/1/2017,20000,January 2017
+Price of water,Bari,R1720054,Iskushuban,R1720112,1/1/2017,30000,January 2017
+Price of water,Bari,R1720054,Qandala,R1720127,1/1/2017,0,January 2017
+Price of water,Bari,R1720054,Qardho,R1720129,1/1/2017,0,January 2017
+Price of water,Nugaal,R1720064,Garoowe,R1720109,1/1/2017,4000,January 2017
+Price of water,Nugaal,R1720064,Burtinle,R1720087,1/1/2017,72500,January 2017
+Price of water,Nugaal,R1720064,Eyl,R1720104,1/1/2017,62500,January 2017
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,1/1/2017,25000,January 2017
+Price of water,Mudug,R1720063,Galdogob,R1720106,1/1/2017,0,January 2017
+Price of water,Mudug,R1720063,Hobyo,R1720111,1/1/2017,20000,January 2017
+Price of water,Mudug,R1720063,Jariiban,R1720115,1/1/2017,50000,January 2017
+Price of water,Mudug,R1720063,Xarardheere,R1720139,1/1/2017,16000,January 2017
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,1/1/2017,25000,January 2017
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,1/1/2017,15000,January 2017
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,1/1/2017,0,January 2017
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,1/1/2017,0,January 2017
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,1/1/2017,25750,January 2017
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,1/1/2017,20000,January 2017
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,1/1/2017,30000,January 2017
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,1/1/2017,10000,January 2017
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,1/1/2017,16000,January 2017
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,1/1/2017,12000,January 2017
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,1/1/2017,40000,January 2017
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,1/1/2017,30000,January 2017
+Price of water,Banadir,R1720053,Mogadishu,R1720125,1/1/2017,0,January 2017
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,1/1/2017,33000,January 2017
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,1/1/2017,22500,January 2017
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,1/1/2017,12000,January 2017
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,1/1/2017,20000,January 2017
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,1/1/2017,20000,January 2017
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,1/1/2017,0,January 2017
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,1/1/2017,10000,January 2017
+Price of water,Bay,R1720055,Baydhaba,R1720074,1/1/2017,31000,January 2017
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,1/1/2017,52000,January 2017
+Price of water,Bay,R1720055,Diinsoor,R1720101,1/1/2017,40000,January 2017
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,1/1/2017,20000,January 2017
+Price of water,Bakool,R1720052,Xudur,R1720141,1/1/2017,30000,January 2017
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,1/1/2017,45000,January 2017
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,1/1/2017,60000,January 2017
+Price of water,Bakool,R1720052,Waajid,R1720137,1/1/2017,0,January 2017
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,1/1/2017,0,January 2017
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,1/1/2017,0,January 2017
+Price of water,Gedo,R1720057,Baardheere,R1720072,1/1/2017,8000,January 2017
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,1/1/2017,22000,January 2017
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,1/1/2017,16000,January 2017
+Price of water,Gedo,R1720057,Doolow,R1720102,1/1/2017,0,January 2017
+Price of water,Gedo,R1720057,Luuq,R1720123,1/1/2017,15000,January 2017
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,1/1/2017,30000,January 2017
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,1/1/2017,30000,January 2017
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,1/1/2017,30000,January 2017
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,1/1/2017,70000,January 2017
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,1/1/2017,25000,January 2017
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,1/1/2017,0,January 2017
+Price of water,Awdal,R1720051,Borama,R1720082,2/1/2017,4000,February 2017
+Price of water,Awdal,R1720051,Baki,R1720075,2/1/2017,0,February 2017
+Price of water,Awdal,R1720051,Lughaye,R1720122,2/1/2017,5000,February 2017
+Price of water,Awdal,R1720051,Zeylac,R1720142,2/1/2017,5000,February 2017
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,2/1/2017,12000,February 2017
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,2/1/2017,0,February 2017
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,2/1/2017,10000,February 2017
+Price of water,Togdheer,R1720067,Burco,R1720086,2/1/2017,5000,February 2017
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,2/1/2017,0,February 2017
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,2/1/2017,0,February 2017
+Price of water,Togdheer,R1720067,Sheikh,R1720134,2/1/2017,0,February 2017
+Price of water,Sool,R1720066,Laas Caanood,R1720120,2/1/2017,182500,February 2017
+Price of water,Sool,R1720066,Caynabo,R1720094,2/1/2017,0,February 2017
+Price of water,Sool,R1720066,Taleex,R1720135,2/1/2017,0,February 2017
+Price of water,Sool,R1720066,Xudun,R1720140,2/1/2017,225000,February 2017
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,2/1/2017,43750,February 2017
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,2/1/2017,45000,February 2017
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,2/1/2017,0,February 2017
+Price of water,Bari,R1720054,Bossaso,R1720083,2/1/2017,10000,February 2017
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,2/1/2017,30000,February 2017
+Price of water,Bari,R1720054,Caluula,R1720093,2/1/2017,20000,February 2017
+Price of water,Bari,R1720054,Iskushuban,R1720112,2/1/2017,30000,February 2017
+Price of water,Bari,R1720054,Qandala,R1720127,2/1/2017,0,February 2017
+Price of water,Bari,R1720054,Qardho,R1720129,2/1/2017,0,February 2017
+Price of water,Nugaal,R1720064,Garoowe,R1720109,2/1/2017,4000,February 2017
+Price of water,Nugaal,R1720064,Burtinle,R1720087,2/1/2017,85000,February 2017
+Price of water,Nugaal,R1720064,Eyl,R1720104,2/1/2017,60000,February 2017
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,2/1/2017,20000,February 2017
+Price of water,Mudug,R1720063,Galdogob,R1720106,2/1/2017,0,February 2017
+Price of water,Mudug,R1720063,Hobyo,R1720111,2/1/2017,20000,February 2017
+Price of water,Mudug,R1720063,Jariiban,R1720115,2/1/2017,50000,February 2017
+Price of water,Mudug,R1720063,Xarardheere,R1720139,2/1/2017,16000,February 2017
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,2/1/2017,25000,February 2017
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,2/1/2017,15000,February 2017
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,2/1/2017,0,February 2017
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,2/1/2017,0,February 2017
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,2/1/2017,25000,February 2017
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,2/1/2017,20000,February 2017
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,2/1/2017,30000,February 2017
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,2/1/2017,10000,February 2017
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,2/1/2017,16000,February 2017
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,2/1/2017,15000,February 2017
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,2/1/2017,40000,February 2017
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,2/1/2017,30000,February 2017
+Price of water,Banadir,R1720053,Mogadishu,R1720125,2/1/2017,0,February 2017
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,2/1/2017,27750,February 2017
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,2/1/2017,15000,February 2017
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,2/1/2017,12000,February 2017
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,2/1/2017,10000,February 2017
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,2/1/2017,45000,February 2017
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,2/1/2017,0,February 2017
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,2/1/2017,10000,February 2017
+Price of water,Bay,R1720055,Baydhaba,R1720074,2/1/2017,40000,February 2017
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,2/1/2017,52500,February 2017
+Price of water,Bay,R1720055,Diinsoor,R1720101,2/1/2017,40000,February 2017
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,2/1/2017,20000,February 2017
+Price of water,Bakool,R1720052,Xudur,R1720141,2/1/2017,30000,February 2017
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,2/1/2017,45000,February 2017
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,2/1/2017,60000,February 2017
+Price of water,Bakool,R1720052,Waajid,R1720137,2/1/2017,0,February 2017
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,2/1/2017,0,February 2017
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,2/1/2017,0,February 2017
+Price of water,Gedo,R1720057,Baardheere,R1720072,2/1/2017,8000,February 2017
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,2/1/2017,22000,February 2017
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,2/1/2017,16000,February 2017
+Price of water,Gedo,R1720057,Doolow,R1720102,2/1/2017,0,February 2017
+Price of water,Gedo,R1720057,Luuq,R1720123,2/1/2017,15000,February 2017
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,2/1/2017,30000,February 2017
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,2/1/2017,30000,February 2017
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,2/1/2017,30000,February 2017
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,2/1/2017,70000,February 2017
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,2/1/2017,25000,February 2017
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,2/1/2017,0,February 2017
+Price of water,Awdal,R1720051,Borama,R1720082,3/1/2017,4000,March 2017
+Price of water,Awdal,R1720051,Baki,R1720075,3/1/2017,0,March 2017
+Price of water,Awdal,R1720051,Lughaye,R1720122,3/1/2017,4000,March 2017
+Price of water,Awdal,R1720051,Zeylac,R1720142,3/1/2017,4000,March 2017
+Price of water,Woqooyi Galbeed,R1720068,Hargeysa,R1720110,3/1/2017,12000,March 2017
+Price of water,Woqooyi Galbeed,R1720068,Berbera,R1720081,3/1/2017,0,March 2017
+Price of water,Woqooyi Galbeed,R1720068,Gebiley,R1720105,3/1/2017,10500,March 2017
+Price of water,Togdheer,R1720067,Burco,R1720086,3/1/2017,6500,March 2017
+Price of water,Togdheer,R1720067,Buuhoodle,R1720088,3/1/2017,0,March 2017
+Price of water,Togdheer,R1720067,Owdweyne,R1720126,3/1/2017,0,March 2017
+Price of water,Togdheer,R1720067,Sheikh,R1720134,3/1/2017,0,March 2017
+Price of water,Sool,R1720066,Laas Caanood,R1720120,3/1/2017,185000,March 2017
+Price of water,Sool,R1720066,Caynabo,R1720094,3/1/2017,0,March 2017
+Price of water,Sool,R1720066,Taleex,R1720135,3/1/2017,0,March 2017
+Price of water,Sool,R1720066,Xudun,R1720140,3/1/2017,0,March 2017
+Price of water,Sanaag,R1720065,Ceerigaabo,R1720099,3/1/2017,46250,March 2017
+Price of water,Sanaag,R1720065,Ceel Afweyn,R1720095,3/1/2017,0,March 2017
+Price of water,Sanaag,R1720065,Laasqoray,R1720121,3/1/2017,0,March 2017
+Price of water,Bari,R1720054,Bossaso,R1720083,3/1/2017,10000,March 2017
+Price of water,Bari,R1720054,Bandarbeyla,R1720077,3/1/2017,30000,March 2017
+Price of water,Bari,R1720054,Caluula,R1720093,3/1/2017,20000,March 2017
+Price of water,Bari,R1720054,Iskushuban,R1720112,3/1/2017,30000,March 2017
+Price of water,Bari,R1720054,Qandala,R1720127,3/1/2017,0,March 2017
+Price of water,Bari,R1720054,Qardho,R1720129,3/1/2017,0,March 2017
+Price of water,Nugaal,R1720064,Garoowe,R1720109,3/1/2017,4000,March 2017
+Price of water,Nugaal,R1720064,Burtinle,R1720087,3/1/2017,0,March 2017
+Price of water,Nugaal,R1720064,Eyl,R1720104,3/1/2017,0,March 2017
+Price of water,Mudug,R1720063,Gaalkacyo,R1720107,3/1/2017,20000,March 2017
+Price of water,Mudug,R1720063,Galdogob,R1720106,3/1/2017,0,March 2017
+Price of water,Mudug,R1720063,Hobyo,R1720111,3/1/2017,0,March 2017
+Price of water,Mudug,R1720063,Jariiban,R1720115,3/1/2017,0,March 2017
+Price of water,Mudug,R1720063,Xarardheere,R1720139,3/1/2017,11000,March 2017
+Price of water,Galgaduud,R1720056,Dhuusamarreeb,R1720100,3/1/2017,27500,March 2017
+Price of water,Galgaduud,R1720056,Cabudwaaq,R1720090,3/1/2017,15000,March 2017
+Price of water,Galgaduud,R1720056,Cadaado,R1720091,3/1/2017,0,March 2017
+Price of water,Galgaduud,R1720056,Ceel Buur,R1720097,3/1/2017,0,March 2017
+Price of water,Galgaduud,R1720056,Ceel Dheer,R1720098,3/1/2017,22750,March 2017
+Price of water,Hiraan,R1720058,Belet Weyne,R1720079,3/1/2017,47500,March 2017
+Price of water,Hiraan,R1720058,Bulo Burto,R1720085,3/1/2017,30000,March 2017
+Price of water,Hiraan,R1720058,Jalalaqsi,R1720113,3/1/2017,0,March 2017
+Price of water,Shabelle Dhexe,R1720062,Jowhar,R1720117,3/1/2017,16000,March 2017
+Price of water,Shabelle Dhexe,R1720062,Adan Yabaal,R1720069,3/1/2017,15000,March 2017
+Price of water,Shabelle Dhexe,R1720062,Balcad,R1720076,3/1/2017,0,March 2017
+Price of water,Shabelle Dhexe,R1720062,Cadale,R1720092,3/1/2017,0,March 2017
+Price of water,Banadir,R1720053,Mogadishu,R1720125,3/1/2017,0,March 2017
+Price of water,Shabelle Hoose,R1720060,Marka,R1720124,3/1/2017,31500,March 2017
+Price of water,Shabelle Hoose,R1720060,Afgooye,R1720070,3/1/2017,15000,March 2017
+Price of water,Shabelle Hoose,R1720060,Baraawe,R1720078,3/1/2017,0,March 2017
+Price of water,Shabelle Hoose,R1720060,Kurtunwaarey,R1720119,3/1/2017,0,March 2017
+Price of water,Shabelle Hoose,R1720060,Qoryooley,R1720130,3/1/2017,50000,March 2017
+Price of water,Shabelle Hoose,R1720060,Sablaale,R1720133,3/1/2017,0,March 2017
+Price of water,Shabelle Hoose,R1720060,Wanla Weyn,R1720138,3/1/2017,10000,March 2017
+Price of water,Bay,R1720055,Baydhaba,R1720074,3/1/2017,51250,March 2017
+Price of water,Bay,R1720055,Buur Hakaba,R1720089,3/1/2017,0,March 2017
+Price of water,Bay,R1720055,Diinsoor,R1720101,3/1/2017,43750,March 2017
+Price of water,Bay,R1720055,Qansax Dheere,R1720128,3/1/2017,20000,March 2017
+Price of water,Bakool,R1720052,Xudur,R1720141,3/1/2017,31250,March 2017
+Price of water,Bakool,R1720052,Ceel Barde,R1720096,3/1/2017,50000,March 2017
+Price of water,Bakool,R1720052,Tayeeglow,R1720136,3/1/2017,0,March 2017
+Price of water,Bakool,R1720052,Waajid,R1720137,3/1/2017,0,March 2017
+Price of water,Bakool,R1720052,Rab Dhuure,R1720131,3/1/2017,0,March 2017
+Price of water,Gedo,R1720057,Garbahaarey,R1720108,3/1/2017,0,March 2017
+Price of water,Gedo,R1720057,Baardheere,R1720072,3/1/2017,8000,March 2017
+Price of water,Gedo,R1720057,Belet Xaawo,R1720080,3/1/2017,22000,March 2017
+Price of water,Gedo,R1720057,Ceel Waaq,R1720103,3/1/2017,16000,March 2017
+Price of water,Gedo,R1720057,Doolow,R1720102,3/1/2017,0,March 2017
+Price of water,Gedo,R1720057,Luuq,R1720123,3/1/2017,15000,March 2017
+Price of water,Juba Dhexe,R1720061,Bu'aale,R1720084,3/1/2017,30000,March 2017
+Price of water,Juba Dhexe,R1720061,Jilib,R1720116,3/1/2017,30000,March 2017
+Price of water,Juba Dhexe,R1720061,Saakow,R1720132,3/1/2017,30000,March 2017
+Price of water,Juba Hoose,R1720059,Kismaayo,R1720118,3/1/2017,70000,March 2017
+Price of water,Juba Hoose,R1720059,Afmadow,R1720071,3/1/2017,47500,March 2017
+Price of water,Juba Hoose,R1720059,Badhaadhe,R1720073,3/1/2017,0,March 2017

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Somalia | IRP Dashboard</title>
+	<meta name="viewport" content="width=device-width,initial-scale=1">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600" rel="stylesheet">
+ 	<link href='https://api.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.css' rel='stylesheet' />
+ 	<link rel=stylesheet href="https://s3-us-west-2.amazonaws.com/colors-css/2.2.0/colors.min.css">
+</head>
+<body>
+	<div id="app"></div>
+	<script src='https://api.mapbox.com/mapbox-gl-js/v0.36.0/mapbox-gl.js'></script>
+	<script src="https://rawgit.com/onaio/gisida-js/master/milia-stats-wrappers.js"></script>
+	<script src="./assets/js/gisida.js"></script>
+
+	<!--DASHBOARD CONFIGS-->
+	<script src="./config/app.js"></script>
+	<script src="./config/layers.js"></script>
+	<script src="./config/sectors.js"></script>
+	<script src="./config/styles.js"></script>
+	<script src="./config/locations.js"></script>
+	<script src="./config/summary.js"></script>
+    <script>
+	var options = 
+		{
+			APP: APP,
+			LAYERS: LAYERS,
+			SECTORS: SECTORS,
+			STYLES: STYLES,
+			LOCATIONS: LOCATIONS,
+			SUMMARY: SUMMARY,
+		}
+	var dashboard = new gisida.Dashboard(options);
+	</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+district_id,district,period,target,reached,percent_target,output,instalments,partner,irf_code,ratio_instalment
+R1720070,Afgooye,March,15000,19472,130,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720107,Gaalkacyo,March,12000,7599,63,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720141,Xudur,March,3000,3000,100,1,1,ACF,IRF 4 b,1 out of 1 payments completed
+R1720070,Afgooye,April,15000,24542,164,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720107,Gaalkacyo,April,12000,8750,73,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720141,Xudur,April,3000,3677,123,1,1,ACF,IRF 4 b,1 out of 1 payments completed
+R1720070,Afgooye,May,15000,40165,268,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720107,Gaalkacyo,May,12000,12284,102,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720141,Xudur,May,3000,5677,189,1,1,ACF,IRF 4 b,1 out of 1 payments completed
+R1720070,Afgooye,June,51432,40165,78,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720107,Gaalkacyo,June,15294,12284,80,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720141,Xudur,June,5677,5677,100,1,1,ACF,IRF 4 b,1 out of 1 payments completed
+R1720070,Afgooye,July,51432,51432,100,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720107,Gaalkacyo,July,15294,15294,100,1,N/A,Cesvi,IRF 4 b,N/A out of 1 payments completed
+R1720141,Xudur,July,5677,5677,100,1,1,ACF,IRF 4 b,1 out of 1 payments completed
